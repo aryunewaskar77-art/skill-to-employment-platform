@@ -1,0 +1,602 @@
+[
+  {
+    "employer": "Yohannan, Ganguly and Naik",
+    "district": "Jalgaon",
+    "skill_requirements": "Customer handling and calls",
+    "openings": 1
+  },
+  {
+    "employer": "Nagy and Sons",
+    "district": "Jalgaon",
+    "skill_requirements": "Plumbing maintenance",
+    "openings": 15
+  },
+  {
+    "employer": "Bera, Parmer and Andra",
+    "district": "Solapur",
+    "skill_requirements": "Retail inventory management",
+    "openings": 13
+  },
+  {
+    "employer": "Barman, Sastry and Kamdar",
+    "district": "Nandurbar",
+    "skill_requirements": "pipe fitting and plumbing",
+    "openings": 3
+  },
+  {
+    "employer": "Dhaliwal, Vaidya and Rama",
+    "district": "Pune",
+    "skill_requirements": "Basic electrical repairs",
+    "openings": 17
+  },
+  {
+    "employer": "Rao, Kamdar and Sanghvi",
+    "district": "Chandrapur",
+    "skill_requirements": "inbound customer support",
+    "openings": 4
+  },
+  {
+    "employer": "Varma-Mall",
+    "district": "Dhule",
+    "skill_requirements": "handling store inventory",
+    "openings": 9
+  },
+  {
+    "employer": "Agate-Chander",
+    "district": "Amravati",
+    "skill_requirements": "repairing electrical faults",
+    "openings": 5
+  },
+  {
+    "employer": "Yogi, Ghose and Ganesan",
+    "district": "Dhule",
+    "skill_requirements": "fluent in English and customer service",
+    "openings": 7
+  },
+  {
+    "employer": "Devi-Rajagopal",
+    "district": "Wardha",
+    "skill_requirements": "BPO calling",
+    "openings": 1
+  },
+  {
+    "employer": "Bera, Parmer and Andra",
+    "district": "Ahmednagar",
+    "skill_requirements": "repairing electrical faults",
+    "openings": 8
+  },
+  {
+    "employer": "Master, Mann and Loke",
+    "district": "Chandrapur",
+    "skill_requirements": "Basic electrical repairs",
+    "openings": 1
+  },
+  {
+    "employer": "Khare LLC",
+    "district": "Osmanabad",
+    "skill_requirements": "inbound customer support",
+    "openings": 7
+  },
+  {
+    "employer": "Shankar PLC",
+    "district": "Bhandara",
+    "skill_requirements": "entering data accurately",
+    "openings": 3
+  },
+  {
+    "employer": "Panchal, Walia and Mand",
+    "district": "Palghar",
+    "skill_requirements": "Python data wrangling",
+    "openings": 11
+  },
+  {
+    "employer": "Pall-Chahal",
+    "district": "Latur",
+    "skill_requirements": "Retail inventory management",
+    "openings": 1
+  },
+  {
+    "employer": "Panchal Ltd",
+    "district": "Hingoli",
+    "skill_requirements": "electrician skills",
+    "openings": 13
+  },
+  {
+    "employer": "Yogi LLC",
+    "district": "Satara",
+    "skill_requirements": "Data entry at high speed",
+    "openings": 19
+  },
+  {
+    "employer": "Bera, Parmer and Andra",
+    "district": "Solapur",
+    "skill_requirements": "inventory tracking",
+    "openings": 11
+  },
+  {
+    "employer": "Khare LLC",
+    "district": "Ratnagiri",
+    "skill_requirements": "fluent in English and customer service",
+    "openings": 17
+  },
+  {
+    "employer": "Goswami LLC",
+    "district": "Nandurbar",
+    "skill_requirements": "Customer handling and calls",
+    "openings": 11
+  },
+  {
+    "employer": "Khare LLC",
+    "district": "Amravati",
+    "skill_requirements": "proficient in Python data stack",
+    "openings": 12
+  },
+  {
+    "employer": "Tiwari-Talwar",
+    "district": "Nandurbar",
+    "skill_requirements": "fluent in English and customer service",
+    "openings": 17
+  },
+  {
+    "employer": "Barman, Sastry and Kamdar",
+    "district": "Solapur",
+    "skill_requirements": "electrician skills",
+    "openings": 16
+  },
+  {
+    "employer": "Panchal, Walia and Mand",
+    "district": "Gondia",
+    "skill_requirements": "Retail inventory management",
+    "openings": 7
+  },
+  {
+    "employer": "Suri-Wable",
+    "district": "Jalgaon",
+    "skill_requirements": "handling store inventory",
+    "openings": 2
+  },
+  {
+    "employer": "Bera, Parmer and Andra",
+    "district": "Solapur",
+    "skill_requirements": "inbound customer support",
+    "openings": 14
+  },
+  {
+    "employer": "Dalal-Khalsa",
+    "district": "Thane",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 12
+  },
+  {
+    "employer": "Panchal, Walia and Mand",
+    "district": "Amravati",
+    "skill_requirements": "proficient in MS Excel and data entry",
+    "openings": 16
+  },
+  {
+    "employer": "Pillay, Sha and Sura",
+    "district": "Sangli",
+    "skill_requirements": "Python data wrangling",
+    "openings": 12
+  },
+  {
+    "employer": "Yogi, Ghose and Ganesan",
+    "district": "Jalna",
+    "skill_requirements": "data manipulation in Pandas",
+    "openings": 6
+  },
+  {
+    "employer": "Panchal Ltd",
+    "district": "Aurangabad",
+    "skill_requirements": "fast typing and excel",
+    "openings": 19
+  },
+  {
+    "employer": "Sangha, Gandhi and Dewan",
+    "district": "Kolhapur",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 3
+  },
+  {
+    "employer": "Rao, Kamdar and Sanghvi",
+    "district": "Amravati",
+    "skill_requirements": "Retail inventory management",
+    "openings": 11
+  },
+  {
+    "employer": "Tiwari-Talwar",
+    "district": "Pune",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 12
+  },
+  {
+    "employer": "Gera-Mishra",
+    "district": "Osmanabad",
+    "skill_requirements": "pipe fitting and plumbing",
+    "openings": 1
+  },
+  {
+    "employer": "Bali-Sengupta",
+    "district": "Gadchiroli",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 9
+  },
+  {
+    "employer": "Ramaswamy, Suri and Dhar",
+    "district": "Mumbai City",
+    "skill_requirements": "fixing leaks and pipes",
+    "openings": 2
+  },
+  {
+    "employer": "Malhotra Ltd",
+    "district": "Gondia",
+    "skill_requirements": "entering data accurately",
+    "openings": 19
+  },
+  {
+    "employer": "Yogi, Ghose and Ganesan",
+    "district": "Palghar",
+    "skill_requirements": "stock keeping and retail",
+    "openings": 11
+  },
+  {
+    "employer": "Agate-Chander",
+    "district": "Raigad",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 3
+  },
+  {
+    "employer": "Bera, Parmer and Andra",
+    "district": "Kolhapur",
+    "skill_requirements": "BPO calling",
+    "openings": 13
+  },
+  {
+    "employer": "Pau LLC",
+    "district": "Dhule",
+    "skill_requirements": "data manipulation in Pandas",
+    "openings": 13
+  },
+  {
+    "employer": "Tiwari-Talwar",
+    "district": "Sangli",
+    "skill_requirements": "Customer handling and calls",
+    "openings": 10
+  },
+  {
+    "employer": "Barman, Sastry and Kamdar",
+    "district": "Beed",
+    "skill_requirements": "BPO calling",
+    "openings": 12
+  },
+  {
+    "employer": "Gera-Mishra",
+    "district": "Parbhani",
+    "skill_requirements": "fast typing and excel",
+    "openings": 16
+  },
+  {
+    "employer": "Shankar PLC",
+    "district": "Gadchiroli",
+    "skill_requirements": "fluent in English and customer service",
+    "openings": 19
+  },
+  {
+    "employer": "Barman, Sastry and Kamdar",
+    "district": "Ratnagiri",
+    "skill_requirements": "plumbing installations",
+    "openings": 12
+  },
+  {
+    "employer": "Devi-Rajagopal",
+    "district": "Bhandara",
+    "skill_requirements": "plumbing installations",
+    "openings": 3
+  },
+  {
+    "employer": "Panchal Ltd",
+    "district": "Nanded",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 8
+  },
+  {
+    "employer": "Luthra, Sachdeva and Prashad",
+    "district": "Sangli",
+    "skill_requirements": "proficient in MS Excel and data entry",
+    "openings": 17
+  },
+  {
+    "employer": "Nagy and Sons",
+    "district": "Washim",
+    "skill_requirements": "Data entry at high speed",
+    "openings": 10
+  },
+  {
+    "employer": "Barman, Sastry and Kamdar",
+    "district": "Ratnagiri",
+    "skill_requirements": "inbound customer support",
+    "openings": 10
+  },
+  {
+    "employer": "Khare LLC",
+    "district": "Beed",
+    "skill_requirements": "handling store inventory",
+    "openings": 17
+  },
+  {
+    "employer": "Tiwari-Talwar",
+    "district": "Palghar",
+    "skill_requirements": "Customer handling and calls",
+    "openings": 2
+  },
+  {
+    "employer": "Gera-Mishra",
+    "district": "Akola",
+    "skill_requirements": "plumbing installations",
+    "openings": 14
+  },
+  {
+    "employer": "Bali-Sengupta",
+    "district": "Nandurbar",
+    "skill_requirements": "proficient in Python data stack",
+    "openings": 9
+  },
+  {
+    "employer": "Comar, Pall and Pandey",
+    "district": "Akola",
+    "skill_requirements": "Plumbing maintenance",
+    "openings": 4
+  },
+  {
+    "employer": "Ramaswamy, Suri and Dhar",
+    "district": "Chandrapur",
+    "skill_requirements": "fast typing and excel",
+    "openings": 6
+  },
+  {
+    "employer": "Shankar Inc",
+    "district": "Ratnagiri",
+    "skill_requirements": "inbound customer support",
+    "openings": 10
+  },
+  {
+    "employer": "Master, Mann and Loke",
+    "district": "Chandrapur",
+    "skill_requirements": "repairing electrical faults",
+    "openings": 20
+  },
+  {
+    "employer": "Balasubramanian and Sons",
+    "district": "Kolhapur",
+    "skill_requirements": "wiring and electrical troubleshooting",
+    "openings": 6
+  },
+  {
+    "employer": "Agate-Chander",
+    "district": "Nandurbar",
+    "skill_requirements": "Python data wrangling",
+    "openings": 14
+  },
+  {
+    "employer": "Pau LLC",
+    "district": "Mumbai City",
+    "skill_requirements": "plumbing installations",
+    "openings": 4
+  },
+  {
+    "employer": "Dhaliwal, Vaidya and Rama",
+    "district": "Gadchiroli",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 13
+  },
+  {
+    "employer": "Agate-Chander",
+    "district": "Amravati",
+    "skill_requirements": "entering data accurately",
+    "openings": 20
+  },
+  {
+    "employer": "Yogi LLC",
+    "district": "Nagpur",
+    "skill_requirements": "fixing leaks and pipes",
+    "openings": 3
+  },
+  {
+    "employer": "Khare LLC",
+    "district": "Mumbai City",
+    "skill_requirements": "handling store inventory",
+    "openings": 4
+  },
+  {
+    "employer": "Borra-Chander",
+    "district": "Nashik",
+    "skill_requirements": "Python data wrangling",
+    "openings": 7
+  },
+  {
+    "employer": "Nagy and Sons",
+    "district": "Sangli",
+    "skill_requirements": "BPO calling",
+    "openings": 14
+  },
+  {
+    "employer": "Jhaveri Inc",
+    "district": "Nashik",
+    "skill_requirements": "Data entry at high speed",
+    "openings": 10
+  },
+  {
+    "employer": "Goswami LLC",
+    "district": "Gadchiroli",
+    "skill_requirements": "inbound customer support",
+    "openings": 1
+  },
+  {
+    "employer": "Dhaliwal, Vaidya and Rama",
+    "district": "Sangli",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 16
+  },
+  {
+    "employer": "Pau LLC",
+    "district": "Gondia",
+    "skill_requirements": "BPO calling",
+    "openings": 7
+  },
+  {
+    "employer": "Yohannan, Ganguly and Naik",
+    "district": "Nagpur",
+    "skill_requirements": "Basic electrical repairs",
+    "openings": 11
+  },
+  {
+    "employer": "Gera-Mishra",
+    "district": "Bhandara",
+    "skill_requirements": "pandas and python scripting",
+    "openings": 16
+  },
+  {
+    "employer": "Master, Mann and Loke",
+    "district": "Yavatmal",
+    "skill_requirements": "entering data accurately",
+    "openings": 2
+  },
+  {
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "district": "Amravati",
+    "skill_requirements": "inbound customer support",
+    "openings": 8
+  },
+  {
+    "employer": "Suri-Wable",
+    "district": "Washim",
+    "skill_requirements": "Data entry at high speed",
+    "openings": 14
+  },
+  {
+    "employer": "Sawhney, Suresh and Ganesh",
+    "district": "Yavatmal",
+    "skill_requirements": "Plumbing maintenance",
+    "openings": 9
+  },
+  {
+    "employer": "Comar, Loyal and Peri",
+    "district": "Gadchiroli",
+    "skill_requirements": "Data entry at high speed",
+    "openings": 16
+  },
+  {
+    "employer": "Nagy and Sons",
+    "district": "Latur",
+    "skill_requirements": "plumbing installations",
+    "openings": 14
+  },
+  {
+    "employer": "Dhaliwal, Vaidya and Rama",
+    "district": "Jalna",
+    "skill_requirements": "data manipulation in Pandas",
+    "openings": 16
+  },
+  {
+    "employer": "Chaudry-Kota",
+    "district": "Jalgaon",
+    "skill_requirements": "wiring and electrical troubleshooting",
+    "openings": 19
+  },
+  {
+    "employer": "Balasubramanian and Sons",
+    "district": "Chandrapur",
+    "skill_requirements": "fast typing and excel",
+    "openings": 10
+  },
+  {
+    "employer": "Varma-Mall",
+    "district": "Hingoli",
+    "skill_requirements": "proficient in MS Excel and data entry",
+    "openings": 12
+  },
+  {
+    "employer": "Dhaliwal, Vaidya and Rama",
+    "district": "Dhule",
+    "skill_requirements": "fluent in English and customer service",
+    "openings": 3
+  },
+  {
+    "employer": "Pall-Chahal",
+    "district": "Satara",
+    "skill_requirements": "fast typing and excel",
+    "openings": 7
+  },
+  {
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "district": "Amravati",
+    "skill_requirements": "Retail inventory management",
+    "openings": 14
+  },
+  {
+    "employer": "Swamy-Sagar",
+    "district": "Ahmednagar",
+    "skill_requirements": "BPO calling",
+    "openings": 18
+  },
+  {
+    "employer": "Pau LLC",
+    "district": "Latur",
+    "skill_requirements": "proficient in Python data stack",
+    "openings": 12
+  },
+  {
+    "employer": "Dhaliwal, Vaidya and Rama",
+    "district": "Kolhapur",
+    "skill_requirements": "Data entry at high speed",
+    "openings": 3
+  },
+  {
+    "employer": "Barman, Sastry and Kamdar",
+    "district": "Pune",
+    "skill_requirements": "wiring and electrical troubleshooting",
+    "openings": 4
+  },
+  {
+    "employer": "Mani-Dey",
+    "district": "Amravati",
+    "skill_requirements": "fixing leaks and pipes",
+    "openings": 11
+  },
+  {
+    "employer": "Rao, Kamdar and Sanghvi",
+    "district": "Thane",
+    "skill_requirements": "electrician skills",
+    "openings": 5
+  },
+  {
+    "employer": "Panchal Ltd",
+    "district": "Sindhudurg",
+    "skill_requirements": "Data entry at high speed",
+    "openings": 15
+  },
+  {
+    "employer": "Shanker, Parmar and Bhatnagar",
+    "district": "Pune",
+    "skill_requirements": "Customer handling and calls",
+    "openings": 20
+  },
+  {
+    "employer": "Gera-Mishra",
+    "district": "Yavatmal",
+    "skill_requirements": "Plumbing maintenance",
+    "openings": 17
+  },
+  {
+    "employer": "Dhaliwal, Vaidya and Rama",
+    "district": "Pune",
+    "skill_requirements": "data manipulation in Pandas",
+    "openings": 12
+  },
+  {
+    "employer": "Pillay, Sha and Sura",
+    "district": "Jalna",
+    "skill_requirements": "inventory tracking",
+    "openings": 17
+  }
+]
