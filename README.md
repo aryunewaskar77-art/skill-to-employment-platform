@@ -1,56 +1,11 @@
 # Skill-to-Employment Intelligence Platform
 
-This repository is a monorepo for the hackathon prototype.
+This project is a comprehensive Skill-to-Employment Intelligence Platform prototype developed for the hackathon. It is designed to analyze user skills and match them with employment opportunities using synthetic data generation and local vector search capabilities.
 
-## Structure
-- `/backend`: FastAPI backend (Python 3.11).
-- `/frontend`: Next.js 14 frontend (TypeScript, Tailwind).
-- `/data`: Synthetic data generation scripts.
-- `/infra`: Docker compose for bringing up the whole stack.
-- `/docs`: Architecture and design notes.
+## Features
 
-## Requirements
-- Docker and Docker Compose
-- Python 3.11 (if running locally without Docker)
-- Node.js 18+ (if running locally without Docker)
-
-## How to Run
-
-1. **Database Setup (Local PostgreSQL)**
-   We use a local PostgreSQL database with the `pgvector` extension.
-   
-   If you're on a Mac, you can set it up using Homebrew:
-   ```bash
-   brew install postgresql@16
-   brew services start postgresql@16
-   
-   # Create the database
-   createdb sih_platform
-   
-   # Connect to the database and enable pgvector
-   psql -d sih_platform -c "CREATE EXTENSION vector;"
-   ```
-
-   Make sure the `.env` file exists at the root of the project with the `DATABASE_URL`:
-   ```env
-   DATABASE_URL="postgresql://localhost:5432/sih_platform"
-   ```
-
-   *(Note: If you run the backend inside Docker via `docker-compose`, change `localhost` to `host.docker.internal` in the `.env` file so the container can reach your Mac's local database).*
-
-2. **Start the Platform with Docker Compose**
-   ```bash
-   cd infra
-   docker-compose up --build
-   ```
-   
-   This will bring up:
-   - **Backend API**: `http://localhost:8000` (Healthcheck: `/health`)
-   - **Frontend App**: `http://localhost:3000`
-
-2. **Generate Synthetic Data** (Optional)
-   If you want to generate the sample JSON/CSV files locally:
-   ```bash
-   cd data
-   python generate_synthetic_data.py
-   ```
+- **Skill & Employment Matching**: Analyzes user skill sets to identify gaps and match candidates with the right job opportunities.
+- **Modern Tech Stack**: Built with a robust FastAPI (Python) backend and a responsive Next.js 14 (TypeScript, Tailwind CSS) frontend.
+- **Advanced Search**: Utilizes PostgreSQL with the `pgvector` extension for efficient vector-based similarity searches.
+- **Synthetic Data Generation**: Includes specialized scripts to generate realistic synthetic data for thorough testing and simulation.
+- **Containerized Infrastructure**: Fully Dockerized setup (using Docker Compose) for seamless local deployment and scaling.
