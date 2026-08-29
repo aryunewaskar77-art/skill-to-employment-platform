@@ -1,26 +1,12 @@
 "use client";
 
 import { useState, useEffect } from 'react';
+import Link from 'next/link';
 
 const API_BASE = 'http://localhost:8000';
 
-export default function Dashboard() {
+export default function LandingPage() {
   const [summary, setSummary] = useState<any>(null);
-  const [candidateId, setCandidateId] = useState('');
-  const [timeline, setTimeline] = useState<any>(null);
-  const [timelineError, setTimelineError] = useState('');
-  
-  const [district, setDistrict] = useState('Mumbai City'); // Default
-  const [skillGap, setSkillGap] = useState<any>(null);
-
-  const districts = [
-    "Mumbai City", "Mumbai Suburban", "Thane", "Palghar", "Raigad", "Ratnagiri", "Sindhudurg",
-    "Pune", "Satara", "Sangli", "Solapur", "Kolhapur",
-    "Nashik", "Dhule", "Jalgaon", "Ahmednagar", "Nandurbar",
-    "Aurangabad", "Jalna", "Beed", "Osmanabad", "Nanded", "Latur", "Parbhani", "Hingoli",
-    "Nagpur", "Wardha", "Bhandara", "Gondia", "Chandrapur", "Gadchiroli",
-    "Amravati", "Akola", "Washim", "Buldhana", "Yavatmal"
-  ];
 
   useEffect(() => {
     fetch(`${API_BASE}/dashboard/state-summary`)
@@ -29,310 +15,155 @@ export default function Dashboard() {
       .catch(err => console.error("Error fetching summary:", err));
   }, []);
 
-  useEffect(() => {
-    if (district) {
-      fetch(`${API_BASE}/skill-gap/${district}`)
-        .then(res => res.json())
-        .then(data => setSkillGap(data))
-        .catch(err => console.error("Error fetching skill gap:", err));
-    }
-  }, [district]);
-
-  const [searchQuery, setSearchQuery] = useState('');
-  const [searchResults, setSearchResults] = useState<any[]>([]);
-  const [isSearching, setIsSearching] = useState(false);
-  const [selectedCandidateId, setSelectedCandidateId] = useState('');
-
-  useEffect(() => {
-    if (!searchQuery.trim() || searchQuery.length < 2) {
-      setSearchResults([]);
-      return;
-    }
-    
-    const timeoutId = setTimeout(() => {
-      setIsSearching(true);
-      fetch(`${API_BASE}/candidates/search?q=${encodeURIComponent(searchQuery)}`)
-        .then(res => res.json())
-        .then(data => {
-          setSearchResults(data);
-          setIsSearching(false);
-        })
-        .catch(err => {
-          console.error("Search error:", err);
-          setIsSearching(false);
-        });
-    }, 300);
-
-    return () => clearTimeout(timeoutId);
-  }, [searchQuery]);
-
-  const fetchTimeline = (id: string) => {
-    setTimelineError('');
-    setTimeline(null);
-    if (!id) return;
-
-    fetch(`${API_BASE}/candidates/${id}/timeline`)
-      .then(res => {
-        if (!res.ok) throw new Error("Candidate not found");
-        return res.json();
-      })
-      .then(data => setTimeline(data))
-      .catch(err => setTimelineError(err.message));
-  };
-
-  const [activeTab, setActiveTab] = useState('overview');
-
   return (
-    <div className="min-h-screen bg-gray-50 text-gray-900 p-8 font-sans">
-      <div className="max-w-6xl mx-auto">
-        <header className="mb-8 border-b pb-4">
-          <h1 className="text-3xl font-bold text-gray-800 mb-6">Skill-to-Employment Intelligence Platform</h1>
+    <div className="min-h-screen bg-gray-50 text-gray-900 font-sans flex flex-col">
+      <main className="flex-1">
+        {/* 1. Hero Section */}
+        <section className="bg-gradient-to-b from-teal-50 via-white to-white border-b py-24 px-8 text-center relative overflow-hidden">
+          {/* Subtle decorative background blur */}
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-full h-full max-w-5xl opacity-30 pointer-events-none">
+            <div className="absolute -top-24 -left-24 w-96 h-96 bg-teal-200 rounded-full mix-blend-multiply filter blur-3xl"></div>
+            <div className="absolute top-12 -right-24 w-96 h-96 bg-emerald-100 rounded-full mix-blend-multiply filter blur-3xl"></div>
+          </div>
+          <div className="max-w-4xl mx-auto relative z-10">
+            <div className="inline-block px-4 py-1.5 bg-teal-100 text-teal-700 rounded-full text-xs font-bold tracking-wider mb-8 uppercase">
+              Team OMNITRIX · Smart India Hackathon 2026 · PS 26135
+            </div>
+            <h1 className="text-5xl md:text-6xl font-extrabold text-gray-900 mb-6 tracking-tight leading-tight">
+              Skill-to-Employment <br /> Intelligence Platform
+            </h1>
+            <p className="text-xl text-gray-600 mb-10 max-w-3xl mx-auto leading-relaxed">
+              We don't just track how many people were trained — we track what happened to them, why it happened, and what the government should change next.
+            </p>
+            <Link href="/dashboard" className="inline-block px-8 py-4 bg-teal-600 text-white text-lg font-bold rounded-lg shadow-lg hover:bg-teal-700 hover:shadow-xl transition transform hover:-translate-y-0.5">
+              Enter Dashboard
+            </Link>
+            
+            <div className="mt-12 grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto text-left">
+              <Link href="/dashboard?tab=overview" className="p-6 bg-white border border-teal-100 rounded-xl shadow-sm hover:shadow-md hover:border-teal-300 transition group flex flex-col items-start h-full">
+                <div className="flex items-center gap-3 mb-3 text-teal-800 font-bold text-lg">
+                  <span className="text-2xl group-hover:scale-110 transition-transform">📊</span>
+                  State Overview
+                </div>
+                <p className="text-gray-600 text-sm leading-relaxed mb-6">
+                  Real-time aggregation of statewide skilling metrics tracking enrollment, certification, and verified employment rates.
+                </p>
+                <div className="mt-auto inline-flex items-center px-4 py-2 bg-teal-50 text-teal-700 font-semibold text-sm rounded-lg group-hover:bg-teal-100 transition">
+                  View Dashboard <span className="ml-2 group-hover:translate-x-1 transition-transform">&rarr;</span>
+                </div>
+              </Link>
+              <Link href="/dashboard?tab=timeline" className="p-6 bg-white border border-teal-100 rounded-xl shadow-sm hover:shadow-md hover:border-teal-300 transition group flex flex-col items-start h-full">
+                <div className="flex items-center gap-3 mb-3 text-teal-800 font-bold text-lg">
+                  <span className="text-2xl group-hover:scale-110 transition-transform">⏳</span>
+                  Candidate Timeline
+                </div>
+                <p className="text-gray-600 text-sm leading-relaxed mb-6">
+                  Search individual candidate journeys across disjointed databases to track true longitudinal employment outcomes.
+                </p>
+                <div className="mt-auto inline-flex items-center px-4 py-2 bg-teal-50 text-teal-700 font-semibold text-sm rounded-lg group-hover:bg-teal-100 transition">
+                  View Timeline <span className="ml-2 group-hover:translate-x-1 transition-transform">&rarr;</span>
+                </div>
+              </Link>
+              <Link href="/dashboard?tab=skillgap" className="p-6 bg-white border border-teal-100 rounded-xl shadow-sm hover:shadow-md hover:border-teal-300 transition group flex flex-col items-start h-full">
+                <div className="flex items-center gap-3 mb-3 text-teal-800 font-bold text-lg">
+                  <span className="text-2xl group-hover:scale-110 transition-transform">🎯</span>
+                  Skill Gap Analysis
+                </div>
+                <p className="text-gray-600 text-sm leading-relaxed mb-6">
+                  District-level mapping of certified candidate supply against verified industry demand to identify critical labor shortages.
+                </p>
+                <div className="mt-auto inline-flex items-center px-4 py-2 bg-teal-50 text-teal-700 font-semibold text-sm rounded-lg group-hover:bg-teal-100 transition">
+                  View Analysis <span className="ml-2 group-hover:translate-x-1 transition-transform">&rarr;</span>
+                </div>
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* 2. Problem Framing Section */}
+        <section className="py-20 px-8 bg-gray-50">
+          <div className="max-w-4xl mx-auto text-center">
+            <h2 className="text-2xl font-bold text-gray-800 mb-10">The Paradigm Shift</h2>
+            <div className="flex flex-col items-center justify-center gap-6 max-w-3xl mx-auto">
+              <div className="text-lg text-gray-400 font-medium p-6 border border-gray-200 rounded-xl bg-gray-100 w-full">
+                <span className="block text-sm uppercase tracking-wider mb-3 text-gray-500 font-semibold">Current Scope</span>
+                enrolled &rarr; trained &rarr; certified
+              </div>
+              <div className="text-gray-500 font-black text-xl">VS</div>
+              <div className="text-xl text-teal-700 font-bold p-6 border-2 border-teal-200 rounded-xl bg-teal-50 shadow-sm w-full">
+                <span className="block text-sm uppercase tracking-wider mb-3 text-teal-600 font-semibold">Our Platform</span>
+                trained &rarr; employed &rarr; retained &rarr; earning &rarr; progressing
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* 3. Live Stats Strip (Premium Standout) */}
+        <section className="py-20 px-8 relative overflow-hidden bg-slate-900 text-white">
+          {/* Glowing orb background effects */}
+          <div className="absolute inset-0 overflow-hidden pointer-events-none">
+            <div className="absolute -top-1/2 -left-1/4 w-[800px] h-[800px] rounded-full bg-teal-500 opacity-20 blur-[120px] mix-blend-screen"></div>
+            <div className="absolute -bottom-1/2 -right-1/4 w-[600px] h-[600px] rounded-full bg-emerald-500 opacity-20 blur-[100px] mix-blend-screen"></div>
+          </div>
           
-          <nav className="flex space-x-2">
-            <button 
-              onClick={() => setActiveTab('overview')}
-              className={`px-5 py-2 rounded-t-lg font-medium transition ${activeTab === 'overview' ? 'bg-white text-blue-600 border-t border-l border-r border-gray-200 shadow-sm' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
-            >
-              State Overview
-            </button>
-            <button 
-              onClick={() => setActiveTab('timeline')}
-              className={`px-5 py-2 rounded-t-lg font-medium transition ${activeTab === 'timeline' ? 'bg-white text-blue-600 border-t border-l border-r border-gray-200 shadow-sm' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
-            >
-              Candidate Timeline
-            </button>
-            <button 
-              onClick={() => setActiveTab('skillgap')}
-              className={`px-5 py-2 rounded-t-lg font-medium transition ${activeTab === 'skillgap' ? 'bg-white text-blue-600 border-t border-l border-r border-gray-200 shadow-sm' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
-            >
-              Skill Gap Analysis
-            </button>
-          </nav>
-        </header>
-
-        <div className="mt-4">
-          {/* View 1: State Overview */}
-          {activeTab === 'overview' && (
-            <section className="animate-in fade-in duration-300">
-              <h2 className="text-2xl font-semibold mb-4 text-gray-700">State Overview</h2>
-              {summary ? (
-                <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
-                  {['enrolled', 'trained', 'certified', 'placed', 'verified_employed'].map((k) => (
-                    <div key={k} className="bg-white p-6 rounded-lg shadow border border-gray-100 flex flex-col items-center">
-                      <span className="text-sm text-gray-500 uppercase tracking-wide font-medium">{k.replace('_', ' ')}</span>
-                      <span className="text-4xl font-bold text-blue-600 mt-2">{summary[k] || 0}</span>
-                    </div>
-                  ))}
+          <div className="max-w-5xl mx-auto text-center relative z-10 border border-teal-500/20 bg-white/5 backdrop-blur-md rounded-3xl p-12 shadow-2xl">
+            <h2 className="text-sm uppercase tracking-widest font-bold text-teal-400 mb-10 flex items-center justify-center gap-2">
+              <span className="w-2 h-2 rounded-full bg-red-500 animate-pulse"></span> Live Platform Metrics
+            </h2>
+            
+            {summary ? (
+              <div className="flex flex-col md:flex-row justify-center items-center gap-12 md:gap-24">
+                <div className="flex-1">
+                  <div className="text-6xl font-black mb-3 text-white drop-shadow-lg">{summary.enrolled || 0}</div>
+                  <div className="text-teal-200 font-medium tracking-wider uppercase text-sm">Candidates Enrolled</div>
                 </div>
-              ) : (
-                <p className="text-gray-500">Loading summary...</p>
-              )}
-            </section>
-          )}
-
-          {/* View 2: Candidate Timeline View */}
-          {activeTab === 'timeline' && (
-            <section className="animate-in fade-in duration-300">
-              <h2 className="text-2xl font-semibold mb-4 text-gray-700">Candidate Journey Timeline</h2>
-              <div className="bg-white p-6 rounded-lg shadow border border-gray-100">
-                <div className="relative mb-8">
-                  <form 
-                    className="flex gap-4"
-                    onSubmit={(e) => {
-                      e.preventDefault();
-                      fetchTimeline(selectedCandidateId || searchQuery);
-                      setSearchResults([]);
-                    }}
-                  >
-                    <div className="relative flex-1">
-                      <input 
-                        type="text" 
-                        placeholder="Search candidate by name..." 
-                        value={searchQuery}
-                        onChange={(e) => {
-                          setSearchQuery(e.target.value);
-                          setSelectedCandidateId(''); // Reset exact ID if typing
-                        }}
-                        className="w-full p-2 border border-gray-300 rounded shadow-sm focus:ring-blue-500 focus:border-blue-500"
-                      />
-                      {isSearching && <span className="absolute right-4 top-3 text-sm text-gray-400">Searching...</span>}
-                      
-                      {searchResults.length > 0 && (
-                        <ul className="absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded shadow-lg max-h-60 overflow-y-auto">
-                          {searchResults.map(c => (
-                            <li 
-                              key={c.id} 
-                              onClick={() => {
-                                setSearchQuery(c.name);
-                                setSelectedCandidateId(c.id);
-                                setSearchResults([]);
-                                fetchTimeline(c.id); // Auto-fetch on click for convenience
-                              }}
-                              className="p-3 hover:bg-blue-50 cursor-pointer border-b last:border-b-0"
-                            >
-                              <div className="font-medium text-gray-800">{c.name}</div>
-                              <div className="text-xs text-gray-500">{c.district} • {c.phone}</div>
-                            </li>
-                          ))}
-                        </ul>
-                      )}
-                    </div>
-                    <button type="submit" className="px-6 py-2 bg-blue-600 text-white font-medium rounded shadow hover:bg-blue-700 transition">
-                      Search
-                    </button>
-                  </form>
+                <div className="hidden md:block w-px h-24 bg-gradient-to-b from-transparent via-teal-500/50 to-transparent"></div>
+                <div className="flex-1">
+                  <div className="text-6xl font-black mb-3 text-white drop-shadow-lg">{summary.certified || 0}</div>
+                  <div className="text-teal-200 font-medium tracking-wider uppercase text-sm">Candidates Certified</div>
                 </div>
-
-                {timelineError && <p className="text-red-500">{timelineError}</p>}
-
-                {timeline && (
-                  <div className="space-y-6 relative before:absolute before:inset-0 before:ml-5 before:-translate-x-px md:before:mx-5 before:h-full before:w-0.5 before:bg-gradient-to-b before:from-transparent before:via-slate-300 before:to-transparent">
-                    <div className="text-center mb-6">
-                      <h3 className="text-xl font-bold text-gray-800">{timeline.candidate?.name}</h3>
-                      <p className="text-gray-500">{timeline.candidate?.district} • {timeline.candidate?.phone}</p>
-                    </div>
-                    
-                    {timeline.timeline?.slice().sort((a: any, b: any) => {
-                      const rankMap: Record<string, number> = {
-                        enrolled: 1, trained: 2, certified: 3, placed: 4, verified_employed: 5, retained_3m: 6, retained_6m: 7, retained_12m: 8
-                      };
-                      const rankA = rankMap[a.event_type] || 99;
-                      const rankB = rankMap[b.event_type] || 99;
-                      if (rankA !== rankB) return rankA - rankB;
-                      const dateA = a.event_date ? new Date(a.event_date).getTime() : 0;
-                      const dateB = b.event_date ? new Date(b.event_date).getTime() : 0;
-                      return dateA - dateB;
-                    }).map((event: any, idx: number) => {
-                      const renderPayload = () => {
-                        const p = event.raw_payload || {};
-                        switch(event.event_type) {
-                          case 'enrolled':
-                            return <span>Enrolled in <strong className="text-gray-800">{p.course}</strong> (Batch {p.batch_id?.replace('BATCH_', '')})</span>;
-                          case 'trained':
-                            return <span>Completed training — <strong className="text-gray-800">{p.attendance_pct}%</strong> attendance, <strong className="text-gray-800">{p.assessment_score}</strong> assessment score</span>;
-                          case 'certified':
-                            return <span>Certified — NSQF Level <strong className="text-gray-800">{p.nsqf_level}</strong>, Occupation Code <strong className="text-gray-800">{p.occupation_code}</strong></span>;
-                          case 'placed':
-                            return <span>Placed at <strong className="text-gray-800">{p.employer}</strong> as <strong className="text-gray-800">{p.job_role}</strong></span>;
-                          case 'verified_employed':
-                            return <span>Verified employed at <strong className="text-gray-800">{p.employer}</strong> as <strong className="text-gray-800">{p.job_role}</strong>, wage band <strong className="text-gray-800">{p.wage_band}</strong></span>;
-                          case 'retained_3m':
-                            return <span>Retained for 3 months at <strong className="text-gray-800">{p.employer}</strong></span>;
-                          case 'retained_6m':
-                            return <span>Retained for 6 months at <strong className="text-gray-800">{p.employer}</strong></span>;
-                          case 'retained_12m':
-                            return <span>Retained for 12 months at <strong className="text-gray-800">{p.employer}</strong></span>;
-                          default:
-                            return <span className="text-gray-500 italic">No additional details recorded.</span>;
-                        }
-                      };
-
-                      return (
-                        <div key={idx} className="relative flex items-center justify-start group">
-                          <div className="flex items-center justify-center w-10 h-10 rounded-full border border-white bg-blue-100 text-blue-600 shadow shrink-0 z-10">
-                            <span className="text-xs font-bold">{idx + 1}</span>
-                          </div>
-                          
-                          <div className="w-[calc(100%-4rem)] ml-6 p-4 rounded-lg bg-gray-50 border border-gray-200 shadow">
-                            <div className="flex items-center justify-between mb-2">
-                              <span className="font-bold text-gray-800 capitalize">{event.event_type.replace('_', ' ')}</span>
-                              <span className="text-xs font-medium text-gray-500">{event.event_date || 'N/A'}</span>
-                            </div>
-                            
-                            {event.status && event.status !== 'unknown' && (
-                              <div className="border-b pb-3 mb-3">
-                                <span className={`inline-block px-2 py-0.5 rounded text-xs font-medium capitalize border ${
-                                  event.status.toLowerCase().includes('verified') ? 'bg-green-50 text-green-700 border-green-200' 
-                                  : 'bg-blue-50 text-blue-700 border-blue-200'
-                                }`}>
-                                  {event.status.replace('_', ' ')}
-                                </span>
-                              </div>
-                            )}
-
-                            <div className="text-sm text-gray-700">
-                              {renderPayload()}
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    })}
-                  </div>
-                )}
+                <div className="hidden md:block w-px h-24 bg-gradient-to-b from-transparent via-teal-500/50 to-transparent"></div>
+                <div className="flex-1">
+                  <div className="text-6xl font-black mb-3 text-emerald-400 drop-shadow-lg">{summary.verified_employed || 0}</div>
+                  <div className="text-emerald-100 font-bold tracking-wider uppercase text-sm">Verified Employed</div>
+                </div>
               </div>
-            </section>
-          )}
+            ) : (
+              <div className="text-teal-200 animate-pulse text-lg py-8">Connecting to live data stream...</div>
+            )}
+          </div>
+        </section>
 
-          {/* View 3: Skill-gap View */}
-          {activeTab === 'skillgap' && (
-            <section className="animate-in fade-in duration-300">
-              <h2 className="text-2xl font-semibold mb-4 text-gray-700">District Skill Gap Analysis</h2>
-              <div className="bg-white p-6 rounded-lg shadow border border-gray-100">
-                <div className="mb-6">
-                  <label className="block text-sm font-medium text-gray-700 mb-2">Select District</label>
-                  <select 
-                    value={district} 
-                    onChange={(e) => setDistrict(e.target.value)}
-                    className="w-full md:w-64 p-2 border border-gray-300 rounded shadow-sm focus:ring-blue-500 focus:border-blue-500"
-                  >
-                    {districts.map(d => <option key={d} value={d}>{d}</option>)}
-                  </select>
-                </div>
-
-                {skillGap ? (
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-                    <div>
-                      <h3 className="text-lg font-semibold text-red-600 mb-3 border-b pb-2">Top Shortages (Demand &gt; Supply)</h3>
-                      {skillGap.top_shortages?.length > 0 ? (
-                        <ul className="space-y-3">
-                          {skillGap.top_shortages.map((s: any) => (
-                            <li key={s.occupation_code} className="flex justify-between items-center p-3 bg-red-50 rounded border border-red-100">
-                              <div>
-                                <span className="font-medium">{s.description}</span>
-                                <span className="text-xs text-gray-500 ml-2">({s.occupation_code})</span>
-                              </div>
-                              <div className="text-right">
-                                <span className="block font-bold text-red-700">Gap: {s.gap}</span>
-                                <span className="text-xs text-gray-600">S: {s.supply} | D: {s.demand}</span>
-                              </div>
-                            </li>
-                          ))}
-                        </ul>
-                      ) : (
-                        <p className="text-gray-500 text-sm">No significant shortages found.</p>
-                      )}
-                    </div>
-
-                    <div>
-                      <h3 className="text-lg font-semibold text-green-600 mb-3 border-b pb-2">Top Surpluses (Supply &gt; Demand)</h3>
-                      {skillGap.top_surpluses?.length > 0 ? (
-                        <ul className="space-y-3">
-                          {skillGap.top_surpluses.map((s: any) => (
-                            <li key={s.occupation_code} className="flex justify-between items-center p-3 bg-green-50 rounded border border-green-100">
-                              <div>
-                                <span className="font-medium">{s.description}</span>
-                                <span className="text-xs text-gray-500 ml-2">({s.occupation_code})</span>
-                              </div>
-                              <div className="text-right">
-                                <span className="block font-bold text-green-700">Surplus: {Math.abs(s.gap)}</span>
-                                <span className="text-xs text-gray-600">S: {s.supply} | D: {s.demand}</span>
-                              </div>
-                            </li>
-                          ))}
-                        </ul>
-                      ) : (
-                        <p className="text-gray-500 text-sm">No significant surpluses found.</p>
-                      )}
-                    </div>
+        {/* 4. Four Core Engines */}
+        <section className="py-20 px-8 bg-white border-b border-gray-200">
+          <div className="max-w-6xl mx-auto">
+            <h2 className="text-3xl font-bold text-center text-gray-800 mb-12">Core Platform Engines</h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+              {[
+                { title: "Unified Data Layer", desc: "Automated identity resolution linking disjointed skill databases." },
+                { title: "Candidate Outcome Engine", desc: "Longitudinal tracking of every candidate's journey from training to sustained employment." },
+                { title: "Skill Intelligence Engine", desc: "Real-time mapping of certified supply against industry demand by district." },
+                { title: "Decision Intelligence", desc: "ML-driven propensity models and actionable policy recommendations." }
+              ].map((engine, idx) => (
+                <div key={idx} className="p-8 bg-gray-50 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition">
+                  <div className="w-12 h-12 bg-teal-100 text-teal-700 rounded-lg flex items-center justify-center mb-6 font-bold text-xl shadow-inner">
+                    {idx + 1}
                   </div>
-                ) : (
-                  <p className="text-gray-500">Loading skill gap data...</p>
-                )}
-              </div>
-            </section>
-          )}
+                  <h3 className="text-lg font-bold text-gray-900 mb-3">{engine.title}</h3>
+                  <p className="text-gray-600 text-sm leading-relaxed">{engine.desc}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+      </main>
+
+      {/* 5. Footer */}
+      <footer className="bg-gray-900 text-gray-400 py-12 px-8 text-center">
+        <div className="max-w-4xl mx-auto">
+          <p className="text-sm text-gray-500">&copy; 2026 Team OMNITRIX. Built for Smart India Hackathon (PS 26135).</p>
         </div>
-      </div>
+      </footer>
     </div>
   );
 }

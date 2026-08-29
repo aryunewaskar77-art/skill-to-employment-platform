@@ -6,19 +6,23 @@ import models
 router = APIRouter(prefix="/candidates", tags=["candidates"])
 
 @router.get("/search")
-def search_candidates(q: str, db: Session = Depends(get_db)):
+def search_candidates(q: str = "", db: Session = Depends(get_db)):
     """
     Search candidates by name using partial match.
     """
-    if not q or len(q.strip()) < 2:
-        return []
-        
-    candidates = (
-        db.query(models.MasterCandidate)
-        .filter(models.MasterCandidate.name.ilike(f"%{q}%"))
-        .limit(10)
-        .all()
-    )
+    if q and len(q.strip()) > 0:
+        candidates = (
+            db.query(models.MasterCandidate)
+            .filter(models.MasterCandidate.name.ilike(f"%{q}%"))
+            .limit(100)
+            .all()
+        )
+    else:
+        candidates = (
+            db.query(models.MasterCandidate)
+            .limit(100)
+            .all()
+        )
     
     results = []
     for c in candidates:

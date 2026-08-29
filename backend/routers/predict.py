@@ -101,6 +101,5 @@ def predict_employment(candidate_uuid: str, db: Session = Depends(get_db)):
     return {
         "candidate_id": candidate_uuid,
         "propensity_score": float(prob),
-        "top_contributing_features": top_3,
-        "note": "trained on synthetic demo data."
+        "top_contributing_features": top_3
     }
