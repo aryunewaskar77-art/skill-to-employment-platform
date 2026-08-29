@@ -144,9 +144,23 @@ def generate_datasets():
     employment = []
     employers = [fake.company() for _ in range(50)]
     
+    cert_candidate_ids = {c["candidate_id"] for c in certifications}
+    
     for c in candidates:
-        # About 60% got placed
-        if random.random() > 0.4:
+        # Weight placement probability by their scores to create real correlation
+        att = c.get('attendance_pct', 75.0)
+        score = c.get('assessment_score', 65.0)
+        
+        att_norm = max(0, min(1, (att - 50) / 50.0))
+        score_norm = max(0, min(1, (score - 40) / 55.0))
+        
+        prob = 0.1 + (att_norm * 0.35) + (score_norm * 0.45)
+        
+        # Boost if they actually got certified
+        if c["candidate_id"] in cert_candidate_ids:
+            prob += 0.1
+            
+        if random.random() < prob:
             employment.append({
                 "candidate_id": c["candidate_id"],
                 "employer": random.choice(employers),

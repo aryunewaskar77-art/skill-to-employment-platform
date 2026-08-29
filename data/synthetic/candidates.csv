@@ -1,541 +1,541 @@
 candidate_id,name,dob,phone,district,course,batch_id,attendance_pct,assessment_score
-a7d93cea-7623-418f-8fb6-f09e6a2fffbb,Tanmayi Dhillon,1991-05-26,6582897882,Nashik,Customer Care Executive,BATCH_8792,75.07,92.67
-1335e471-4f92-48ee-8edb-1a55bea30cd9,Tejas Kota,1999-09-16,8705855162,Palghar,Python Developer,BATCH_2584,54.29,58.91
-0985b663-d3d5-4083-92a5-cb88ce934e86,Sanaya Dutt,2001-06-25,7385220694,Sangli,Retail Sales Associate,BATCH_1977,58.3,56.92
-6198fe1d-4a15-48af-b111-376dc5d41c65,Dalbir Shere,1999-07-01,9113275526,Washim,Field Technician,BATCH_2843,70.72,48.15
-2f6b24bf-b459-4dc9-bd02-69a922766202,Nirja Bassi,1989-07-26,8119574893,Parbhani,Plumber,BATCH_3953,97.56,58.8
-c063c496-f3ab-4f1f-b209-cdc98bf9e7e1,Yashodhara Tak,1983-03-16,8357109965,Palghar,Electrician,BATCH_2290,54.28,66.73
-ddda9d19-c1c1-46ce-8602-ed735f5d886b,Ekantika Mutti,1984-11-19,7878488534,Pune,Data Entry Operator,BATCH_7868,80.75,91.49
-dff7de7a-9c8d-4b4b-8007-528fc2382e54,Max Dixit,2003-05-16,9935389432,Parbhani,Logistics Associate,BATCH_2786,72.6,52.19
-c77fa2f2-c9f1-44cd-8aea-b3c0ac7a2d3a,Ekta Bhalla,1987-01-27,9740389325,Raigad,Field Technician,BATCH_7252,79.79,65.74
-29a066e6-4a9b-415a-a250-8ce00b8ade33,Gunbir Keer,2005-07-03,+917757074545,Ratnagiri,Retail Sales Associate,BATCH_6067,69.91,79.43
-ef97d0da-11d6-4901-8965-9e57d40a0589,Yutika Dey,1989-11-04,7886476517,Buldhana,Electrician,BATCH_3466,50.32,62.55
-b7d47d7c-460e-426a-869e-43f0e454bc98,Nihal Shere,1990-04-14,9197613238,Palghar,Retail Sales Associate,BATCH_3504,81.37,83.56
-09d86d84-acdf-404f-808f-d32d17dc5004,Gautam Rana,1981-01-18,6716243819,Satara,Logistics Associate,BATCH_7012,69.9,75.73
-5e92d4c2-dffc-4fc3-b095-73ca3c2a4ccd,Kai Sant,1994-09-27,6206917560,Chandrapur,Data Entry Operator,BATCH_3035,96.47,48.69
-28730b19-5745-4e6a-8e42-e3e4a2b91113,Harish Sawhney,1985-04-26,9198476695,Jalgaon,General Duty Assistant,BATCH_6727,96.52,62.82
-56f59b48-2681-4c08-a196-a9555cd372a9,William Lanka,1991-09-28,8695295870,Satara,Electrician,BATCH_7888,83.25,60.85
-26a0453c-14a2-4e96-9704-dd9ca07c9273,Harshil Oza,2008-03-01,7910048118,Buldhana,General Duty Assistant,BATCH_4948,92.47,56.54
-3291f6d5-802d-44d8-a520-616fb91b9ebe,Barkha Misra,2004-02-09,9538912794,Nanded,Data Entry Operator,BATCH_6482,53.3,45.2
-980a7d3d-b214-4e89-92b9-5e1a431c9823,Keya Ranganathan,2007-01-08,7901834280,Ratnagiri,Field Technician,BATCH_2612,88.02,78.71
-24155be3-4b2b-4364-b21e-b99d567dcecb,Widisha Bajaj,1983-03-07,8815197502,Kolhapur,Retail Sales Associate,BATCH_1207,85.4,78.58
-6d49e9f7-1dc2-4381-93ea-9e1499fa43c1,Zarna Ram,2006-03-28,9690263993,Akola,Retail Sales Associate,BATCH_2871,63.39,69.87
-58ae755c-b0cc-4965-afb3-e9a77acd6cad,Udarsh Chokshi,1990-06-18,9523625992,Latur,Python Developer,BATCH_5758,52.1,92.54
-c9385563-9e26-48ba-b033-70582d68e6d9,Balhaar Sha,1983-02-15,9288650860,Satara,Field Technician,BATCH_9725,85.18,67.51
-4f84d067-2875-4b48-aea1-9d0286acfacb,Kavya Dua,1999-11-22,9258672959,Ahmednagar,Data Entry Operator,BATCH_2800,59.54,64.26
-843b5361-5d7a-4c36-9fc4-6b2b9508f9b9,Thomas Sura,1986-10-21,8570423569,Amravati,Retail Sales Associate,BATCH_1472,98.66,73.49
-edbeca32-1126-4bd4-b1a7-6291e934340d,Darika Bath,1986-11-01,7288436227,Nagpur,Field Technician,BATCH_9442,66.4,62.05
-3eaf7abf-1965-4e2d-9693-dfa15d2003ad,Divya Kala,1999-01-05,8219778234,Jalna,Field Technician,BATCH_3591,72.69,92.46
-73a605b8-4fec-4277-89ec-264b304b8908,Jeet Radhakrishnan,1982-11-12,9782560971,Parbhani,Python Developer,BATCH_7065,67.76,76.86
-827d706d-c522-4d39-b748-de55b714dff8,Yashasvi Suresh,1987-09-10,7898493949,Gadchiroli,General Duty Assistant,BATCH_5246,87.59,86.19
-e2726973-8280-49c9-a857-f79807c1bfa8,Januja Sankar,1982-08-14,9711871397,Hingoli,Customer Care Executive,BATCH_1470,74.72,57.88
-c65f8173-88a1-4d0f-9f32-addc2f131d74,Janaki Trivedi,1986-12-09,8652348887,Sindhudurg,Python Developer,BATCH_7743,95.94,94.59
-6efb83e8-292f-485c-a223-e8775d4497b3,Garima Choudhary,2008-02-05,9852528635,Parbhani,General Duty Assistant,BATCH_2391,79.04,67.8
-ee331e36-c854-4a22-8fce-88a001c40c34,Girish Goyal,2008-02-23,6179672074,Nanded,Python Developer,BATCH_7151,58.05,44.13
-306875d8-2fb6-4f71-92a8-08bee007ab59,Lakshmi Prabhu,1983-09-11,6381080560,Nandurbar,General Duty Assistant,BATCH_4515,99.82,55.71
-934c13f4-b676-449d-ac67-ea5dbdacff03,Gauri Bumb,1996-12-22,9600632621,Buldhana,Customer Care Executive,BATCH_6053,63.08,68.2
-00b0d6cf-6357-4d65-8e2a-553d3b5896e9,Unnati Varughese,1990-04-22,8687670209,Satara,General Duty Assistant,BATCH_6631,94.71,81.92
-6d13617a-d390-4b94-9fd9-f5079a88a86e,Adweta Lad,2000-05-16,8682014641,Thane,General Duty Assistant,BATCH_9951,60.93,63.38
-4c0d0c77-3d06-4413-b58b-4e706f8bcd65,Aarini Grewal,1981-01-20,6514396801,Gondia,Field Technician,BATCH_3725,94.23,67.12
-6d2cb5e2-6403-4842-93d2-2a4860162501,Geetika Raghavan,1988-06-13,9259553112,Gondia,Logistics Associate,BATCH_8935,67.26,70.36
-fcb9838b-2d6e-403e-9d48-1775dba8ae18,Anvi Anand,1996-07-03,9139711044,Jalna,Electrician,BATCH_1717,89.56,88.72
-51e01810-4c47-4518-8e4d-f5c47c44b800,Dominic Date,1988-05-11,6148644109,Thane,Python Developer,BATCH_6456,90.2,68.56
-9bbccd94-9716-416e-856a-f17df336ab70,Chakrika,1993-02-22,7398870482,Raigad,Retail Sales Associate,BATCH_9796,59.35,57.93
-8c544e3f-9bd7-4f7a-a65a-49b655ab6404,Devansh Soni,1994-03-18,9358480413,Dhule,Customer Care Executive,BATCH_1797,52.53,67.22
-c7ae85d0-fe26-488c-b762-c66e6f5fe7d7,Ojasvi Gill,1986-04-13,8578798403,Bhandara,Python Developer,BATCH_8272,67.58,42.33
-60721805-54d5-4f7e-b7b6-6c0134e3d88c,Edhitha Savant,1997-10-24,9176428684,Jalgaon,Plumber,BATCH_4241,71.26,69.95
-021dd60c-35b8-40c8-bad3-ea375a338524,Jalsa Pillay,1993-09-30,9625552311,Sangli,Plumber,BATCH_7786,68.76,44.15
-c837e812-f27d-4ced-afa1-2aa6005a1e83,Gavin Singhal,1990-05-27,8561616250,Pune,Plumber,BATCH_8972,76.35,56.96
-ff1bc9ce-4b69-4be0-863a-1ac27cba26ee,Harinakshi Setty,1991-10-28,8955508961,Mumbai Suburban,General Duty Assistant,BATCH_5350,98.35,83.06
-f16be1a7-c73b-4312-83f8-6e7b8208ab19,Patrick Vasa,1993-08-31,6268638768,Ahmednagar,Python Developer,BATCH_2229,57.83,62.47
-d3c19461-f996-4b1e-8d6a-d3fc513dbd37,Warinder Bhatia,1999-05-11,9264915937,Palghar,Customer Care Executive,BATCH_1062,71.38,56.2
-55b9d3af-15d3-4eb7-9488-19817046e06e,Raksha Buch,1997-05-28,8476908532,Mumbai City,Python Developer,BATCH_3347,78.32,62.04
-e7b1722a-1a27-4f23-8ecf-87e0881e6c7c,Thomas Amble,1982-08-25,7533550699,Pune,Electrician,BATCH_1651,80.97,63.06
-b7b41688-2d58-4ee8-83fb-9edb3eaa16cf,Rehaan Kalita,2001-05-04,9730651895,Sangli,Field Technician,BATCH_2622,91.68,73.86
-af3dd723-61c7-4238-9af1-c5ea3d792401,Osha Ramachandran,2005-12-29,6588365604,Ratnagiri,Customer Care Executive,BATCH_5135,66.16,93.36
-8ebd9cf0-3bd4-48d2-a521-dafb1d061481,Xiti Baria,1981-12-05,8930568802,Beed,Customer Care Executive,BATCH_2415,77.65,40.44
-de4c9ee3-e118-4a85-af3d-3c21850d3920,Ojasvi Subramanian,2008-02-08,6760360225,Akola,Field Technician,BATCH_8581,79.02,92.48
-99bd76fb-996c-40de-afb8-4a82c5dd9a51,Meera Bala,1983-01-04,8546129354,Gadchiroli,General Duty Assistant,BATCH_4993,72.84,47.96
-322ef7df-6ac9-472e-b9eb-8b40146f9957,Azaan Dhar,2004-06-03,6296542559,Parbhani,Python Developer,BATCH_9369,69.42,72.8
-deadad96-7193-41b5-b8e0-1f128d397dee,Abhimanyu Jayaraman,1989-02-05,6298407302,Satara,General Duty Assistant,BATCH_6301,96.79,40.38
-f275f492-fdeb-45b0-a3dd-5aab6caf95e2,Xavier Solanki,2003-04-09,6362298393,Parbhani,Plumber,BATCH_3584,71.91,69.88
-66807e5d-72f9-47d3-b8b0-5e309ba7ce2e,Yashica More,2000-05-02,8696776072,Mumbai City,Logistics Associate,BATCH_4130,54.28,79.6
-102a8c68-0122-4174-8c6d-e08d1e8b0a8a,Charvi Dara,1981-12-30,6878295151,Yavatmal,Electrician,BATCH_9537,58.48,60.94
-a0497100-803c-402b-a031-06185707e481,Watika Mangat,2002-05-19,8432941445,Akola,Field Technician,BATCH_9897,73.67,42.01
-976a36b1-6607-4cb5-bac6-74edf949c798,Wyatt,1984-02-03,8331652222,Thane,Data Entry Operator,BATCH_7520,75.33,74.57
-5f17c655-f79b-4db7-8f6a-fa8c443a07b0,Libni Thaman,1993-04-08,6606553372,Parbhani,Field Technician,BATCH_3458,58.95,92.82
-2953a06b-8123-4f66-a2ab-f1bb2260433b,Shivani Lad,2001-09-16,8571537429,Pune,General Duty Assistant,BATCH_5982,84.99,91.85
-bda9baa2-5c0e-4795-8537-7e6b07e17835,Arya Seshadri,1987-06-27,6751124015,Amravati,Plumber,BATCH_4770,80.35,59.38
-484baf6a-3aba-4e1e-94ab-60b2653ce789,Gabriel Bhatti,1989-04-27,+916532557724,Akola,Plumber,BATCH_7046,72.73,66.84
-300acadf-23ff-4f8f-bcc4-2a69d68625c2,Chandani,1999-12-27,6519246503,Gadchiroli,Data Entry Operator,BATCH_7338,99.05,53.95
-7f9eeb81-48c9-4b12-adfe-644f58b4b3d4,Zaid Borra,1993-01-24,7685823118,Thane,Customer Care Executive,BATCH_3426,71.49,42.3
-e4053482-c0d3-49d0-9392-96d5d7c59eab,Chanchal Tripathi,1997-09-16,7876693898,Gadchiroli,Electrician,BATCH_8749,90.37,50.47
-8bf329d7-0f8d-4140-b7c4-faff020ec768,Hardik Johal,1998-03-05,8508992977,Washim,Plumber,BATCH_8433,75.28,63.66
-75d6536b-4aa1-4da4-af2d-2f32602ef7fa,Neha Pau,1981-12-04,7494801749,Solapur,Plumber,BATCH_2685,94.71,77.08
-6619b426-bcff-4002-a672-debc7ad0abdb,M. Issac,1997-12-07,+917339643129,Washim,Data Entry Operator,BATCH_7568,53.45,65.58
-1b91bc49-bf10-4efa-9b37-1b66f6240924,Jagat Dave,2007-12-18,6693634042,Wardha,Electrician,BATCH_6272,62.41,90.37
-7c4dda41-fc20-4de3-92f1-98ee3a1fddb9,Timothy Bhatnagar,1998-06-14,9194264587,Osmanabad,Customer Care Executive,BATCH_2063,77.5,55.97
-c38332ce-f204-4c0a-8dc7-063f93c28b84,Ethan Buch,1989-09-05,8698967370,Parbhani,Python Developer,BATCH_4261,80.12,62.08
-9a7b3c74-b62b-4e0f-8e24-f3ed53f0be93,Qabil Sura,1986-08-07,8946764061,Gondia,Data Entry Operator,BATCH_6977,86.62,44.96
-5e83f748-b408-4d3e-a711-e514271d3d4d,Noah Sibal,2006-05-29,6595475899,Pune,Python Developer,BATCH_9165,96.63,56.05
-34f31eab-275b-49b5-8ee7-209ecb430486,Indali Upadhyay,1991-11-07,9525904457,Nashik,Retail Sales Associate,BATCH_4978,55.1,82.49
-03535da6-9474-4197-a0b0-40910378de41,Zashil Ben,1998-08-12,9391086098,Thane,Retail Sales Associate,BATCH_5593,94.97,70.99
-7d66d2c5-8014-493f-ba18-ebd5ae141c8b,Indira Kanda,1998-06-26,7407209235,Latur,Data Entry Operator,BATCH_6438,63.66,83.96
-b6de92ac-fb0f-4841-bed7-30572c6daf5f,Bina Basak,1988-09-17,7777267364,Buldhana,Data Entry Operator,BATCH_7266,89.1,59.75
-e4b56dd2-1c81-48a8-8698-4632fa8b0865,Neel Iyengar,2003-02-04,8707583925,Sindhudurg,Logistics Associate,BATCH_1697,61.49,89.57
-6cb46a9a-32a8-43bf-b966-d74d5c0a7ad1,Falan Singh,2002-07-17,9755621841,Jalna,General Duty Assistant,BATCH_4833,76.7,57.02
-6c7fbe35-a32d-4f97-8a04-367bd1d4bf49,Devansh Soni,1993-03-18,9358480413,Dhule,Customer Care Executive,BATCH_1797,52.53,67.22
-01ad3811-7526-45cb-91d4-a1e11bf74fa0,Kai Chad,1989-04-30,9149086586,Jalgaon,Python Developer,BATCH_1265,63.04,91.41
-d20d6caa-431c-45a2-83b8-bf3906393fad,Hiral Sathe,1999-01-10,9469403820,Akola,Customer Care Executive,BATCH_7363,63.52,41.43
-4a108fb5-19ab-4eb1-b0b7-5ed8087f584a,Ekta Chad,2005-05-23,7139019611,Nagpur,General Duty Assistant,BATCH_4052,96.83,92.92
-7e58e69c-b530-4d5c-b46d-e9c39e3908c7,Tara Dhar,1988-01-28,8637500247,Kolhapur,Logistics Associate,BATCH_2743,93.53,56.41
-12d168df-a064-47fc-b365-4d25f86b79ac,Luke Rattan,1982-08-10,9207959268,Satara,Data Entry Operator,BATCH_3587,70.35,91.43
-7b8834e2-b90e-49d0-a5db-16df63ebbd62,Rushil Saini,1986-10-31,6914763202,Solapur,Field Technician,BATCH_6574,63.89,51.84
-569ef981-fad1-44e0-90e9-570cda0d2143,Yash Wali,1992-03-13,9847401602,Satara,General Duty Assistant,BATCH_8349,80.77,89.82
-c3b4e85b-4aef-4f7c-b4e8-0ac6ae1dc61c,Xiti Pandya,1982-09-05,8759949050,Jalgaon,Electrician,BATCH_3188,73.91,65.02
-55187391-5893-4914-b146-286da051ce18,Pallavi,1994-09-26,+917383968123,Pune,Retail Sales Associate,BATCH_3546,63.62,73.27
-099b4dc5-6cb7-4bb7-ac6a-e8256616c233,Mitali Murthy,1998-11-06,9624737111,Solapur,Retail Sales Associate,BATCH_1505,89.79,52.13
-7a80b2e5-41fe-4bbe-aaa1-4616fd114bbd,Devika Rastogi,2008-07-10,8554200826,Yavatmal,General Duty Assistant,BATCH_3536,59.49,51.97
-bcffcee2-5fa2-4754-b3b9-1d9de489f25a,Urmi Chaudhry,1999-09-25,8709511014,Sangli,Electrician,BATCH_9064,77.11,49.66
-1198afbe-0d60-4abe-bb84-439885405649,Gauri Som,1995-03-15,7413097844,Beed,Electrician,BATCH_8600,68.41,93.45
-70fc0ebe-5953-444f-bd74-9563f8e08ed6,Charles Date,2001-06-05,9635539154,Beed,General Duty Assistant,BATCH_1379,54.5,61.63
-b651c35c-63bd-417c-8d8e-2e5982ab9a41,Rajata Rattan,1995-05-01,6700003920,Chandrapur,Plumber,BATCH_1356,69.8,84.9
-d5221196-47c0-4d52-8563-0c8abbf46509,Anika Mohan,1987-09-13,9225279834,Satara,Data Entry Operator,BATCH_1609,65.22,67.09
-f781cc7b-e946-4e02-8f01-3dc842cfcdbc,Daksh Pandey,1994-11-12,6362781292,Thane,Field Technician,BATCH_8191,61.72,51.95
-659df324-a049-4528-b4fb-29064cd13ecf,George Sampath,2003-11-18,8922286180,Washim,General Duty Assistant,BATCH_4919,63.73,44.26
-69c1c172-2c7f-4996-8142-a3b565419f06,Nathan Mukhopadhyay,1996-01-31,7286293158,Sangli,Retail Sales Associate,BATCH_3902,97.56,74.54
-53a44a98-3d98-4cdf-9682-b7f55319e153,Advika Jayaraman,1999-05-31,6872830248,Beed,Logistics Associate,BATCH_6067,83.34,57.94
-62d94d8e-76fa-412b-a1e2-098b6c13ff8b,Hemal Jani,1999-11-29,8910943524,Gondia,Logistics Associate,BATCH_7991,91.53,70.13
-cfa8cb24-5a50-44d6-b784-fb98ef980f16,Y. Shankar,2006-09-23,7633019327,Latur,Logistics Associate,BATCH_9474,89.15,79.64
-c5e5402e-8540-4c56-8e51-af5855ea610c,Devansh Bhasin,2006-10-29,9141642429,Nagpur,Customer Care Executive,BATCH_4892,52.46,66.14
-00e0e632-4518-4513-bf6a-3e0b5862a8a2,Rayaan Bahl,1993-01-03,9229640083,Buldhana,Customer Care Executive,BATCH_4401,72.6,65.48
-b76e3bde-ce87-4565-90e5-e3dccb4fb4b0,Urvashi Kulkarni,1981-09-07,7578651079,Parbhani,Field Technician,BATCH_8586,88.62,72.37
-fe0ac3a4-294b-4658-9560-bb5b035ebd55,Ekavir Varkey,1987-04-29,8590941149,Osmanabad,Retail Sales Associate,BATCH_1152,72.91,94.91
-8759211f-e4af-49ce-9bfd-21c1c94f1538,Janaki Rajagopal,2007-03-31,7695832844,Solapur,General Duty Assistant,BATCH_5732,57.01,57.3
-451afc00-86c8-46ef-80bb-b4534a53df6c,Indali Upadhyay,1991-11-07,9525904456,Nashik,Retail Sales Associate,BATCH_4978,55.1,82.49
-c59e0293-6135-47c2-9c31-a386c410971c,Krish Lalla,1983-11-22,6906341966,Sindhudurg,Field Technician,BATCH_4585,58.79,92.69
-91b3bd36-9a21-40c1-9877-f7e9489824e2,Aditya Shanker,1998-01-19,7561588882,Osmanabad,General Duty Assistant,BATCH_8238,72.11,51.75
-4aba309e-c99e-46d8-a2f3-ad501f93426e,Garima Mahajan,1984-02-23,6224628497,Sangli,Customer Care Executive,BATCH_6110,67.15,83.13
-1d98cd1c-2d39-4914-8261-2af765eb0e2f,Nisha Kothari,1988-02-17,9398775766,Wardha,Plumber,BATCH_2341,73.52,81.2
-90f26a2d-f25d-412e-a9fa-d963c5e252fb,Kalpit Bhasin,1997-01-29,9664226794,Hingoli,Customer Care Executive,BATCH_3837,72.98,69.32
-b1f41411-abd3-474d-b430-89cbff898b98,Diya Rattan,1988-02-27,8694021782,Mumbai City,Retail Sales Associate,BATCH_9797,87.54,82.27
-fc582b8d-20b6-473f-acc2-1f5788c3703c,Osha Raghavan,2000-08-16,8337937327,Nagpur,Electrician,BATCH_6016,83.2,60.3
-c2cf6c0a-8e46-4ebb-8cbb-5ed9a3c8b6eb,Sudiksha Om,1985-01-24,6800400428,Jalgaon,Logistics Associate,BATCH_1611,95.66,49.63
-662ef309-a7d8-4eda-b427-1d21bc678719,Dayamai Sastry,1981-08-05,9494435754,Washim,Plumber,BATCH_2353,86.35,44.34
-f702abdd-ee68-4c42-aa07-584c0d354259,Jeremiah Nadig,1998-08-24,9333893106,Bhandara,Electrician,BATCH_9105,63.43,85.56
-b0c700d0-101d-44af-a6cc-dbc4a65aac7c,Raksha Varughese,1993-04-20,6721890096,Buldhana,Data Entry Operator,BATCH_6138,52.86,72.13
-9c4645af-52d6-45dd-b203-a7ddd0e60c63,Hemani Murthy,1992-11-17,9859466878,Sangli,Field Technician,BATCH_3885,86.69,93.1
-e213e201-16c5-45fd-9848-2128170520aa,Balveer Parmar,1986-07-17,9335602191,Aurangabad,Field Technician,BATCH_8956,51.45,58.49
-6ed0b6ae-a9fd-4fce-8f87-58caeb473894,Gabriel Bhatti,1989-04-27,6532557724,Akola,Plumber,BATCH_7046,72.73,66.84
-5726681a-7ac2-4c3f-8e27-0820c37cb47c,Anthony Randhawa,1987-10-14,6213424523,Sindhudurg,Plumber,BATCH_9775,94.01,88.28
-d12dd86c-d127-4edf-9293-bd7aad32b5c1,Nilima Nigam,1999-09-02,6178151583,Nashik,Logistics Associate,BATCH_4555,73.97,87.82
-49bf3ef8-04d2-4a03-99a8-ae92c2eb2be5,M. Singhal,1980-11-17,+918412940071,Amravati,Electrician,BATCH_6339,68.8,84.91
-68036716-2297-4388-bb7b-7a7999c83e44,Rachana Char,2001-07-04,9890099255,Palghar,Python Developer,BATCH_9498,60.37,57.88
-4c5a974d-ed49-4cb5-afb4-d29f13b1ad4c,Liam Singh,1993-03-21,8577531502,Parbhani,Plumber,BATCH_2674,56.63,50.31
-1ce0a54f-548e-48cf-aa31-226799be616d,I. Panchal,2000-01-09,+919502074351,Hingoli,General Duty Assistant,BATCH_7184,68.78,77.55
-bd4d00fb-3534-4c17-834c-2d1285b31530,Ekani Cheema,2004-09-04,7524410834,Palghar,Data Entry Operator,BATCH_4349,65.07,51.62
-33f8cbab-8e1b-4478-b374-ec4346db600a,Brinda Date,1998-07-09,6154308262,Nanded,Electrician,BATCH_3063,89.35,51.29
-d9b0929e-83f0-40b0-bc78-84deb8c3973b,Nandini Swamy,1982-09-25,8156263020,Satara,Field Technician,BATCH_9619,55.68,43.5
-49e6cf33-0e2e-4d96-94ba-0db4576bdb43,Neel Sathe,1996-02-09,7348315126,Hingoli,Python Developer,BATCH_4505,53.21,62.42
-4edcfdbb-b4d0-4755-ace4-606fb9346935,Wishi Manne,1994-11-28,9585238820,Thane,Data Entry Operator,BATCH_7041,91.58,44.22
-76aabfb6-4f49-4079-b511-998c0cf77120,Mitesh Sengupta,2007-03-24,9765086407,Palghar,Customer Care Executive,BATCH_1157,74.23,50.73
-28afd776-2795-4e89-abb9-3b66dcbd5e43,Mohammed Brahmbhatt,1988-12-10,6920702588,Mumbai City,Field Technician,BATCH_3252,92.13,52.73
-4b09b603-a720-4b23-a711-0e13d7441b61,Eiravati Pai,2007-12-21,6487726245,Osmanabad,Python Developer,BATCH_7337,93.04,71.26
-d558403c-a516-4ae3-9991-d8cadd87b9cd,Leena Talwar,1991-11-07,9751028618,Jalgaon,Logistics Associate,BATCH_7232,72.53,64.35
-64e5938c-e64d-42d9-9159-f9675db31490,Osha Raghavan,1999-08-16,8337937327,Nagpur,Electrician,BATCH_6016,83.2,60.3
-9847811b-de39-42d2-9b57-91fbf8455eed,Ekaraj Majumdar,2002-04-18,9211134294,Nanded,Retail Sales Associate,BATCH_9266,82.31,42.15
-84289c3b-f1bf-4329-9566-3b8f8527b437,Jhalak Venkataraman,1988-02-16,7895094534,Ahmednagar,Logistics Associate,BATCH_3858,77.6,58.2
-c7feec3b-cd70-4f12-b638-c66be28728ab,Charvi Ravi,1996-01-01,8556881239,Yavatmal,Customer Care Executive,BATCH_6764,85.14,54.9
-a6fe359d-f831-4c55-b34f-bfe4118ba1c3,Bhavini Bose,1998-09-17,8720058859,Osmanabad,Electrician,BATCH_5944,93.81,94.21
-d03bd2dd-6f15-4c5f-a13a-614b17f89a2f,Jalsa Bir,2007-05-10,7422589929,Osmanabad,Electrician,BATCH_8848,65.71,93.05
-e6d56604-9f60-44a2-aaf2-4b8c49b90c73,Girindra Chatterjee,1999-02-10,8756783995,Washim,Data Entry Operator,BATCH_5905,96.59,45.7
-7e292f67-6bf1-4b8a-af70-4c46dccaea8f,Ekansh Pai,1987-05-30,6880839406,Chandrapur,Electrician,BATCH_8183,89.88,85.72
-3bea10d8-a914-4453-bd65-fbb33c109f64,Chandani Soman,2003-07-02,7864131026,Aurangabad,Retail Sales Associate,BATCH_1719,96.06,89.35
-076a5bc2-28f7-44b4-9244-bd72c5066c88,Jason Sha,1983-03-24,7283825267,Nanded,Data Entry Operator,BATCH_1464,54.06,92.17
-22792312-72d0-4fb7-b77d-2b99e1fb6b27,Atharv Loke,1981-06-21,8703462253,Aurangabad,Python Developer,BATCH_2789,80.78,72.28
-9ed95f50-205f-4c13-836b-3ac3230e9aa7,Advaith Varughese,2007-03-16,8669998399,Akola,Plumber,BATCH_3695,62.85,85.36
-f13e41d0-6ffe-4548-9e5d-daf1151a39a6,Jairaj Shan,1984-05-23,9412737284,Thane,Electrician,BATCH_5720,85.35,78.66
-e12e24b5-ebb1-4170-9aa9-f0eb4d82c134,Rachita Pathak,1998-06-16,9408842146,Buldhana,Python Developer,BATCH_2210,72.09,59.01
-b7881237-2ac4-4d58-ac10-3d26857a1af6,Nicholas Prabhakar,1990-08-10,9253407200,Nandurbar,Python Developer,BATCH_5040,87.25,69.64
-b1b8c4f4-833f-4141-8fdf-72e638640201,Shravya Palla,2006-09-17,6569319938,Jalgaon,Retail Sales Associate,BATCH_6580,80.26,73.76
-31c5041a-3dd1-4b80-b192-f8c2d79ca748,Parth Shetty,2008-02-14,7867979226,Bhandara,Field Technician,BATCH_2211,72.45,72.89
-3e653d9e-74f7-4cdc-9d2c-35c5a28fb31e,Gunbir Keer,2005-07-03,7757074545,Ratnagiri,Retail Sales Associate,BATCH_6067,69.91,79.43
-13c77719-0c50-4576-8ab4-89fe8d2857ba,Alka Wable,2005-02-01,7536383774,Amravati,General Duty Assistant,BATCH_4502,93.23,89.63
-c922c884-327c-46bb-a7d1-e77f57fcc00f,Nakul Sarraf,1992-04-18,7902990996,Nagpur,Plumber,BATCH_1894,89.19,83.66
-4702f2ee-c654-4482-be2f-a22b069b29e3,Chandani Samra,1999-12-27,6519246503,Gadchiroli,Data Entry Operator,BATCH_7338,99.05,53.95
-cab1f8c3-10ff-4f39-8c28-a089888d9a29,Sudiksha Bobal,1999-11-27,6993108266,Ratnagiri,Retail Sales Associate,BATCH_8075,54.83,80.63
-d6d94fe5-23c6-42be-b946-bf2f63049128,Yadavi Ganguly,1997-03-25,7612926731,Raigad,Electrician,BATCH_7276,54.47,84.33
-8835e487-0592-4820-8578-38c160915388,Damyanti Khatri,1982-04-13,6366992705,Nashik,Electrician,BATCH_9786,72.43,63.2
-59927e78-51db-431e-a395-1c5c3658e9aa,Wyatt Ray,1994-05-04,9965960427,Jalna,Customer Care Executive,BATCH_2886,73.42,44.14
-2ff55e03-05a7-416a-95e9-fafda21273d3,Ikshita Panchal,2001-01-09,9502074351,Hingoli,General Duty Assistant,BATCH_7184,68.78,77.55
-5f3e6091-e84c-4729-836d-d4a4e09f5a2d,Ekiya D’Alia,2007-10-29,8177390472,Nagpur,Data Entry Operator,BATCH_8147,50.94,90.66
-6714ee22-dc63-4da3-944b-280f03124990,Tripti Walia,1990-03-30,7240354421,Nashik,Field Technician,BATCH_7098,84.31,91.57
-6b7367c7-028a-44eb-a8c8-338a8d1bf70f,Ansh Luthra,1996-10-17,8269016920,Parbhani,Plumber,BATCH_6314,88.84,71.22
-e92c0a6c-8ab2-4d13-998b-826fb2ed30ab,Odika,1986-11-29,+918284547422,Chandrapur,Customer Care Executive,BATCH_2443,71.84,45.82
-7da20c0b-56fd-46c0-bf1a-2fb6905d9e85,Reva Dash,1993-10-13,6918841563,Aurangabad,Electrician,BATCH_8030,92.26,93.6
-8f862ef4-eb7b-4d32-9314-8961db04ca71,Michael Kala,1982-06-16,9197970787,Gadchiroli,Customer Care Executive,BATCH_7690,66.67,76.86
-62efbb5f-c079-4ffc-9c51-180717060c74,Ira Bava,1982-01-27,7499291766,Satara,Plumber,BATCH_2934,88.57,41.61
-a4302385-ff29-4769-b466-a99f45dda5ac,Daksha Mangat,1986-07-18,8347538338,Pune,Electrician,BATCH_6169,55.98,69.47
-52217eb7-ac7d-4544-96b0-c5d49184df8f,Abhimanyu Tank,2001-07-29,6380840558,Parbhani,Electrician,BATCH_2017,83.39,65.6
-b9b90a8e-eb27-438c-a554-de751521797d,Ishwar Mallick,1996-09-25,6471904990,Gondia,Plumber,BATCH_8849,60.7,85.54
-73208423-2ccf-4746-8d4f-094b7888a226,Chandresh Zachariah,2004-01-26,8954829815,Thane,Customer Care Executive,BATCH_4441,84.1,76.68
-0d768261-4774-4978-a441-15ab968d9774,Warinder Sekhon,2001-10-06,9268688902,Palghar,Retail Sales Associate,BATCH_6424,60.28,50.45
-d5931c20-0d34-46d5-9de2-9abd073b61c2,Ethan Yogi,1986-08-17,9952266893,Solapur,Retail Sales Associate,BATCH_5649,75.77,74.81
-fcef519a-82c3-4b9e-806e-9acab2a13584,Kai Rai,1995-07-28,7535312769,Akola,Plumber,BATCH_2923,81.94,91.73
-021f63be-53eb-4d0f-969c-8a1de1aff781,Girik Keer,1999-07-01,9210152642,Mumbai City,Plumber,BATCH_8690,73.94,58.74
-18714aff-ba29-40a4-aa78-ab91e0698034,Wridesh Saha,1985-11-26,9456715514,Hingoli,Customer Care Executive,BATCH_8212,66.74,84.85
-5b9b0560-f6f6-4273-96bc-61046e4784b9,Kalpit Zachariah,1987-09-05,9240409084,Parbhani,Logistics Associate,BATCH_2739,65.96,65.66
-f43444b2-ce0f-43b8-bc6f-a20a0900536d,Siddharth Zacharia,2001-10-22,7506919288,Mumbai City,Field Technician,BATCH_5345,96.33,83.18
-8315cfaf-d4bf-4b50-b33e-c8a56771986b,Krishna Shenoy,1985-09-30,7743576792,Akola,Python Developer,BATCH_2143,63.81,83.45
-56967527-b78b-4dd5-837e-6670d2cba149,Tanish Zacharia,1984-05-13,6178663096,Buldhana,Electrician,BATCH_9288,63.26,91.33
-0cb2b9d3-7068-49fe-a659-643ac7e56726,Max Sachar,1999-12-29,6197088689,Solapur,Plumber,BATCH_1660,60.75,87.11
-549d65be-4ce2-40fb-bbcb-b61ba7e5791a,Ekalinga Chand,2003-12-13,9262598077,Wardha,Electrician,BATCH_7723,75.09,73.63
-d2acf0c2-baf4-4c0a-9c33-cf1a4f9c0acc,Neha Magar,1994-09-03,6753903309,Aurangabad,Data Entry Operator,BATCH_3955,63.66,81.93
-8edb4f9e-2bd2-49c0-8d46-d571ed9f7427,Dipta Dash,2000-10-23,9327761953,Latur,Plumber,BATCH_6576,63.98,72.79
-6cb94f57-ffe4-410f-bea8-7ea7e49ea723,Saanvi Samra,1994-04-04,9788603957,Buldhana,Logistics Associate,BATCH_9092,94.46,47.38
-11991684-5b04-4bdf-8f9c-88aa241ae3af,Ishwar Sidhu,2007-08-15,9137365109,Satara,Retail Sales Associate,BATCH_4866,88.93,60.15
-86572972-359c-4294-9986-87fa3d086a5a,Aarush Nath,2002-04-02,8351785565,Aurangabad,Customer Care Executive,BATCH_6238,94.65,44.43
-89659659-88e4-4959-97c7-b62ed80895fd,Neel,2007-10-31,+918200223044,Parbhani,Plumber,BATCH_2350,68.59,89.71
-f3662978-037b-4d67-b113-48d7ae07c38c,Chanchal Tripathi,1998-09-16,7876693898,Gadchiroli,Electrician,BATCH_8749,90.37,50.47
-1f43be61-3685-4747-b1e9-6e96a6f29ecf,Vincent Shenoy,1998-07-09,9167438668,Pune,General Duty Assistant,BATCH_9782,50.82,68.35
-78e01a68-5b42-48e6-8e77-68db0df3fa5e,Vasatika Merchant,2001-07-25,8650921917,Solapur,Data Entry Operator,BATCH_3339,92.43,77.29
-82646653-e8d2-430c-b684-c26180c30c65,Madhavi Singhal,1981-11-17,8412940071,Amravati,Electrician,BATCH_6339,68.8,84.91
-8588fa56-f8d2-4f8f-a322-e9040a1060a2,Lakshmi Raju,2008-05-02,9306164050,Jalgaon,Python Developer,BATCH_3538,53.86,86.44
-b69370cf-1156-4474-a798-0d8b2c6b8b55,Bimala Contractor,1992-01-01,6166312199,Yavatmal,Logistics Associate,BATCH_4312,78.64,48.24
-0e68137a-b0e2-43bf-997b-c9f5be552109,Wishi Varma,1993-09-24,6362508142,Ratnagiri,Field Technician,BATCH_2900,72.67,73.49
-f07b7a79-0f50-4824-912f-6dab8234cb5e,Kashvi Edwin,1995-10-06,6807577342,Bhandara,Customer Care Executive,BATCH_7939,70.56,87.51
-1d1af4ee-db2c-4068-90f9-c21ad7537b5d,Mason Gala,1989-11-05,6639127345,Washim,Python Developer,BATCH_2970,97.46,64.7
-951c5ab7-4491-40a0-a191-ebc6acee63bd,Hardik Contractor,2004-07-15,9761962359,Beed,Customer Care Executive,BATCH_9311,91.41,69.28
-3d42e6b2-be75-4460-85fa-7f2ccb745fb8,Ekani Mangal,1998-09-29,8163947730,Mumbai Suburban,Python Developer,BATCH_3320,88.72,86.56
-cd77b70f-8724-431b-b051-253c6e06cd2e,Pallavi Trivedi,1990-10-16,7636120880,Yavatmal,Customer Care Executive,BATCH_5216,88.17,66.87
-c4c5fb17-a800-413f-8ff0-ca1f3df8e41c,Faraj Uppal,1998-05-22,6174108740,Gadchiroli,Data Entry Operator,BATCH_5703,70.44,82.29
-4a17617f-68f6-4d88-b14a-cb2b973b0953,Chanchal Ramakrishnan,2004-07-22,8768548027,Amravati,General Duty Assistant,BATCH_1845,60.18,70.21
-8a95d3b2-d152-4199-84ff-6049226243cf,Damini Pillay,1993-11-29,9983063850,Parbhani,Retail Sales Associate,BATCH_4830,73.57,74.08
-6fa2fd26-6919-4872-a68e-d543deec2607,Sudiksha Deo,1995-01-11,6193445007,Hingoli,Logistics Associate,BATCH_7510,77.6,87.11
-69eec4f9-f4b3-457d-9d9c-7922cc6b4449,Damyanti Dutta,1992-01-05,9314399191,Sindhudurg,Data Entry Operator,BATCH_4390,58.54,56.05
-96da393d-ec73-4f0e-9222-67a957f993a9,Hredhaan Khalsa,1991-05-04,8243247463,Thane,Customer Care Executive,BATCH_9945,66.93,75.35
-f1c3ff86-91f5-4992-9c54-168bf081fbd5,Urmi Balay,1988-09-12,8499905152,Mumbai Suburban,Customer Care Executive,BATCH_5965,65.55,86.36
-14feba13-5833-47b1-a8db-5ffb0bec6fbf,Balhaar Ranganathan,2002-09-21,8339699130,Kolhapur,Field Technician,BATCH_6026,86.7,56.2
-54764aef-57be-45ef-ae6d-80249cae544d,Utkarsh Chana,1992-10-23,6406084084,Ratnagiri,Python Developer,BATCH_5469,72.47,68.23
-14a4a115-24c0-4e03-aaf1-831a1aaa3339,Laksh Kumer,1988-10-06,9352889019,Gondia,Plumber,BATCH_6400,65.1,79.76
-3ff75343-3aae-44ec-9a37-380c2a675050,Chaaya Nagi,1983-07-14,9131344962,Nashik,General Duty Assistant,BATCH_8037,69.44,78.76
-467d3653-6969-42e2-97bf-4072409b0eb2,Ekbal Garg,1995-08-13,9726563708,Nagpur,Customer Care Executive,BATCH_4593,99.87,47.61
-5b5bb8fd-1c44-4cff-aed1-c4656c5b7752,Rajeshri Chand,2007-02-27,8512151733,Satara,Retail Sales Associate,BATCH_9204,87.27,59.02
-aaa5a80e-599f-4afd-b27b-b1c9f51bb877,Januja Pradhan,2006-05-12,9498441427,Ratnagiri,Logistics Associate,BATCH_4120,52.58,60.74
-eae7f07a-ba91-401c-b205-659109174d5d,Gayathri Tripathi,2003-11-07,8211614410,Dhule,Logistics Associate,BATCH_4902,70.99,92.87
-6ef8e55c-9428-4ce0-91fc-905617c4b3f9,Arya Misra,1986-12-15,9968977829,Satara,Retail Sales Associate,BATCH_6432,56.13,91.83
-2e243120-0fcb-4d1a-b2b1-dcff6d02ba0e,Finn Dugar,1987-05-18,6802992685,Yavatmal,Electrician,BATCH_8046,72.58,52.57
-87d45de6-3804-4554-8777-21c451bd3d57,Charan Mani,1997-06-21,8341449138,Beed,Plumber,BATCH_4396,84.51,66.9
-b7c9131f-e4cc-4f55-815c-d88ff47e9f8d,Jacob Merchant,1990-12-13,6608492614,Pune,Plumber,BATCH_7512,73.55,89.22
-2aa5e2e8-6bac-4fff-bb88-6b1c49cfe055,Veda Shroff,1992-11-08,9618840705,Sindhudurg,Electrician,BATCH_7248,78.6,71.61
-20406ffa-3851-4362-9613-e917f6a7e946,Maanas Issac,1997-07-12,7339643129,Washim,Data Entry Operator,BATCH_7568,53.45,65.58
-6982e6b8-95d5-40e8-93a2-7903716b70ef,Ansh Bedi,2002-09-09,8799145494,Dhule,Field Technician,BATCH_1496,74.9,74.49
-7d4dd2bb-9115-474b-b968-74ffdf550ed3,Balendra Pingle,1996-12-20,6922050912,Hingoli,General Duty Assistant,BATCH_1096,97.14,56.42
-db34c05a-8317-4156-8ffa-cf57a47c8ea7,Varenya Sastry,1990-03-14,6397721596,Sangli,Python Developer,BATCH_9850,62.53,49.6
-512d1865-5d6f-452d-b6ca-57ae57c45522,Barkha Chaudhry,2003-12-22,8135128844,Parbhani,Electrician,BATCH_8264,72.23,52.99
-c14ef9de-d9b1-4931-85d9-b277ffed46cf,Zashil Hegde,1998-06-10,6101166414,Dhule,General Duty Assistant,BATCH_2276,56.63,52.44
-f8a6ea0a-1660-48b6-a7a6-33ae3f91478a,Harini Tripathi,1988-02-21,9571825556,Washim,Logistics Associate,BATCH_3600,68.19,90.49
-dd3e7829-379e-48f7-8587-92f2903920f9,Hemani Sani,1983-10-07,8871588919,Kolhapur,Data Entry Operator,BATCH_6523,89.54,71.23
-e435f747-ccf0-4560-a76d-169b2cd638d3,Alexander Dhawan,1992-02-20,7874364348,Gondia,Data Entry Operator,BATCH_7731,68.21,79.58
-a6944202-bc6c-4551-8ebf-db08ce6dfe7d,Aryan Maharaj,1987-07-08,6126855092,Aurangabad,Electrician,BATCH_4657,56.98,45.64
-d66ecb35-ecea-4bd6-b7c6-eb31e2251b12,Upma Mangal,1994-09-08,9392036942,Washim,Retail Sales Associate,BATCH_5308,85.62,71.72
-8ff468a0-af87-427e-926c-1ca1379f2360,Dayamai Nori,1990-06-27,7154508960,Washim,Electrician,BATCH_4814,52.62,62.73
-21efbcd2-2c1f-48e7-8a99-2338059ae3cf,Vansha Iyengar,2001-10-28,8759422189,Nashik,Python Developer,BATCH_6582,85.85,90.53
-5bed2f04-9ed9-4661-b8b0-f98198b7252e,Shivansh Saha,1997-12-19,7572553155,Latur,Electrician,BATCH_3480,95.99,73.88
-b93b38c9-2878-4afe-88df-289a9a779d49,Ira Saran,1988-05-06,9756387421,Nagpur,Retail Sales Associate,BATCH_6700,67.6,65.18
-058e25da-cee8-4a59-bed7-5f4789e0a500,Nakul Setty,1980-10-01,7107721109,Raigad,Data Entry Operator,BATCH_4750,53.37,41.73
-423b55ea-f4c2-4bc6-96c8-44d785817a5d,Yashica Zacharia,2004-01-16,7109815572,Dhule,Logistics Associate,BATCH_8471,68.66,73.98
-1dd97c10-241a-4009-bc3e-7fd7a48ffb29,Frederick Kothari,1983-12-23,6880871219,Washim,Plumber,BATCH_8504,82.17,41.71
-41032a70-cf60-4b95-9611-b348d6316308,Gaurika Bhatti,1989-11-21,8425545658,Mumbai City,Electrician,BATCH_4113,98.1,46.45
-e75bcb7c-f44a-45f9-9d9c-f9cb43a18190,Chakrika Mohan,1993-02-22,7398870482,Raigad,Retail Sales Associate,BATCH_9796,59.35,57.93
-d1948437-8867-490a-a96f-98709ec62d69,Peter Tak,1993-08-25,9671159367,Hingoli,Electrician,BATCH_5055,73.03,48.53
-bf88a15c-2c1a-4c26-8f7a-4a2a3b2ddd76,Dhriti Sane,1989-05-30,7874597473,Palghar,General Duty Assistant,BATCH_3793,76.21,79.67
-fc8ee000-1fbc-4e89-83d0-c20ee2e5461e,Wazir Naik,1981-02-06,9366578178,Solapur,Customer Care Executive,BATCH_6123,59.49,48.76
-6f5ffc2f-f81d-493b-b232-cd6c2da71fdd,Hemang Tripathi,1986-08-13,9474524558,Yavatmal,Plumber,BATCH_5715,56.09,77.21
-cb4c7aa6-1eaf-454a-a6dc-1f761371d911,Chaaya Parmer,1991-02-26,6442185272,Sindhudurg,Customer Care Executive,BATCH_3392,56.88,55.78
-c7a80f43-c89c-440e-9935-aeb783de84fe,Imaran Dua,1998-03-24,6916690353,Buldhana,Python Developer,BATCH_3103,82.99,92.08
-313a5933-d827-483a-a630-b2ea9ab94af6,Chakrika Merchant,1981-04-10,9846668526,Gadchiroli,Python Developer,BATCH_3209,53.16,82.69
-dbbd6dee-7892-46f3-a20e-109ca8bea213,Wyatt Shukla,1984-02-03,8331652222,Thane,Data Entry Operator,BATCH_7520,75.33,74.57
-319b169b-557e-4d34-8a39-4952293ca894,Karan Chana,2006-02-16,7685698675,Jalna,Customer Care Executive,BATCH_2680,54.0,76.35
-d28714fe-82be-43a9-8ec7-11b557efeac1,Veer Bir,2006-01-04,8379995032,Dhule,Customer Care Executive,BATCH_4910,63.28,47.2
-c3a5b914-cb4e-4487-aa3b-9cd355896601,Ethan Seth,1985-06-29,9226042285,Ahmednagar,Electrician,BATCH_6744,93.05,73.56
-567475f5-2cce-4645-baea-21f7e3e40b83,Edhitha Srinivasan,1990-06-05,7480043678,Dhule,Python Developer,BATCH_5505,63.99,88.59
-940e8551-5437-439c-a0a8-6788f9cd74c8,Amara Deep,2006-08-20,8337911187,Nanded,Python Developer,BATCH_2251,75.52,46.27
-def1245a-f534-40aa-840a-552ef92b628d,Gavin Wali,1986-09-07,9612656440,Nashik,Plumber,BATCH_6262,64.27,43.25
-e7040c79-1e9a-4e7b-bcff-429ddf00369c,Aarnav Malhotra,2004-09-10,7465278987,Sangli,Customer Care Executive,BATCH_6231,86.71,87.34
-518442c6-b682-40c3-9967-9a5db8aad508,Fiyaz Dyal,1988-04-18,9182611003,Beed,Python Developer,BATCH_4939,78.33,86.72
-a699b10d-9120-4e7e-9b1f-66f0a4a71aee,Michael Saran,1985-08-04,8786055206,Bhandara,Plumber,BATCH_8484,92.27,50.96
-e1eeaf6b-1245-4b8a-ac78-a9c01fed0181,Balhaar Memon,1986-04-21,6217434526,Ahmednagar,Customer Care Executive,BATCH_3725,82.35,42.44
-b430d352-3293-440b-b890-a41b469eda44,Vedika Balakrishnan,1991-07-19,7862123506,Solapur,Plumber,BATCH_1224,77.61,45.13
-69e9bdb6-4c2e-408d-94c2-fee1b19f6da8,Charles Date,2001-05-06,9635539154,Beed,General Duty Assistant,BATCH_1379,54.5,61.63
-b336303a-987f-4749-95b5-e97a14966832,Nikita Mammen,1981-07-29,7924399252,Satara,Field Technician,BATCH_9238,95.54,43.05
-a2121565-6099-48aa-bf8f-3bc9186f4817,Pallavi Choudhry,2002-05-23,6740942859,Osmanabad,Field Technician,BATCH_1202,64.59,61.33
-6d9f6d4a-2515-4352-b3fc-9fab3a7b8df9,Megha Pai,2007-05-22,6194190297,Aurangabad,Field Technician,BATCH_3248,70.96,75.35
-dd94978a-9f50-4fc2-8647-f878fd7ee27e,Janani Chaudhary,2008-02-15,7471539452,Washim,Plumber,BATCH_2292,62.53,74.93
-8538b430-f1ff-4c65-a125-28347bf1d3bf,Upkaar Ranganathan,2007-09-29,9709074302,Thane,Python Developer,BATCH_8371,97.44,60.46
-9e9ce4bc-8550-42e7-81ac-1e5a75d5749b,Manbir Kibe,1981-07-17,7246148980,Sindhudurg,Python Developer,BATCH_2731,58.22,65.63
-15d28db8-8fe5-45ea-a873-81feacf50e1b,Harshil Pandya,2002-07-03,9877583839,Solapur,General Duty Assistant,BATCH_3091,99.04,69.38
-f94a7a7e-984d-41df-81a0-2832d18bfcf3,Arunima Dugal,1986-09-09,8966647391,Thane,General Duty Assistant,BATCH_9785,56.24,90.73
-730da114-1107-4fb5-9908-8393ca067cb9,Xiti Gokhale,1994-11-16,8176082500,Akola,Electrician,BATCH_5562,83.45,51.78
-d9379951-0c71-4d47-9b95-18dc48b65df4,Vasudha Konda,2003-03-11,9477458516,Bhandara,Customer Care Executive,BATCH_3290,62.39,75.45
-746b6d8e-9df3-47b0-870a-f0cfabaa815e,Falak Munshi,1985-12-22,8519544755,Raigad,Plumber,BATCH_8167,86.5,86.56
-4472af7f-aa40-4a9d-81d1-adfb54ab5c6f,Darpan Gandhi,2002-11-08,7266140258,Gadchiroli,Electrician,BATCH_2773,67.51,70.59
-78885e41-6b5c-4278-adde-c5e8d461c57a,Benjamin Mutti,2006-10-17,9908186980,Nanded,Field Technician,BATCH_2735,50.53,54.23
-a1556d78-c0c8-4a13-acbc-63ace131275c,Jackson Jha,2000-09-24,7327515325,Nashik,Python Developer,BATCH_1699,71.17,94.36
-974f170f-ecab-43b2-82bb-532b2c3f36d6,Onkar Gill,1982-11-14,6374796224,Dhule,Python Developer,BATCH_9991,97.01,73.49
-ff2907c6-3668-45c1-9c86-be1c8886d126,Mitali,1998-11-06,9624737111,Solapur,Retail Sales Associate,BATCH_1505,89.79,52.13
-53351ef1-ab13-4e08-8807-8a845f17725c,Falan Ravi,1990-10-31,7973744799,Beed,Retail Sales Associate,BATCH_3194,65.66,53.12
-daa54781-3d43-4085-a3e7-9e3698994be6,Yochana Chopra,1993-04-25,9406819991,Buldhana,Data Entry Operator,BATCH_2761,71.55,88.54
-36d3ef9b-40b1-4c23-b255-c7ba820cf3be,Bishakha Bali,1987-02-21,8814154134,Nandurbar,Customer Care Executive,BATCH_3500,84.34,66.08
-bd7533de-aa8b-4d57-a6ad-521ff4696d1e,Aishani Sule,1986-01-16,6725265416,Nandurbar,Retail Sales Associate,BATCH_1357,99.86,50.88
-daffb35e-3347-4e0e-be5f-0171de29d03c,Parth Sahni,2005-05-12,7886356993,Bhandara,General Duty Assistant,BATCH_6198,58.71,93.28
-deb6af3b-27f3-4326-b26a-d89cad0ea1b2,Gaurangi Deol,1981-11-25,6979357576,Wardha,General Duty Assistant,BATCH_3280,81.67,53.31
-a007ae63-7770-47ce-b23f-269c1eec6f17,Vivaan Walla,1987-05-10,9706666479,Ahmednagar,Electrician,BATCH_5914,84.2,86.63
-a5fe5b43-a685-475d-baac-9e51234fd22b,Tejas Shroff,2000-03-30,7180346223,Gadchiroli,Plumber,BATCH_6546,81.16,61.86
-134017c6-dbe7-45a9-8397-2023f4b2a380,Frederick Sunder,2003-07-05,8596743109,Ahmednagar,Retail Sales Associate,BATCH_8260,90.4,87.08
-13f253c9-ff1c-43f6-b815-0bf01f8839b9,Gayathri Deep,1997-05-20,9807901168,Amravati,Data Entry Operator,BATCH_1108,76.61,62.62
-4e38ef8d-913d-45fb-a0b4-1943c7b5c585,Bhavna Dugar,1982-09-23,9301126777,Ratnagiri,Logistics Associate,BATCH_6908,53.38,68.93
-d982bca7-ae43-4976-905d-5848a3fbf415,Harish Sarraf,1983-06-14,7741288486,Hingoli,Python Developer,BATCH_3658,59.04,78.11
-7743934f-68b6-4fc9-90c4-b74ac9f303f6,Upasna Sathe,1998-05-04,6358413465,Dhule,Retail Sales Associate,BATCH_2653,79.7,64.55
-1a0f89c4-ff06-4ec0-b097-8df28df44da2,Lipika Setty,1991-01-18,9664461415,Wardha,Field Technician,BATCH_2208,56.27,57.44
-3d0a1067-852e-47f0-917e-970c1d1b596c,Dayita Nori,1986-11-12,7720956992,Raigad,Data Entry Operator,BATCH_7941,67.23,43.51
-e4572e3f-e7a4-47f5-9bd5-56c717576533,Theodore Deol,1994-01-18,8197857474,Buldhana,Field Technician,BATCH_4029,68.55,60.98
-cdca6171-2bb8-4479-9412-1156c488b813,Nihal Shere,1991-04-14,9197613238,Palghar,Retail Sales Associate,BATCH_3504,81.37,83.56
-db0618b5-6dec-4380-bd51-05a7a218406b,Hritik Swaminathan,2000-08-09,+918986171278,Pune,Python Developer,BATCH_2584,69.7,83.72
-bae77efc-027c-46ed-bf42-daaad7da231d,Yachana Sinha,2006-02-05,7197939109,Ahmednagar,Customer Care Executive,BATCH_7492,75.67,77.25
-1a0bae05-d665-4f5a-a12c-dc13b06e462a,Lekha Gupta,1987-10-17,8761330848,Buldhana,General Duty Assistant,BATCH_8616,71.78,80.21
-406832aa-9095-439e-866d-8bd4c7044cda,Kai Chad,1989-04-30,9149086585,Jalgaon,Python Developer,BATCH_1265,63.04,91.41
-4795b70c-3209-4bc0-b367-7bd4412685f4,Nakul Bawa,1999-07-13,8140229006,Mumbai City,Plumber,BATCH_2758,96.42,58.43
-e82f553b-3a10-431c-98f9-cd3acc266fcf,Baljiwan Modi,2008-07-18,7354193540,Amravati,Data Entry Operator,BATCH_6912,77.7,60.29
-bb664bdf-2255-448a-b107-e981191d5fca,Dhriti Sanghvi,1996-09-18,7830511568,Ratnagiri,Logistics Associate,BATCH_8319,76.41,59.9
-882e3dc2-762b-4538-a4bf-7c2371e80aa0,Prisha Varma,1989-11-03,7274651099,Gondia,Retail Sales Associate,BATCH_1547,64.75,57.53
-f3079469-3931-4692-a531-de5b241f77f4,Bina Mital,2004-06-30,8740871060,Buldhana,Python Developer,BATCH_6302,98.95,56.09
-233c1798-432b-4805-ba95-acf32b2b32c0,Mohammed Khalsa,2004-11-13,9735540030,Mumbai Suburban,Retail Sales Associate,BATCH_8022,56.78,65.39
-0466d778-3ccd-4f7b-a754-bdbf5ca027f2,Ekiya Suresh,1981-03-16,6823019672,Sindhudurg,Data Entry Operator,BATCH_7596,86.41,84.03
-396be62d-ee59-471e-8040-8a94200f9a57,Vanya Vora,1991-03-18,7201710492,Chandrapur,Retail Sales Associate,BATCH_3290,56.07,43.39
-b35e2750-6f18-495b-ad1c-af64cfff88b6,Yadavi Wali,1985-01-25,8291735734,Nandurbar,Data Entry Operator,BATCH_2776,79.83,59.01
-7bc86aee-1181-4eba-8d0e-49c6e200f9d0,Ekiya Kothari,1980-11-06,6462871672,Gadchiroli,Data Entry Operator,BATCH_8066,97.12,49.07
-74e12414-fbb6-41b1-b9df-f38e1320fa47,Hiral Venkataraman,2005-09-19,7155606161,Nagpur,Plumber,BATCH_4836,71.46,45.02
-f586cbe0-cdf0-40b8-bb23-2679e739efdd,Urishilla Bakshi,1998-01-03,9314939857,Pune,Python Developer,BATCH_2213,72.6,89.43
-3a41bf4f-f598-4f83-966e-ae8dfe944661,Triya Dalal,1998-10-18,9777944609,Beed,Plumber,BATCH_1920,67.6,44.08
-a8b5795c-c483-45f3-997f-8c9eb63cc5bc,Kamala Biswas,1994-10-29,7282518553,Kolhapur,Retail Sales Associate,BATCH_7267,80.99,53.25
-bfce39e1-6cbf-491a-a761-0c0f9dd3fdc5,Onveer Nazareth,2004-04-01,6436458586,Parbhani,Plumber,BATCH_3246,69.14,84.74
-c47dd0fc-b3db-495b-be66-9ebd30a4349b,Manthan Sekhon,1995-09-28,9405100495,Nandurbar,Python Developer,BATCH_6461,54.08,76.5
-638a0e34-226e-4ed9-9e6c-5ab17e32a53c,Y. Solanki,2003-11-19,+918207939087,Nashik,Plumber,BATCH_4727,68.04,56.62
-868e2804-3862-4558-b13b-f8480d168fb3,Ishaan Bal,2001-04-04,6395121074,Jalgaon,Logistics Associate,BATCH_5729,58.41,65.15
-c701ea54-74fd-4d13-ab7e-d2999e6372ac,Aarav Venkatesh,2006-07-29,8446071904,Ahmednagar,Retail Sales Associate,BATCH_5569,94.08,53.41
-05b53b22-516a-49e0-96c6-0eb63ded82a3,Viraj Ben,1983-06-19,7289086333,Ahmednagar,Customer Care Executive,BATCH_6878,95.7,41.55
-7ee4a282-efed-48e4-9e4c-b5b59b9c42c9,Yoshita Agarwal,1999-01-27,8718216692,Bhandara,Field Technician,BATCH_7843,64.48,62.28
-a896fd9d-06e5-4607-8b5e-ff2071aef648,Ikbal Kothari,1986-01-09,6199104722,Bhandara,Plumber,BATCH_1722,50.18,82.41
-8ee78340-379b-48ee-aa03-b38d071fff62,Faqid Kibe,1983-07-07,6576396216,Solapur,Plumber,BATCH_1474,52.3,83.79
-b9c2bcdd-fced-4e32-95c5-adebcc8d992c,Nirja Rout,2003-09-18,6931221434,Ratnagiri,General Duty Assistant,BATCH_6869,92.51,83.76
-c0b4197e-bfd1-443f-bece-8174ca5abe0c,Aadhya Andra,2005-10-30,7871531100,Sangli,Plumber,BATCH_8032,50.08,59.4
-ac4d5ddc-5f7e-4a13-a769-dea5cd42234b,Ojas Sawhney,1990-07-03,9222358216,Nandurbar,General Duty Assistant,BATCH_9646,98.3,57.24
-442945d4-26e5-40dc-9430-a6af9ba16dcb,Upkaar Virk,1991-04-24,9531233244,Bhandara,Retail Sales Associate,BATCH_9032,85.62,64.4
-61388de7-f158-437e-9716-1ae01aac7167,Falguni Mallick,2004-11-10,6935147672,Solapur,Plumber,BATCH_2771,78.93,91.09
-05a30c3c-74f8-4b62-820e-d2b328c0cb74,Falguni Datta,1999-06-04,9416960306,Sangli,Electrician,BATCH_6404,61.5,71.34
-04724111-a7a3-4724-bf15-cd3719fde9d1,Liam Khalsa,2002-10-16,7853150998,Satara,Electrician,BATCH_3396,85.57,85.57
-ca363564-dd9f-4858-921a-dbce9c66774e,Jeremiah Mitter,1997-11-11,9109971784,Mumbai City,Customer Care Executive,BATCH_2975,99.41,63.23
-0c168cd5-0d0c-407f-8573-55e1e1b74bd3,Chakrika Hans,1985-07-28,9477131597,Buldhana,Field Technician,BATCH_2661,91.44,83.38
-84580d89-0b5d-4026-b931-b873e39e1f91,Logan Sami,1985-10-18,8273497327,Gondia,Logistics Associate,BATCH_8007,78.05,46.15
-fa93c0ca-4cdb-4b66-8c31-0239b77a2c40,Leena Sahota,1987-08-12,6432759989,Ratnagiri,Logistics Associate,BATCH_4329,98.72,48.55
-e46ea71d-a04f-4fd2-9147-13a24b9bd609,Ayush Batra,1989-09-28,9639026034,Parbhani,Electrician,BATCH_7326,99.73,60.62
-68172861-7095-485d-8543-e3bb871cf518,Jonathan Mahal,1981-12-07,6984968439,Chandrapur,Retail Sales Associate,BATCH_4475,82.09,72.84
-36a94b96-9ddf-46fa-948a-8763347b2b00,Nakul,1998-07-13,8140229007,Mumbai City,Plumber,BATCH_2758,96.42,58.43
-b9602215-e095-4b7e-a48c-084d69dee001,Isaiah Narayanan,1985-03-17,7844292151,Raigad,Customer Care Executive,BATCH_5205,89.35,79.62
-25979098-56a2-4b1f-bc1f-3c4d98c96dc9,Yachana Sinha,2005-02-05,7197939109,Ahmednagar,Customer Care Executive,BATCH_7492,75.67,77.25
-2b34a32d-b29a-4559-98d7-9f631943dade,Ayaan D’Alia,2005-03-20,6954942461,Thane,Customer Care Executive,BATCH_9728,71.42,60.38
-a99d387e-2505-4c6d-b1ed-23433ef6cadb,Ayush Bumb,1981-12-06,7788887139,Sangli,Retail Sales Associate,BATCH_9691,78.16,73.57
-a6ce5d22-a21d-4b82-91db-d35d872af17a,Amara Oak,1983-10-13,6366186631,Jalgaon,Retail Sales Associate,BATCH_6539,51.05,70.47
-b7b90eb0-80c5-4904-9d36-fd3f5c7195e3,Yachana Mahajan,2003-11-30,8760191749,Bhandara,Plumber,BATCH_1939,53.75,75.06
-fa2f1b66-6cf2-476b-b91a-af2372910370,Deepa Chokshi,1996-11-11,9680911523,Thane,Retail Sales Associate,BATCH_4846,81.56,90.65
-e7dbe325-4e51-4282-b174-d6476bc5521a,Panini Brar,1992-09-18,9596126873,Jalgaon,Field Technician,BATCH_4022,59.32,76.15
-f7707578-33c1-48c0-8839-3941a7f96085,Krish Thaman,1993-10-06,8443080569,Solapur,Retail Sales Associate,BATCH_6500,72.33,54.59
-dd7c9839-e3bb-4234-be08-42a31cd5a496,Ganga Shukla,1992-04-20,7454123990,Wardha,General Duty Assistant,BATCH_5722,83.13,62.02
-dbc49b22-1c90-4f95-9502-881bb5cf3498,Inaya Mukherjee,2007-10-03,9600368062,Sindhudurg,General Duty Assistant,BATCH_6246,95.72,60.39
-6c9723b9-86fc-48ea-a120-a7666875adf8,Azaan Kota,1986-03-29,7631855083,Thane,Python Developer,BATCH_9229,98.27,58.26
-1cd4e228-3f1a-4d06-935f-f851f5e57fe9,Jeet Vasa,1984-12-10,9100725768,Bhandara,Electrician,BATCH_3161,94.11,56.6
-781cb351-6af7-4c34-bb92-d4baa68112b0,Umang Bhatt,1990-02-15,7161073976,Akola,Retail Sales Associate,BATCH_4044,53.43,43.74
-eb078a28-d8db-4319-8609-08f5951fb7a4,Kashvi Nori,1996-04-11,8391261014,Raigad,Customer Care Executive,BATCH_2956,75.1,89.61
-7bdd7e55-2915-4206-b16e-f64abd3995c7,Guneet Bhat,1991-12-07,8318610946,Nandurbar,Logistics Associate,BATCH_9004,62.56,89.95
-378ac341-25df-4cca-b8db-26da44a47f72,Aditya Choudhury,1982-10-07,9546434187,Palghar,Electrician,BATCH_7883,69.47,82.34
-fa811f66-5978-40c5-88ed-7091e9aa507f,Teerth Sawhney,1993-02-09,6656307931,Sangli,Plumber,BATCH_3697,58.1,91.41
-53df3bb4-5edd-4cd8-bd7b-056be26fbec8,Rishi Pillai,1999-08-27,6200395400,Nagpur,Field Technician,BATCH_7179,77.64,43.09
-16590632-90a9-4c68-bacc-9370a38df444,Oeshi Mahajan,1986-09-11,9392956587,Nashik,Retail Sales Associate,BATCH_6417,58.12,65.24
-79fe272c-4d8a-4756-b746-5a39979d54e3,Darsh Murthy,1982-04-05,8477040284,Akola,Field Technician,BATCH_9785,66.56,41.52
-899e305e-78bd-4d69-a310-9078481b753c,Pallavi Roy,1993-09-26,7383968123,Pune,Retail Sales Associate,BATCH_3546,63.62,73.27
-fa92c16c-d564-4d2d-b56b-8a8e7dc43873,Triya Manda,2002-06-12,6854674236,Solapur,Retail Sales Associate,BATCH_9189,92.27,75.47
-aaf2f28f-c5af-41c7-bd81-a6102a8d8b88,Harsh Chanda,1991-04-19,6692749116,Jalna,Customer Care Executive,BATCH_4150,85.23,42.52
-c722ba87-518d-4210-b599-8c9d23c25836,Harsh Chahal,1997-03-11,6734036506,Bhandara,Data Entry Operator,BATCH_1488,54.68,52.8
-cad49e1c-f092-40be-8ec4-a55411ac03c5,Lajita Sood,1980-10-28,9652543518,Mumbai City,Logistics Associate,BATCH_8569,70.66,50.32
-b00e465a-e77b-4e7e-88f8-0a3e0fe4fddc,Chameli Sanghvi,1989-03-18,6445864933,Sangli,Retail Sales Associate,BATCH_3067,63.75,74.82
-c3d7699a-487d-4ee6-8899-cdb881c4d1d6,Chasmum Rege,1983-12-05,8269119969,Kolhapur,Customer Care Executive,BATCH_9335,61.21,94.18
-37a7f49b-9639-4aa7-a536-64eac6a78af1,Eiravati Chaudhary,2004-02-27,9192013357,Jalna,Electrician,BATCH_2204,54.1,48.48
-3c9bf96d-58ee-4a1d-a75a-794cd21927fc,Vaishnavi Bora,1993-05-30,6262915636,Sangli,Plumber,BATCH_2395,99.7,46.51
-e6592a19-a932-4f59-b1c6-f2fb3bf5a93a,Garima,1984-02-23,6224628497,Sangli,Customer Care Executive,BATCH_6110,67.15,83.13
-b245d17e-2c1f-4fec-9418-a10196542d93,Samar Oak,1997-08-24,7631381642,Hingoli,Retail Sales Associate,BATCH_4949,74.98,72.67
-25a7b381-2b59-4187-917d-611420bee10b,Janaki Kanda,2008-08-01,6743111853,Osmanabad,General Duty Assistant,BATCH_1319,55.59,59.96
-eff45ce0-ebc2-4bf4-98f5-068e4edc79df,Vanya Vora,1991-03-18,7201710493,Chandrapur,Retail Sales Associate,BATCH_3290,56.07,43.39
-f58b9ca1-6d55-4c6b-a832-c48bb5d8ede0,Vamakshi Swaminathan,1993-03-17,7826197069,Nagpur,Logistics Associate,BATCH_6992,54.52,61.7
-0b95ae12-4864-49cc-ba27-d3edc8991aa7,Warhi Bansal,1984-03-12,6645127678,Buldhana,Logistics Associate,BATCH_1618,83.1,88.2
-745fd914-8f2b-4f5d-ba27-6a725551ce04,Bishakha Sanghvi,1980-09-13,9737594763,Nashik,General Duty Assistant,BATCH_2752,56.77,40.37
-ae91ca6f-c2ac-4901-a534-7d9dfb97ce46,Tanish Jaggi,2003-11-04,7131464348,Aurangabad,Data Entry Operator,BATCH_8728,76.47,82.18
-c6b760f3-e97a-4147-8617-4ce264fb0e20,Frado Mander,1995-02-03,7394539550,Thane,Data Entry Operator,BATCH_5786,84.87,46.95
-87559e35-15bd-4b21-8942-0145a9418ffc,Darsh Srinivas,2004-05-20,7489256938,Yavatmal,Plumber,BATCH_2204,69.32,64.77
-a7cb53f3-e8f0-4a7e-9d76-70f11d502884,Oliver Contractor,2002-06-09,6452794611,Buldhana,Field Technician,BATCH_6188,81.34,88.81
-b3fa17f3-2464-4da2-8ba3-28607020d3ac,Abdul,2001-06-15,+919427899537,Palghar,Retail Sales Associate,BATCH_4404,81.28,54.56
-837681aa-e2a3-42d5-9d41-03eb7a6501ab,Oscar Dua,2001-12-11,7881531720,Jalgaon,Data Entry Operator,BATCH_1372,98.92,65.47
-00ba9ff8-8426-43f8-913e-65d525347bd0,Udyati Sathe,1993-01-14,7305665554,Dhule,General Duty Assistant,BATCH_5530,86.23,93.71
-17db47d7-7b5f-4ef1-b351-83929bd45b8d,Jagrati Bhat,1991-10-22,8234400576,Beed,Logistics Associate,BATCH_2530,75.13,49.27
-714775b2-42cf-4de9-a975-f6f3f5dfc382,Suhani Mangal,1992-07-03,6605399561,Jalgaon,Electrician,BATCH_8541,67.48,85.13
-69cf95e3-8e8c-416d-bc03-9fa337b16c4e,Quincy Biswas,1997-04-27,8568574364,Akola,Retail Sales Associate,BATCH_7311,94.98,50.45
-c2509315-4456-436a-8426-3278c62ba038,Ekantika Korpal,2003-12-02,8123557463,Nagpur,Plumber,BATCH_1132,78.3,77.72
-10b83a5d-c93d-4701-934f-4f97aaee253b,Balveer Bumb,1992-05-25,7491079829,Bhandara,Retail Sales Associate,BATCH_6409,81.16,76.49
-52c3c10b-678d-47be-a4f0-61f73c9fca9b,Triya Seth,1981-09-17,6250469429,Akola,Plumber,BATCH_4836,90.79,80.23
-5df4a87f-a3b9-4b4f-9967-1c3704a18970,Qabil Deshmukh,1982-06-05,9673772626,Akola,Field Technician,BATCH_9907,51.84,93.26
-f8678aed-eccf-4695-adda-8875a66eb693,Imaran Bal,1984-05-07,8582750043,Ahmednagar,Python Developer,BATCH_2586,52.53,92.0
-c41cbcee-10ff-4e86-89e9-d84c667d2aea,Ladli Agate,2008-03-31,9961393416,Ahmednagar,Plumber,BATCH_3608,89.37,45.95
-e56b0e00-f9f2-4cdd-93c8-f48ec4b183ab,Kabir Soman,2006-03-04,6154318806,Buldhana,Data Entry Operator,BATCH_2528,96.32,86.68
-eead0f8a-6078-47f8-b430-ac9483ade0ce,Nachiket Magar,1988-07-19,9153921577,Yavatmal,Electrician,BATCH_2988,72.82,84.08
-e3f22366-d71b-44bc-b242-795584aea363,Tanvi Bhatnagar,1983-10-06,7388749542,Beed,Plumber,BATCH_9079,57.3,49.2
-bfd2cd34-cbed-4b2f-a9e8-3dc32e951a46,Warinder Chauhan,1984-10-04,7801726890,Latur,Retail Sales Associate,BATCH_3924,99.64,61.62
-2f01707a-c8ab-449e-ad88-9b25c861cf05,Yashica Rajagopalan,1993-08-13,7544056890,Beed,Plumber,BATCH_1998,77.84,72.54
-04abe00a-6963-47e0-80a9-c3357a6b50eb,Jai Barman,1990-05-19,8484897084,Parbhani,Field Technician,BATCH_3385,62.21,62.66
-576bb3be-1e92-4c5b-a949-979cf37e9311,Bimala Barad,1980-12-01,7882576281,Mumbai City,Field Technician,BATCH_1530,59.1,57.5
-640e0c0f-f2f4-424c-82b5-6300699712d6,Raksha Bassi,1992-02-29,9965615974,Kolhapur,Retail Sales Associate,BATCH_2578,76.22,53.25
-fac5132d-c4ee-465a-9fe6-6b930423d0dd,Warjas Ganesan,1992-01-15,8937643439,Yavatmal,Field Technician,BATCH_3532,96.29,53.02
-39d1c807-d187-4624-9513-bcc9e297930e,Upma Mangal,1995-09-08,9392036942,Washim,Retail Sales Associate,BATCH_5308,85.62,71.72
-8ba46666-e671-4238-beb3-fc429abebab6,Balendra Biswas,1987-03-26,7368438908,Palghar,General Duty Assistant,BATCH_7081,77.73,45.64
-1f4c7756-07ad-4ea4-b073-e5cf5b899c1e,Pavani Narayanan,1990-07-05,8755070775,Jalgaon,Retail Sales Associate,BATCH_8606,95.47,56.62
-1a03e386-8a07-44a0-92b0-0bb0e51aa6d8,A. Malhotra,2005-09-10,7465278988,Sangli,Customer Care Executive,BATCH_6231,86.71,87.34
-ab1126ce-8c9a-4821-9752-4c834c993feb,Yamini Gera,1981-10-03,7965195567,Chandrapur,Data Entry Operator,BATCH_7761,98.39,70.65
-6389ca28-83be-44ca-9f05-c6528cdfdb40,Abdul Dugar,1992-01-20,6196913120,Palghar,Electrician,BATCH_4584,51.0,66.29
-618692fd-19e5-4f2e-9cd9-5157008488d3,Isaac Bhatia,2003-11-12,9675004218,Gadchiroli,Electrician,BATCH_8803,64.94,61.71
-3fe586aa-ee43-4115-bff1-e80f2bfc17a3,Rushil Din,1981-05-05,6371096600,Gadchiroli,Retail Sales Associate,BATCH_2070,70.04,44.07
-5d6cfbaf-8c98-45aa-83e8-ebdd19a13f78,Qushi Datta,1981-10-30,9997356828,Wardha,Logistics Associate,BATCH_9947,89.99,89.38
-25bead54-73a1-4bfd-8ff1-8c4025e1d7e9,Amol Varma,1996-10-05,8552155193,Beed,General Duty Assistant,BATCH_2260,68.06,91.93
-f909889b-4e43-4f07-989b-4e30116d344d,Suhani Pillay,1999-07-02,7221814525,Mumbai Suburban,Python Developer,BATCH_9176,75.89,90.24
-c1f33662-baa2-4c47-a413-de2628669418,Zayyan Bumb,1993-10-29,9588922557,Osmanabad,Electrician,BATCH_4912,78.59,52.85
-aed1bc92-fd4d-4e17-ada4-497a361df6cf,U. Patel,1985-09-07,8206681214,Parbhani,Logistics Associate,BATCH_6876,53.03,55.17
-adff5e0f-894d-478f-b173-8c223b76f0ce,Avi Som,1988-02-04,9180348617,Palghar,Field Technician,BATCH_3141,61.84,54.35
-5d3a7a92-0400-4ac5-b05b-c94b794d7159,Vedhika Dara,1981-06-20,7933468715,Latur,Customer Care Executive,BATCH_3419,61.81,48.05
-e63a2c4f-b8c2-4d14-9ad3-a70a17ed383d,Chasmum Issac,2008-08-22,6483426624,Raigad,Customer Care Executive,BATCH_4950,86.65,74.55
-33a3de97-fa03-4f94-a33e-53f36cbb7ed4,Hamsini Rao,1998-11-08,9996696177,Nashik,Customer Care Executive,BATCH_8218,73.08,55.5
-c66dca5b-12a1-40f8-b8f4-bf32b94fd7e0,R. Khare,1996-09-01,8973150512,Satara,Logistics Associate,BATCH_2531,82.3,63.29
-b8f6877f-d6cd-4e77-97d0-3b71883436fd,Madhav Devan,1981-09-24,7894198823,Hingoli,Customer Care Executive,BATCH_6909,55.33,40.29
-b9e649fb-26be-4e18-99bd-de05df663639,Raagini Desai,2005-05-14,6632734398,Chandrapur,Logistics Associate,BATCH_6900,52.77,87.26
-5f6bdee5-8586-4b1e-bef8-2b8b60f4673c,Vedant Mann,2008-03-30,7835098955,Osmanabad,Data Entry Operator,BATCH_4752,91.09,84.28
-3fff85b3-535f-4542-a741-2e12e0193316,Vedika Handa,1987-01-01,7682115008,Palghar,Logistics Associate,BATCH_1554,91.95,44.09
-952e91cf-e3da-46fa-97b8-43ff0f1d6395,Mohammed Gupta,1988-12-19,7339362341,Mumbai Suburban,Electrician,BATCH_7528,66.41,87.54
-a53e1614-e4b0-43b4-8a78-c8991c4a929d,Nicholas Golla,2003-12-09,6668457864,Aurangabad,Logistics Associate,BATCH_5697,50.86,84.72
-cfcc2135-850a-4a81-b781-1375c7240248,Robert Patil,1996-02-24,6345247378,Akola,Data Entry Operator,BATCH_1721,92.93,40.68
-35042a46-10cf-4765-83d8-216b397df3ff,Onveer Sharma,2003-12-16,8658712474,Gondia,Retail Sales Associate,BATCH_4365,85.85,66.89
-0910eae0-f6f6-450d-8566-f13303a2e657,Zayan Apte,1999-09-16,7865523129,Beed,Field Technician,BATCH_7118,71.91,68.47
-171c59df-b2ab-4a6d-b478-01040489b42a,Shivani Guha,1989-08-30,7772155012,Bhandara,Logistics Associate,BATCH_9120,52.34,58.94
-51279d4d-48d8-4ca8-93c7-eb1fd594faf0,Ekani Mangal,1998-09-29,+918163947730,Mumbai Suburban,Python Developer,BATCH_3320,88.72,86.56
-195800f6-41bc-4c91-a602-accb4b36392c,Gagan Nagarajan,1999-05-11,9278221407,Satara,Electrician,BATCH_4390,90.27,71.35
-3d8bd743-b90e-47cc-9890-c2982e492a65,Inaya Kapur,1998-11-12,9146865930,Osmanabad,General Duty Assistant,BATCH_7246,69.3,76.5
-e2d25971-e9a2-4a6e-ae8c-8a214be3e457,Bhanumati Krishnan,2000-12-03,9360482447,Dhule,Field Technician,BATCH_4921,77.6,82.65
-2f3a7708-1321-4e91-ae31-32d80dbd9a85,Wishi Sathe,2001-12-09,9732295732,Nagpur,Logistics Associate,BATCH_2288,69.79,57.07
-31e935b0-84a2-4d6f-b4ab-6fb496b9f09b,Yug Dhaliwal,1983-05-16,9554810444,Nagpur,Retail Sales Associate,BATCH_9791,76.88,48.4
-f00202bf-2b00-443d-8df9-9bc2f0dc33ea,Neel Naidu,2006-10-31,8200223044,Parbhani,Plumber,BATCH_2350,68.59,89.71
-db59ff5b-3267-4fb6-84d5-a3afe0859605,Dayamai Gole,2007-04-17,9594811370,Solapur,Customer Care Executive,BATCH_3773,57.0,70.06
-f81eb5d9-6d78-426c-9c50-419db768923d,Kashvi Kulkarni,2001-08-01,9491932454,Pune,Electrician,BATCH_9939,59.0,82.22
-612ecfa6-86c6-463b-abe0-806f5af18f81,Nisha Tandon,1988-09-23,7920511515,Nandurbar,Plumber,BATCH_6375,56.0,67.36
-0c47ef73-3d46-4745-95ac-5a0e3e572957,Tanvi Mutti,2006-09-03,7760904107,Beed,Field Technician,BATCH_9977,91.69,56.71
-c43542d2-8353-4f03-ad7e-9125167ecbce,Udant Bajwa,1999-02-21,7599326438,Nandurbar,Customer Care Executive,BATCH_3749,80.29,93.01
-6fbfa93f-501f-49f8-a418-243327f2875b,Tarak Kaul,1989-11-10,8586989309,Raigad,Data Entry Operator,BATCH_3589,71.98,66.63
-16102144-e9af-45a1-80a1-662a71c0a0e0,Chasmum Apte,1987-12-25,8809311588,Jalna,Plumber,BATCH_4891,54.8,61.61
-39a367a8-e7b8-4cdc-b25b-581b09ac81fe,Harrison Rai,1988-06-10,9387484583,Raigad,Electrician,BATCH_6155,60.63,67.46
-2c376cbb-45b6-440e-9c5d-586a8bf43ed5,Gavin Uppal,1993-02-17,9316809172,Sangli,Plumber,BATCH_6238,95.54,90.28
-aece3d27-be48-4e4c-895c-831e67fcbe0a,Abdul Chhabra,2002-06-15,9427899537,Palghar,Retail Sales Associate,BATCH_4404,81.28,54.56
-9e275231-b652-4384-be5f-53361e794a81,Kala Mane,1985-01-28,6362897676,Gadchiroli,Retail Sales Associate,BATCH_8461,70.72,74.64
-aa25f650-d377-40c1-a73e-80ad481eb7da,Gautami Mane,1993-05-19,7786815488,Sindhudurg,General Duty Assistant,BATCH_3304,66.56,44.28
-c77cf10c-144a-47e5-bb52-bc4dccbff95a,Vedhika Khare,1988-05-07,9570040006,Ratnagiri,Data Entry Operator,BATCH_8078,86.73,73.2
-44e3bef8-ee94-4233-a173-9852f79fd3bf,Faris Devi,1984-11-18,7605196410,Washim,General Duty Assistant,BATCH_5557,59.07,72.19
-03436c4a-bead-4924-832b-eb4af62b42c5,Tejas Bora,1981-12-05,8511289794,Amravati,General Duty Assistant,BATCH_1613,58.61,62.16
-3948eda8-9d81-4362-afae-73a8f7cada1a,Ranbir Khare,1996-09-01,8973150512,Satara,Logistics Associate,BATCH_2531,82.3,63.29
-6f8bb752-446f-4bae-983b-ffb0cac4c65f,Chameli Setty,1982-09-14,7694205108,Jalna,Data Entry Operator,BATCH_5942,60.27,73.38
-ab8e8193-8c06-46e8-91e7-e3033ae0ec9d,Lavanya Barad,2004-09-12,6475767056,Jalgaon,Retail Sales Associate,BATCH_1659,87.71,92.23
-58ce2159-3936-4ed9-99aa-af401686f0e9,Yashica More,1999-05-02,8696776072,Mumbai City,Logistics Associate,BATCH_4130,54.28,79.6
-0a840041-e480-48fb-ac05-5a5cca24469b,Bakhshi Date,1982-07-17,9554234434,Kolhapur,General Duty Assistant,BATCH_9804,84.67,75.49
-f37a5e8b-ba2b-4003-96d3-6c6fbc79fab8,Upma Venkataraman,1998-11-25,6156488296,Sangli,Python Developer,BATCH_1815,83.7,54.97
-b1248e9c-76dd-45e1-8897-90d2a10460d6,Mohammed Sachdeva,1998-12-30,6583156434,Chandrapur,Logistics Associate,BATCH_6644,56.42,85.6
-cc520783-4f09-4e43-9e23-928f0cea27c1,Anita Devan,1983-09-20,7271395839,Sindhudurg,Electrician,BATCH_4951,63.33,84.9
-07f8fb38-f9b9-47e5-900b-d4821acc3f6b,Rudra Sandal,1983-11-15,7697398528,Palghar,Logistics Associate,BATCH_6400,83.5,62.59
-93afd3db-1f87-4734-92c5-89dc02fe4a65,Abhiram Mistry,2006-10-01,7871318048,Hingoli,General Duty Assistant,BATCH_7547,62.2,76.08
-0119421c-81b1-4ea5-8f7c-7e2e8d9bcf2c,Libni Bumb,1991-02-27,7482049366,Yavatmal,Field Technician,BATCH_8075,59.29,72.22
-5f51ade3-d188-41b0-a1c5-7ffb9a6686db,Bhavya Johal,1999-12-27,6280377032,Bhandara,Field Technician,BATCH_9128,51.47,77.58
-81ba9b98-93f6-4e29-afd2-62092f71f65a,Wridesh Tank,2006-03-21,9219385981,Jalna,Electrician,BATCH_5934,56.09,53.11
-a858954b-71ae-4885-9f09-5a558b1b2321,Mohammed Khalsa,2005-11-13,9735540030,Mumbai Suburban,Retail Sales Associate,BATCH_8022,56.78,65.39
-3f76003f-249c-43bf-b0dd-be3a12bb29f8,Hritik Swaminathan,2000-08-09,8986171278,Pune,Python Developer,BATCH_2584,69.7,83.72
-4241367e-2923-4c97-98a0-890acfb5334e,Gaurang Sarkar,2004-04-21,9968326513,Palghar,General Duty Assistant,BATCH_3161,75.66,65.12
-ea060574-0709-4b65-9f1b-c106ea30e23c,Caleb Verma,1989-02-07,8920184955,Nagpur,Customer Care Executive,BATCH_1741,70.03,71.37
-e59c8b3f-6d7a-4c4c-9ee6-b3c6b2b1a614,Bhavika Parikh,2004-10-19,7470405910,Mumbai Suburban,General Duty Assistant,BATCH_2712,64.77,90.63
-f65817e8-3644-4ada-b19b-11f97c9c9375,Laksh Chatterjee,2005-12-15,9529520110,Gondia,Field Technician,BATCH_6554,98.69,67.29
-68cf9b81-4940-4276-8725-2cf27c7f1269,Harini Mammen,2005-04-23,8450811990,Wardha,Python Developer,BATCH_4289,56.61,69.67
-9cc66254-d905-4a68-8c84-27374b9bfb47,Girik Menon,1986-11-12,8676140134,Pune,General Duty Assistant,BATCH_7038,83.64,76.98
-ebab833f-dde9-4b20-982c-291d925ecdc2,Devansh Rajan,1991-05-06,7384602384,Washim,Field Technician,BATCH_4470,96.45,81.54
-4e8766b4-6b15-4fed-a25d-414000119243,Yug Dhaliwal,1983-05-16,9554810443,Nagpur,Retail Sales Associate,BATCH_9791,76.88,48.4
-9d7b0701-9494-4769-81b6-252134f0fe92,Kabir Soman,2007-03-04,6154318806,Buldhana,Data Entry Operator,BATCH_2528,96.32,86.68
-156cecf5-5a61-4cfe-9f49-66ccaed27a07,Ryan Sharma,1990-06-13,7121882877,Sangli,Electrician,BATCH_3068,73.68,46.29
-a7e95b03-ab92-4c33-ac64-a0c4697f1351,Reyansh Mutti,1984-01-03,6352114611,Buldhana,Python Developer,BATCH_7367,72.68,76.88
-e5330503-6466-4a7f-8de3-e13406e4da36,Rajata Bahl,1993-07-13,8546510829,Yavatmal,General Duty Assistant,BATCH_9806,90.1,85.41
-aee3e4c1-7881-4478-8f3d-0f7ff9a7f583,Jeremiah Jha,1982-07-31,8789242701,Beed,General Duty Assistant,BATCH_5012,90.23,77.67
-e9dc1b0a-923f-4e71-9f40-6b8efec894aa,Girik Kar,2008-06-10,9910080036,Gondia,Customer Care Executive,BATCH_6179,57.55,43.76
-27a1fe9a-e6d4-47d8-a532-75d6f9a8dff1,Tanay Rattan,2005-12-05,7958872154,Kolhapur,Field Technician,BATCH_1406,58.97,90.85
-d997b1d4-ed88-4435-ba9d-d5b3048415b7,Kevin Palla,2005-04-28,8200273738,Ahmednagar,Plumber,BATCH_4680,90.33,48.1
-7d0b80d0-98eb-496c-9b0b-d760c6983f4a,Utkarsh Patel,1985-09-07,8206681214,Parbhani,Logistics Associate,BATCH_6876,53.03,55.17
-f8897f0e-f724-4b99-b302-6c38d5d5b1a7,Manthan Lata,2003-10-21,9874233009,Palghar,Plumber,BATCH_6119,67.58,71.79
-d3101e70-b8cf-4dae-93da-4677ee36c5df,Lakshit Venkataraman,1986-06-19,8980564513,Kolhapur,Data Entry Operator,BATCH_7625,92.73,70.58
-d32ee8d2-fee5-4196-9cde-ea5449c8053b,Fariq Bahl,1987-10-29,9698058121,Yavatmal,Logistics Associate,BATCH_7685,55.16,44.93
-1153ef0c-91c7-470c-a32c-177c129701a2,Bhavika Keer,1988-04-07,6198061499,Jalgaon,Data Entry Operator,BATCH_5415,78.81,81.97
-05945d97-61af-4682-834b-74db596f6439,Ladli Narang,1986-08-02,9464938258,Akola,Plumber,BATCH_1042,64.14,56.42
-4e280f9f-9d96-448c-97e9-f30d708f7d83,Harinakshi Grover,1994-07-21,6422406106,Thane,Retail Sales Associate,BATCH_1370,92.46,75.64
-b3b5963e-bf56-489f-984e-7df6fe5a0248,Krish Lalla,1983-11-22,6906341967,Sindhudurg,Field Technician,BATCH_4585,58.79,92.69
-2c1d5633-a774-45c9-bbc1-37157d4a1b2a,L. Raju,2008-02-05,+919306164050,Jalgaon,Python Developer,BATCH_3538,53.86,86.44
-4b6b3852-ca38-4d62-99a0-99e3dc9e1f46,Harshil Varty,2004-06-28,6292580427,Osmanabad,Data Entry Operator,BATCH_4394,79.35,81.37
-ff23dc07-595e-4eaa-8f19-6aed166979fa,Janaki Handa,2000-05-21,6754049436,Solapur,Logistics Associate,BATCH_5010,58.17,60.87
-9ede0ee4-199d-4467-91b2-52b0dbb49969,Neha Merchant,1996-03-07,9696115913,Ahmednagar,General Duty Assistant,BATCH_9041,72.41,40.95
-8bfdae0e-742c-4aae-8057-d6bd2f2e0a40,Lakshmi Wali,1988-11-30,7750967273,Akola,Python Developer,BATCH_6373,96.57,57.52
-cbe1df76-9675-4728-8d4d-8e1f18621618,Yashasvi Shankar,2007-09-23,7633019326,Latur,Logistics Associate,BATCH_9474,89.15,79.64
-21a1410d-e1e0-457c-9a0d-e1ec79a43100,Sachi Bose,1996-09-23,9702994164,Akola,General Duty Assistant,BATCH_7703,84.23,62.86
-2beadf47-b046-4846-b237-33947db9cd33,Zayyan Sridhar,1983-11-08,6241522640,Mumbai City,Customer Care Executive,BATCH_4898,79.44,40.87
-4937ad9a-41e9-45c6-a26a-7cb5a2a73c4f,Bhavna Dara,1996-09-18,6759391912,Ahmednagar,Plumber,BATCH_9173,70.6,70.29
-195ef4b5-2181-4507-a09a-bb7e4eec80c2,Hemangini Lalla,2003-04-05,7930075810,Jalna,Retail Sales Associate,BATCH_4814,93.32,60.91
-34bf37c0-ae51-4382-b728-46b3ec0e2aed,Kashvi Sagar,2000-04-24,7578647558,Thane,Plumber,BATCH_8204,73.25,52.44
-31edd49d-a2a0-4a34-9cd5-3bd2e12beffa,Odika Bhagat,1985-11-29,8284547422,Chandrapur,Customer Care Executive,BATCH_2443,71.84,45.82
-7eb6b853-c7aa-4666-af1b-b5f6e8b0d27d,Rajeshri Ratta,2001-06-21,9473984594,Gadchiroli,Retail Sales Associate,BATCH_8178,86.1,64.88
-7ffe07fd-f56e-4de3-aebd-d91300a83c63,Yasti Solanki,2002-11-19,8207939087,Nashik,Plumber,BATCH_4727,68.04,56.62
-06abd644-e2b9-47f2-9887-1c0329dd65d2,Qushi Seth,2005-07-11,8609912042,Mumbai Suburban,Customer Care Executive,BATCH_6427,83.69,93.89
-57e96f56-f6b0-41bb-b330-2d4425ba183e,Adya Sangha,2005-10-19,7264109919,Parbhani,Python Developer,BATCH_9837,97.67,90.73
-6850aa3d-b86b-4921-9086-5af8c052a3bc,Ayushman Chander,1986-10-13,6702632297,Nashik,Logistics Associate,BATCH_7873,61.02,72.41
-16507c4c-c266-43c6-88ee-f9c6786e4cb8,Bhavika Swaminathan,1986-04-07,7419662531,Thane,General Duty Assistant,BATCH_5305,67.43,84.92
-86801947-d9e1-4538-866e-3bc27c2ec9e6,Sanya Wable,2000-05-13,9912239392,Jalgaon,Logistics Associate,BATCH_1999,92.04,85.01
-2e8d954f-e571-4bc2-b244-7d39b2cceabe,C. Srinivasan,1984-06-07,+918959870518,Nagpur,Customer Care Executive,BATCH_6211,72.64,52.85
-fd964a30-ae77-46ba-a8b0-6dbcf35baf40,Widisha Mann,1998-08-19,9333264702,Ratnagiri,Retail Sales Associate,BATCH_3293,87.62,72.43
-24ff20ce-bf23-4c96-b2eb-dce24340ea9a,Nicholas Ramaswamy,2008-05-25,7681479730,Latur,Data Entry Operator,BATCH_6488,50.07,76.15
-ac064e01-5538-45a1-8dfd-b837080f9b74,Charan Srinivasan,1985-06-07,8959870518,Nagpur,Customer Care Executive,BATCH_6211,72.64,52.85
-adc58f6d-1964-4b7f-88d8-64b448d4e887,Michael Khare,1984-03-11,6572775194,Sindhudurg,Logistics Associate,BATCH_8486,50.77,47.93
-62185a95-ff26-464c-8693-6d38e549b3c5,Pranav Lanka,1981-09-24,8113585139,Wardha,General Duty Assistant,BATCH_2729,71.68,59.92
-5d50314e-ada3-4fd0-b1e0-65533f1b6d4c,Hamsini,1999-11-08,9996696178,Nashik,Customer Care Executive,BATCH_8218,73.08,55.5
-c3367de0-92d6-4a43-8abd-f9b44d6dfc9c,Harshil Arora,1996-09-24,7729624046,Dhule,Electrician,BATCH_6383,88.72,83.38
-5dbe61fb-97c2-4e6b-bca7-a7d767a73826,Naksh Agate,1992-02-05,8988434627,Chandrapur,Field Technician,BATCH_7815,86.48,57.19
-86f12408-1723-4a5c-afec-6880dd01c21c,Lajita Nadig,1998-03-18,9639991949,Washim,Field Technician,BATCH_3655,90.84,84.07
-ca20484e-3603-44a6-a676-4e747fe29314,Jason Roy,1990-07-24,8825708356,Nandurbar,General Duty Assistant,BATCH_4150,97.87,55.35
-a7e510ac-5410-48c5-9825-e3ce551109cb,Xavier Bedi,1999-06-01,6920392140,Jalgaon,Field Technician,BATCH_6813,96.76,94.53
-e6909395-bd45-4423-a1e0-14d68b43dbeb,Abeer Dutta,2000-03-16,8209747451,Ratnagiri,Field Technician,BATCH_2584,67.95,58.92
-d3995fb1-64fe-419f-ae3f-fc3a790a812f,Netra Dar,2007-01-09,6861052404,Bhandara,Data Entry Operator,BATCH_9518,96.28,69.61
-62c6796f-2fa4-4e07-9e62-2887abfe872a,Yachana Dora,2007-06-23,9943751263,Washim,Customer Care Executive,BATCH_7821,70.41,56.49
-c4dae627-3862-4c37-8c43-a0e09f5c3f0d,Ekantika Krishna,1981-05-20,7895609471,Mumbai Suburban,Retail Sales Associate,BATCH_9691,60.76,63.09
-f56a178f-d5f3-4d01-8478-607a204de5d0,Sachi Mane,2001-09-22,8975329786,Latur,Plumber,BATCH_7502,53.95,92.76
-c7375b9d-8fc6-4493-929a-10fa8121bfdd,Krishna Salvi,1991-02-22,6344767409,Satara,Plumber,BATCH_8259,88.7,57.65
-7cfaa85c-78f6-467d-b672-14324bd37588,Nitara Bakshi,1985-09-06,6379340713,Hingoli,Customer Care Executive,BATCH_4467,72.73,58.56
-b94393fa-2ea8-46c3-b360-b01a22d86258,Pratyush Sarin,1998-06-07,9621475287,Gondia,Field Technician,BATCH_5475,60.78,68.18
-86b303ab-5c69-4504-9b71-f09f3d181a7e,Reva Viswanathan,1995-04-19,7517061783,Ahmednagar,Plumber,BATCH_4331,66.51,44.35
-ce1aa164-08b4-4f57-b724-982457492d52,Ladli Nayar,1981-06-18,7766676815,Nandurbar,Python Developer,BATCH_2591,95.17,75.55
-bbce9d8b-0aad-4c07-b67e-db957326573a,Vincent Warrior,2001-05-05,8177880216,Parbhani,Field Technician,BATCH_2655,66.83,57.74
-fa7c0297-ccc0-45c6-833b-8fe1e0b6a29d,Kamala Varma,1996-05-21,8686645526,Kolhapur,General Duty Assistant,BATCH_2195,50.83,43.71
-762edb74-5d40-4f02-beda-7d3abc0f8ef3,Chatresh Randhawa,1994-09-19,9930598266,Osmanabad,Data Entry Operator,BATCH_5478,89.18,64.78
-f1ce3ea7-deea-40c3-9335-1690c5625daa,Gaurangi Purohit,1993-05-29,8433108786,Nagpur,Python Developer,BATCH_2388,65.48,60.72
-df39bcef-55a6-4c6c-83db-ec9a5513a72e,Advik Salvi,2003-09-07,7349310440,Chandrapur,Plumber,BATCH_8529,62.77,40.52
+3e9dbde9-5522-4cb3-a021-2c56211dbb80,Tanmayi Dhillon,1991-05-26,6582897882,Nashik,Customer Care Executive,BATCH_8792,75.07,92.67
+32c7cd5b-4fd9-40c3-a599-62204fb5c775,Tejas Kota,1999-09-16,8705855162,Palghar,Python Developer,BATCH_2584,54.29,58.91
+9c912594-3eeb-4b52-bb2d-470757199025,Sanaya Dutt,2001-06-25,7385220694,Sangli,Retail Sales Associate,BATCH_1977,58.3,56.92
+32a56ac9-bc71-42ca-ac80-61c7b5eebd91,Dalbir Shere,1999-07-01,9113275526,Washim,Field Technician,BATCH_2843,70.72,48.15
+078f214a-b534-4919-828b-46860a77d8c3,Nirja Bassi,1989-07-26,8119574893,Parbhani,Plumber,BATCH_3953,97.56,58.8
+005d4167-5bcf-4c05-80fb-29055b33c4cf,Yashodhara Tak,1983-03-16,8357109965,Palghar,Electrician,BATCH_2290,54.28,66.73
+6c161729-0f26-4039-b5fe-f4ac7be69508,Ekantika Mutti,1984-11-19,7878488534,Pune,Data Entry Operator,BATCH_7868,80.75,91.49
+fdb4d1c2-5da3-4156-b72a-a3c3d180e540,Max Dixit,2003-05-16,9935389432,Parbhani,Logistics Associate,BATCH_2786,72.6,52.19
+cf592e18-429a-43c7-a761-47de9b74f9f6,Ekta Bhalla,1987-01-27,9740389325,Raigad,Field Technician,BATCH_7252,79.79,65.74
+eb9bd7a8-7e02-4206-a33a-c94bfa4b3f61,Gunbir Keer,2005-07-03,+917757074545,Ratnagiri,Retail Sales Associate,BATCH_6067,69.91,79.43
+67261a86-666d-4d58-b150-124a82424dc3,Yutika Dey,1989-11-04,7886476517,Buldhana,Electrician,BATCH_3466,50.32,62.55
+ac8b514c-074a-4cf6-87a0-22b0d0bd9c19,Nihal Shere,1990-04-14,9197613238,Palghar,Retail Sales Associate,BATCH_3504,81.37,83.56
+e243a7eb-bd0a-4594-bca1-7e304b5e6234,Gautam Rana,1981-01-18,6716243819,Satara,Logistics Associate,BATCH_7012,69.9,75.73
+0becf129-69f6-47bd-990d-917e76221131,Kai Sant,1994-09-27,6206917560,Chandrapur,Data Entry Operator,BATCH_3035,96.47,48.69
+f041f43e-9922-419c-9e71-6e0385898250,Harish Sawhney,1985-04-26,9198476695,Jalgaon,General Duty Assistant,BATCH_6727,96.52,62.82
+3ae1a7f2-621b-4666-a9e4-e866bf647ab1,William Lanka,1991-09-28,8695295870,Satara,Electrician,BATCH_7888,83.25,60.85
+82edae20-0894-47b1-b237-89c84928aff6,Harshil Oza,2008-03-01,7910048118,Buldhana,General Duty Assistant,BATCH_4948,92.47,56.54
+746bfb30-e63f-4ef9-9a34-2137f618e4da,Barkha Misra,2004-02-09,9538912794,Nanded,Data Entry Operator,BATCH_6482,53.3,45.2
+ad8cd172-d77f-4afa-915c-13af076f0ca5,Keya Ranganathan,2007-01-08,7901834280,Ratnagiri,Field Technician,BATCH_2612,88.02,78.71
+4956a082-7cea-4844-ad87-af9f25046a1c,Widisha Bajaj,1983-03-07,8815197502,Kolhapur,Retail Sales Associate,BATCH_1207,85.4,78.58
+e1d7488a-7177-4dc1-a620-2f7cc2e45e5b,Zarna Ram,2006-03-28,9690263993,Akola,Retail Sales Associate,BATCH_2871,63.39,69.87
+fec12f78-57dd-48ac-a25f-7dd40f2370e1,Udarsh Chokshi,1990-06-18,9523625992,Latur,Python Developer,BATCH_5758,52.1,92.54
+b1a2c035-e696-4693-bb24-e6469604ea62,Balhaar Sha,1983-02-15,9288650860,Satara,Field Technician,BATCH_9725,85.18,67.51
+ebca2458-5d06-4afc-93b3-2d8ac35b3349,Kavya Dua,1999-11-22,9258672959,Ahmednagar,Data Entry Operator,BATCH_2800,59.54,64.26
+9793b206-acb9-400a-ac43-d1c34289d3f3,Thomas Sura,1986-10-21,8570423569,Amravati,Retail Sales Associate,BATCH_1472,98.66,73.49
+518851c0-5ab5-47d6-8e04-47c45bde7293,Darika Bath,1986-11-01,7288436227,Nagpur,Field Technician,BATCH_9442,66.4,62.05
+33a15adc-6291-4cb9-a45e-451f4bf2cff9,Divya Kala,1999-01-05,8219778234,Jalna,Field Technician,BATCH_3591,72.69,92.46
+ef587bd3-f597-49d3-be88-f8ce89d73e24,Jeet Radhakrishnan,1982-11-12,9782560971,Parbhani,Python Developer,BATCH_7065,67.76,76.86
+d56cde8b-7f2e-4c12-964f-86b7bd378baa,Yashasvi Suresh,1987-09-10,7898493949,Gadchiroli,General Duty Assistant,BATCH_5246,87.59,86.19
+999a8aea-c4c2-44d7-92ac-14c7b0e8cf48,Januja Sankar,1982-08-14,9711871397,Hingoli,Customer Care Executive,BATCH_1470,74.72,57.88
+eacc47ba-b0cb-4aef-9d88-2fa83d78aea7,Janaki Trivedi,1986-12-09,8652348887,Sindhudurg,Python Developer,BATCH_7743,95.94,94.59
+38678477-93bc-4345-9206-b62c94f71422,Garima Choudhary,2008-02-05,9852528635,Parbhani,General Duty Assistant,BATCH_2391,79.04,67.8
+2ebf8b71-6418-49a7-a35a-5ffc3225f942,Girish Goyal,2008-02-23,6179672074,Nanded,Python Developer,BATCH_7151,58.05,44.13
+145374e2-9c5c-481a-b13a-2335694f27d7,Lakshmi Prabhu,1983-09-11,6381080560,Nandurbar,General Duty Assistant,BATCH_4515,99.82,55.71
+f280ffdb-3c6b-48e1-b7ee-45b292499084,Gauri Bumb,1996-12-22,9600632621,Buldhana,Customer Care Executive,BATCH_6053,63.08,68.2
+1cc6cd15-d0d2-4955-8591-ed41a340fdf4,Unnati Varughese,1990-04-22,8687670209,Satara,General Duty Assistant,BATCH_6631,94.71,81.92
+6eba313e-1a7e-4df1-8df8-2de4209e26b5,Adweta Lad,2000-05-16,8682014641,Thane,General Duty Assistant,BATCH_9951,60.93,63.38
+8c14715b-b604-4592-ad80-482efefefbb0,Aarini Grewal,1981-01-20,6514396801,Gondia,Field Technician,BATCH_3725,94.23,67.12
+55d4710f-8e0c-412c-8206-612b3f5a14d9,Geetika Raghavan,1988-06-13,9259553112,Gondia,Logistics Associate,BATCH_8935,67.26,70.36
+23c5b526-7bf5-466e-b092-a1cf74d67838,Anvi Anand,1996-07-03,9139711044,Jalna,Electrician,BATCH_1717,89.56,88.72
+779a4813-a516-473e-a83c-7b5f5e24cacc,Dominic Date,1988-05-11,6148644109,Thane,Python Developer,BATCH_6456,90.2,68.56
+f1e052a7-97c6-482b-a46a-750fc7042890,Chakrika,1993-02-22,7398870482,Raigad,Retail Sales Associate,BATCH_9796,59.35,57.93
+6a4daf07-3b71-46ee-9095-7bef59ab1c75,Devansh Soni,1994-03-18,9358480413,Dhule,Customer Care Executive,BATCH_1797,52.53,67.22
+32c801ce-71f9-415d-afbd-d6102d520b77,Ojasvi Gill,1986-04-13,8578798403,Bhandara,Python Developer,BATCH_8272,67.58,42.33
+b9bf2d5c-c5ff-41e2-a8d2-edf83ce62fa6,Edhitha Savant,1997-10-24,9176428684,Jalgaon,Plumber,BATCH_4241,71.26,69.95
+e70cb098-aa7a-4c6f-aa5b-1dafc8a62ccc,Jalsa Pillay,1993-09-30,9625552311,Sangli,Plumber,BATCH_7786,68.76,44.15
+aa8b4d3d-7825-48c5-87f4-c6bba72bb325,Gavin Singhal,1990-05-27,8561616250,Pune,Plumber,BATCH_8972,76.35,56.96
+5183cf03-89e3-43ea-a35f-b1d055d5c137,Harinakshi Setty,1991-10-28,8955508961,Mumbai Suburban,General Duty Assistant,BATCH_5350,98.35,83.06
+182874b7-16d6-4f0e-9095-7a5c40f256e4,Patrick Vasa,1993-08-31,6268638768,Ahmednagar,Python Developer,BATCH_2229,57.83,62.47
+c9e3284a-cce8-47d2-a64d-06eabdac9ad4,Warinder Bhatia,1999-05-11,9264915937,Palghar,Customer Care Executive,BATCH_1062,71.38,56.2
+227b8d70-1859-4c60-8666-9e43b4f0d0f9,Raksha Buch,1997-05-28,8476908532,Mumbai City,Python Developer,BATCH_3347,78.32,62.04
+d5fe7d11-e667-450a-bca2-5fccaa3eba1a,Thomas Amble,1982-08-25,7533550699,Pune,Electrician,BATCH_1651,80.97,63.06
+68afce42-ee22-4e9d-9c01-760ed46d0c5d,Rehaan Kalita,2001-05-04,9730651895,Sangli,Field Technician,BATCH_2622,91.68,73.86
+236551ed-f501-4ccd-9af0-6118b91a1a91,Osha Ramachandran,2005-12-29,6588365604,Ratnagiri,Customer Care Executive,BATCH_5135,66.16,93.36
+2910fc32-b39d-4c0b-8c3b-6713fbdccdbb,Xiti Baria,1981-12-05,8930568802,Beed,Customer Care Executive,BATCH_2415,77.65,40.44
+176f041f-249a-4acd-8e69-a4f06ad21b8d,Ojasvi Subramanian,2008-02-08,6760360225,Akola,Field Technician,BATCH_8581,79.02,92.48
+ee09e8c7-b16e-435b-bef2-2e665ea800dd,Meera Bala,1983-01-04,8546129354,Gadchiroli,General Duty Assistant,BATCH_4993,72.84,47.96
+cc45d368-08f0-48f6-8fc8-7d4b56be3cf2,Azaan Dhar,2004-06-03,6296542559,Parbhani,Python Developer,BATCH_9369,69.42,72.8
+daf8aca8-cf03-4a00-983e-fe3ef2b67c2d,Abhimanyu Jayaraman,1989-02-05,6298407302,Satara,General Duty Assistant,BATCH_6301,96.79,40.38
+0387f8ae-da10-4954-beaf-9e07d4131210,Xavier Solanki,2003-04-09,6362298393,Parbhani,Plumber,BATCH_3584,71.91,69.88
+2f762573-97f3-4b0a-ab36-ee9c664dd3a7,Yashica More,2000-05-02,8696776072,Mumbai City,Logistics Associate,BATCH_4130,54.28,79.6
+89d00a32-05c8-4630-a70c-bc3b465a3b66,Charvi Dara,1981-12-30,6878295151,Yavatmal,Electrician,BATCH_9537,58.48,60.94
+1dbba45c-df37-4714-a193-d226b05cc9b1,Watika Mangat,2002-05-19,8432941445,Akola,Field Technician,BATCH_9897,73.67,42.01
+b1798d81-4800-4121-82f5-15f829e2241f,Wyatt,1984-02-03,8331652222,Thane,Data Entry Operator,BATCH_7520,75.33,74.57
+d97be92b-54b3-4933-8153-73dfae93a559,Libni Thaman,1993-04-08,6606553372,Parbhani,Field Technician,BATCH_3458,58.95,92.82
+1c7babe3-8fbb-4c14-a0e1-1b347fa59030,Shivani Lad,2001-09-16,8571537429,Pune,General Duty Assistant,BATCH_5982,84.99,91.85
+922f3b6f-bd2f-4483-9d67-5b37f4922aee,Arya Seshadri,1987-06-27,6751124015,Amravati,Plumber,BATCH_4770,80.35,59.38
+4c44e420-a21b-4281-89de-add386fd41d0,Gabriel Bhatti,1989-04-27,+916532557724,Akola,Plumber,BATCH_7046,72.73,66.84
+d9ca1a73-905e-4b4e-b8f5-30030424825b,Chandani,1999-12-27,6519246503,Gadchiroli,Data Entry Operator,BATCH_7338,99.05,53.95
+522d7902-a3e5-4692-8079-4537da17a92a,Zaid Borra,1993-01-24,7685823118,Thane,Customer Care Executive,BATCH_3426,71.49,42.3
+888a563c-de1a-4fdb-ba7f-695a769b31c5,Chanchal Tripathi,1997-09-16,7876693898,Gadchiroli,Electrician,BATCH_8749,90.37,50.47
+b0fa08d1-8ff6-424e-aba2-b17e48cad6f8,Hardik Johal,1998-03-05,8508992977,Washim,Plumber,BATCH_8433,75.28,63.66
+ce5ca180-ede4-415d-83a2-166f0b3f2024,Neha Pau,1981-12-04,7494801749,Solapur,Plumber,BATCH_2685,94.71,77.08
+80571760-76fb-409b-b313-a73ef2a45c13,M. Issac,1997-12-07,+917339643129,Washim,Data Entry Operator,BATCH_7568,53.45,65.58
+97d4af4f-41d1-4c05-9063-c7309eecac19,Jagat Dave,2007-12-18,6693634042,Wardha,Electrician,BATCH_6272,62.41,90.37
+5a81d90b-b866-4c1e-8fce-01c87da09dcb,Timothy Bhatnagar,1998-06-14,9194264587,Osmanabad,Customer Care Executive,BATCH_2063,77.5,55.97
+62709295-f5b7-44e9-8341-69bb2e12801b,Ethan Buch,1989-09-05,8698967370,Parbhani,Python Developer,BATCH_4261,80.12,62.08
+0af9b1de-76a0-442e-84a7-3c4f1f88db51,Qabil Sura,1986-08-07,8946764061,Gondia,Data Entry Operator,BATCH_6977,86.62,44.96
+289d64bb-c926-4cab-ac7f-2819462b41a8,Noah Sibal,2006-05-29,6595475899,Pune,Python Developer,BATCH_9165,96.63,56.05
+9f5bf854-843b-4d24-848b-77651ac0decd,Indali Upadhyay,1991-11-07,9525904457,Nashik,Retail Sales Associate,BATCH_4978,55.1,82.49
+e43d4e01-75bd-4a5d-aca1-6cc46bc7de63,Zashil Ben,1998-08-12,9391086098,Thane,Retail Sales Associate,BATCH_5593,94.97,70.99
+0f18c532-58c7-4044-9430-70c76308d159,Indira Kanda,1998-06-26,7407209235,Latur,Data Entry Operator,BATCH_6438,63.66,83.96
+6d5cf1bc-a182-40ab-9acb-4b9b237d048c,Bina Basak,1988-09-17,7777267364,Buldhana,Data Entry Operator,BATCH_7266,89.1,59.75
+7020a886-211d-4c41-9912-0a834408b2c9,Neel Iyengar,2003-02-04,8707583925,Sindhudurg,Logistics Associate,BATCH_1697,61.49,89.57
+2fba2619-7354-4f71-874a-c52e113a19e8,Falan Singh,2002-07-17,9755621841,Jalna,General Duty Assistant,BATCH_4833,76.7,57.02
+3b7d51bf-0b29-4a88-a572-64e4737fd34f,Devansh Soni,1993-03-18,9358480413,Dhule,Customer Care Executive,BATCH_1797,52.53,67.22
+92de605e-6fcf-4caf-b737-cbe38e4b5bcd,Kai Chad,1989-04-30,9149086586,Jalgaon,Python Developer,BATCH_1265,63.04,91.41
+dc7362ea-da94-4f16-b966-ea21e04ef7f1,Hiral Sathe,1999-01-10,9469403820,Akola,Customer Care Executive,BATCH_7363,63.52,41.43
+a533eb3e-c758-49e3-ad5a-3f827bbfd138,Ekta Chad,2005-05-23,7139019611,Nagpur,General Duty Assistant,BATCH_4052,96.83,92.92
+f4a32483-c145-44f1-8328-906376cb526c,Tara Dhar,1988-01-28,8637500247,Kolhapur,Logistics Associate,BATCH_2743,93.53,56.41
+dd8468fe-cec5-477a-99e5-c3f9c8802689,Luke Rattan,1982-08-10,9207959268,Satara,Data Entry Operator,BATCH_3587,70.35,91.43
+10c2cb1e-c05f-4924-9e01-a40c294bb5de,Rushil Saini,1986-10-31,6914763202,Solapur,Field Technician,BATCH_6574,63.89,51.84
+71d8c27b-7d4a-4ccf-a9c7-a1c1d3d31337,Yash Wali,1992-03-13,9847401602,Satara,General Duty Assistant,BATCH_8349,80.77,89.82
+c91666a0-8970-42fd-bea7-5d9e44425934,Xiti Pandya,1982-09-05,8759949050,Jalgaon,Electrician,BATCH_3188,73.91,65.02
+cc99ce10-a3f3-4bcf-b149-a2a3b6f8645b,Pallavi,1994-09-26,+917383968123,Pune,Retail Sales Associate,BATCH_3546,63.62,73.27
+86e2430a-2629-4430-b245-f0b4edf46169,Mitali Murthy,1998-11-06,9624737111,Solapur,Retail Sales Associate,BATCH_1505,89.79,52.13
+f8d631ac-4ea0-4e42-8429-7afbce2a8c12,Devika Rastogi,2008-07-10,8554200826,Yavatmal,General Duty Assistant,BATCH_3536,59.49,51.97
+e3008a55-629b-4291-a048-568bbe061d63,Urmi Chaudhry,1999-09-25,8709511014,Sangli,Electrician,BATCH_9064,77.11,49.66
+ee1057dc-7a29-4ef8-9f7d-39c31dfd9fe5,Gauri Som,1995-03-15,7413097844,Beed,Electrician,BATCH_8600,68.41,93.45
+5265163c-5ae5-461b-8362-be9b89cdcad4,Charles Date,2001-06-05,9635539154,Beed,General Duty Assistant,BATCH_1379,54.5,61.63
+f4de9955-f053-4fef-911b-242d2f7949a4,Rajata Rattan,1995-05-01,6700003920,Chandrapur,Plumber,BATCH_1356,69.8,84.9
+812a76e3-168c-4a13-a04b-bbb0f307c394,Anika Mohan,1987-09-13,9225279834,Satara,Data Entry Operator,BATCH_1609,65.22,67.09
+b721b96d-7887-49ac-8674-796e4710a150,Daksh Pandey,1994-11-12,6362781292,Thane,Field Technician,BATCH_8191,61.72,51.95
+91ff5640-3078-4b20-9464-c05792ba8d67,George Sampath,2003-11-18,8922286180,Washim,General Duty Assistant,BATCH_4919,63.73,44.26
+f4bacb8f-e666-40b1-8356-57c122fcc075,Nathan Mukhopadhyay,1996-01-31,7286293158,Sangli,Retail Sales Associate,BATCH_3902,97.56,74.54
+190d0503-1898-4442-b178-74d436827979,Advika Jayaraman,1999-05-31,6872830248,Beed,Logistics Associate,BATCH_6067,83.34,57.94
+7dff7de2-c85f-44a3-bcdf-12dec1819a06,Hemal Jani,1999-11-29,8910943524,Gondia,Logistics Associate,BATCH_7991,91.53,70.13
+f9f31510-fcce-4e5c-99fc-8c963a190f7c,Y. Shankar,2006-09-23,7633019327,Latur,Logistics Associate,BATCH_9474,89.15,79.64
+d7e0ac26-b2f1-4c1d-a769-92f49776aea3,Devansh Bhasin,2006-10-29,9141642429,Nagpur,Customer Care Executive,BATCH_4892,52.46,66.14
+db7f9483-7a7b-4a2c-b151-eee63939b1e2,Rayaan Bahl,1993-01-03,9229640083,Buldhana,Customer Care Executive,BATCH_4401,72.6,65.48
+2c20a56a-83e0-4073-a079-199ab08ad488,Urvashi Kulkarni,1981-09-07,7578651079,Parbhani,Field Technician,BATCH_8586,88.62,72.37
+44bde63a-3b1e-4abd-98a7-6649c42f131c,Ekavir Varkey,1987-04-29,8590941149,Osmanabad,Retail Sales Associate,BATCH_1152,72.91,94.91
+e4c040c0-aa92-48b8-8242-8480210c273b,Janaki Rajagopal,2007-03-31,7695832844,Solapur,General Duty Assistant,BATCH_5732,57.01,57.3
+c1162d28-86ff-494f-b2b3-12510dc2406f,Indali Upadhyay,1991-11-07,9525904456,Nashik,Retail Sales Associate,BATCH_4978,55.1,82.49
+b75425c8-8d5f-4437-8951-23a69b25fb35,Krish Lalla,1983-11-22,6906341966,Sindhudurg,Field Technician,BATCH_4585,58.79,92.69
+ae27646d-46d9-46cc-9698-b001d414d6e6,Aditya Shanker,1998-01-19,7561588882,Osmanabad,General Duty Assistant,BATCH_8238,72.11,51.75
+dd981687-d361-4cde-a15a-a28353cb01b6,Garima Mahajan,1984-02-23,6224628497,Sangli,Customer Care Executive,BATCH_6110,67.15,83.13
+f604b163-23bd-446d-8a4a-a8ebbd08684d,Nisha Kothari,1988-02-17,9398775766,Wardha,Plumber,BATCH_2341,73.52,81.2
+357c1225-ae46-4dc0-8d4a-d2b458638a06,Kalpit Bhasin,1997-01-29,9664226794,Hingoli,Customer Care Executive,BATCH_3837,72.98,69.32
+77323318-79ed-4b50-ba56-8de835d79209,Diya Rattan,1988-02-27,8694021782,Mumbai City,Retail Sales Associate,BATCH_9797,87.54,82.27
+b6f34ac5-1871-47d1-acb6-eef4da2f1832,Osha Raghavan,2000-08-16,8337937327,Nagpur,Electrician,BATCH_6016,83.2,60.3
+8c7c03ef-8bbc-4e98-9540-31129bc4bc92,Sudiksha Om,1985-01-24,6800400428,Jalgaon,Logistics Associate,BATCH_1611,95.66,49.63
+1a91ca44-c47a-4ecc-ae99-5c0060ea693c,Dayamai Sastry,1981-08-05,9494435754,Washim,Plumber,BATCH_2353,86.35,44.34
+e36f26d5-0896-423f-8237-657c3feaa848,Jeremiah Nadig,1998-08-24,9333893106,Bhandara,Electrician,BATCH_9105,63.43,85.56
+ea880864-f6ad-47f2-8efa-0660ed81326f,Raksha Varughese,1993-04-20,6721890096,Buldhana,Data Entry Operator,BATCH_6138,52.86,72.13
+b2f4000e-78a5-474f-986a-074526cf9062,Hemani Murthy,1992-11-17,9859466878,Sangli,Field Technician,BATCH_3885,86.69,93.1
+5ae72cb5-7fe8-4f02-a392-f66f07146abd,Balveer Parmar,1986-07-17,9335602191,Aurangabad,Field Technician,BATCH_8956,51.45,58.49
+e6bff3a9-295e-4b42-9269-21b6f5365092,Gabriel Bhatti,1989-04-27,6532557724,Akola,Plumber,BATCH_7046,72.73,66.84
+88b88217-f22c-4fa1-838e-ca8d0eefff3d,Anthony Randhawa,1987-10-14,6213424523,Sindhudurg,Plumber,BATCH_9775,94.01,88.28
+3b72bc91-d01f-4be0-b326-e92edfe28c8f,Nilima Nigam,1999-09-02,6178151583,Nashik,Logistics Associate,BATCH_4555,73.97,87.82
+bf32b158-665f-41f5-a2ec-5e168727fe42,M. Singhal,1980-11-17,+918412940071,Amravati,Electrician,BATCH_6339,68.8,84.91
+ec728a67-b5d4-4998-9170-61507628cd3e,Rachana Char,2001-07-04,9890099255,Palghar,Python Developer,BATCH_9498,60.37,57.88
+b2a94e7e-2904-4bca-8d31-9cf0650fdcbe,Liam Singh,1993-03-21,8577531502,Parbhani,Plumber,BATCH_2674,56.63,50.31
+15e5a268-df9f-434a-b109-d295daedb376,I. Panchal,2000-01-09,+919502074351,Hingoli,General Duty Assistant,BATCH_7184,68.78,77.55
+da0b5f00-f4c9-4dd2-9887-7afed9556f4b,Ekani Cheema,2004-09-04,7524410834,Palghar,Data Entry Operator,BATCH_4349,65.07,51.62
+783e0fff-e26f-4308-8cf6-171a5dbd21c2,Brinda Date,1998-07-09,6154308262,Nanded,Electrician,BATCH_3063,89.35,51.29
+adb55afe-a84c-4427-a9a1-425dd2eba232,Nandini Swamy,1982-09-25,8156263020,Satara,Field Technician,BATCH_9619,55.68,43.5
+eecbcfee-bc0d-4996-91c4-9c89bd71ab24,Neel Sathe,1996-02-09,7348315126,Hingoli,Python Developer,BATCH_4505,53.21,62.42
+a34c0eb3-d80a-441b-8421-20f405100d4c,Wishi Manne,1994-11-28,9585238820,Thane,Data Entry Operator,BATCH_7041,91.58,44.22
+e2bedf46-1bda-4aca-8d79-08179b81b8c0,Mitesh Sengupta,2007-03-24,9765086407,Palghar,Customer Care Executive,BATCH_1157,74.23,50.73
+432e09ff-f282-4c46-ad56-5a656593a9ff,Mohammed Brahmbhatt,1988-12-10,6920702588,Mumbai City,Field Technician,BATCH_3252,92.13,52.73
+4ba2960d-31cd-4fa1-875b-4dfd1f871d79,Eiravati Pai,2007-12-21,6487726245,Osmanabad,Python Developer,BATCH_7337,93.04,71.26
+377bf86d-c618-41f9-a8a7-633c55ced5b0,Leena Talwar,1991-11-07,9751028618,Jalgaon,Logistics Associate,BATCH_7232,72.53,64.35
+f9f261d5-5c94-4d0d-b88a-8799dd632afa,Osha Raghavan,1999-08-16,8337937327,Nagpur,Electrician,BATCH_6016,83.2,60.3
+b0d56d48-a256-40f0-b0f9-fe7f1a9bae99,Ekaraj Majumdar,2002-04-18,9211134294,Nanded,Retail Sales Associate,BATCH_9266,82.31,42.15
+3bb797b0-569a-49b4-af76-88bb5018ee4d,Jhalak Venkataraman,1988-02-16,7895094534,Ahmednagar,Logistics Associate,BATCH_3858,77.6,58.2
+07855f79-4286-431c-b4f6-40581739be09,Charvi Ravi,1996-01-01,8556881239,Yavatmal,Customer Care Executive,BATCH_6764,85.14,54.9
+6bd1c0fa-13fa-457d-ac30-b8bf5130f839,Bhavini Bose,1998-09-17,8720058859,Osmanabad,Electrician,BATCH_5944,93.81,94.21
+aa14292c-9f30-483c-b782-f2f5f40d5d94,Jalsa Bir,2007-05-10,7422589929,Osmanabad,Electrician,BATCH_8848,65.71,93.05
+9b911e94-5668-4d4c-8882-0f9fb8c8d5cd,Girindra Chatterjee,1999-02-10,8756783995,Washim,Data Entry Operator,BATCH_5905,96.59,45.7
+34ed8fc8-c41b-4fb6-9ba9-01adb0de3098,Ekansh Pai,1987-05-30,6880839406,Chandrapur,Electrician,BATCH_8183,89.88,85.72
+614937c1-55fe-48d5-a63b-eb411c57f027,Chandani Soman,2003-07-02,7864131026,Aurangabad,Retail Sales Associate,BATCH_1719,96.06,89.35
+705bc33a-0daa-40da-bd4e-2d0bd1c18914,Jason Sha,1983-03-24,7283825267,Nanded,Data Entry Operator,BATCH_1464,54.06,92.17
+bc89e9cd-bbe0-4f14-bbba-0504a671e1f1,Atharv Loke,1981-06-21,8703462253,Aurangabad,Python Developer,BATCH_2789,80.78,72.28
+560be62d-b676-41d7-962d-a2ca941f41eb,Advaith Varughese,2007-03-16,8669998399,Akola,Plumber,BATCH_3695,62.85,85.36
+2eef88bc-5ac2-4f8e-a59a-7bca08e84969,Jairaj Shan,1984-05-23,9412737284,Thane,Electrician,BATCH_5720,85.35,78.66
+9ad0921c-167f-455f-8194-70936f1b9c82,Rachita Pathak,1998-06-16,9408842146,Buldhana,Python Developer,BATCH_2210,72.09,59.01
+ec38dfaa-641a-4f1e-969d-d1c641fc01c2,Nicholas Prabhakar,1990-08-10,9253407200,Nandurbar,Python Developer,BATCH_5040,87.25,69.64
+c3592cd6-a29b-4f35-9bd4-e5fe72e58eff,Shravya Palla,2006-09-17,6569319938,Jalgaon,Retail Sales Associate,BATCH_6580,80.26,73.76
+a8f53ecd-2042-4f58-b685-83717a2fb35b,Parth Shetty,2008-02-14,7867979226,Bhandara,Field Technician,BATCH_2211,72.45,72.89
+d0efcfd2-e0e0-4978-9a17-8fa1ac45a892,Gunbir Keer,2005-07-03,7757074545,Ratnagiri,Retail Sales Associate,BATCH_6067,69.91,79.43
+fcf12694-cb6c-459c-a811-d1c77f3cd136,Alka Wable,2005-02-01,7536383774,Amravati,General Duty Assistant,BATCH_4502,93.23,89.63
+70af1ee7-66a3-4671-b72b-e4b1db16aa28,Nakul Sarraf,1992-04-18,7902990996,Nagpur,Plumber,BATCH_1894,89.19,83.66
+450adc16-c10f-45f9-8dfa-c0056f677079,Chandani Samra,1999-12-27,6519246503,Gadchiroli,Data Entry Operator,BATCH_7338,99.05,53.95
+06b267ff-0b19-4dc3-8193-e038b14cfd8c,Sudiksha Bobal,1999-11-27,6993108266,Ratnagiri,Retail Sales Associate,BATCH_8075,54.83,80.63
+95446b37-d2fd-4f5e-9ae6-f18defb42ccd,Yadavi Ganguly,1997-03-25,7612926731,Raigad,Electrician,BATCH_7276,54.47,84.33
+814cfee2-60f4-40fd-82f8-f8c31f13f09b,Damyanti Khatri,1982-04-13,6366992705,Nashik,Electrician,BATCH_9786,72.43,63.2
+e396e983-afc7-4846-ab0e-40bc508b73ea,Wyatt Ray,1994-05-04,9965960427,Jalna,Customer Care Executive,BATCH_2886,73.42,44.14
+352aaa7f-63ec-4bf6-97d0-3a5cdb8dd045,Ikshita Panchal,2001-01-09,9502074351,Hingoli,General Duty Assistant,BATCH_7184,68.78,77.55
+5e823b6f-3a8e-4858-86dd-a478324ffea9,Ekiya D’Alia,2007-10-29,8177390472,Nagpur,Data Entry Operator,BATCH_8147,50.94,90.66
+1f04d6b4-d2c4-4a0f-b719-af973121dd71,Tripti Walia,1990-03-30,7240354421,Nashik,Field Technician,BATCH_7098,84.31,91.57
+60bf8a47-7e2f-41b6-b55c-f8c4c95de17d,Ansh Luthra,1996-10-17,8269016920,Parbhani,Plumber,BATCH_6314,88.84,71.22
+374e4be3-0b8d-4c2f-a90e-50d25aa607ce,Odika,1986-11-29,+918284547422,Chandrapur,Customer Care Executive,BATCH_2443,71.84,45.82
+6cecd271-a3af-49e5-bc6f-85da78521eca,Reva Dash,1993-10-13,6918841563,Aurangabad,Electrician,BATCH_8030,92.26,93.6
+5b65c7a2-b958-44b8-a3b6-9f85f80b7c6c,Michael Kala,1982-06-16,9197970787,Gadchiroli,Customer Care Executive,BATCH_7690,66.67,76.86
+5f696117-b399-4c32-bdf6-e35ce81f4b67,Ira Bava,1982-01-27,7499291766,Satara,Plumber,BATCH_2934,88.57,41.61
+ed882bda-0a7f-4992-852d-b61a430163c5,Daksha Mangat,1986-07-18,8347538338,Pune,Electrician,BATCH_6169,55.98,69.47
+361887cd-a5ff-4d50-94e3-c1214632a0ff,Abhimanyu Tank,2001-07-29,6380840558,Parbhani,Electrician,BATCH_2017,83.39,65.6
+ef2bfa01-e514-4237-87e0-bd0392c14cc3,Ishwar Mallick,1996-09-25,6471904990,Gondia,Plumber,BATCH_8849,60.7,85.54
+8b8bf4c2-04b0-450d-9dc9-036f80e66c44,Chandresh Zachariah,2004-01-26,8954829815,Thane,Customer Care Executive,BATCH_4441,84.1,76.68
+8aab0379-5eae-4894-89f6-cf13160ebad7,Warinder Sekhon,2001-10-06,9268688902,Palghar,Retail Sales Associate,BATCH_6424,60.28,50.45
+420c955e-716f-4bb6-87ca-0a87c666b70f,Ethan Yogi,1986-08-17,9952266893,Solapur,Retail Sales Associate,BATCH_5649,75.77,74.81
+9d178a38-8ee6-4ceb-87a6-324f0779ce53,Kai Rai,1995-07-28,7535312769,Akola,Plumber,BATCH_2923,81.94,91.73
+b37c1145-7ea8-4246-b634-ac181f14a6d2,Girik Keer,1999-07-01,9210152642,Mumbai City,Plumber,BATCH_8690,73.94,58.74
+9f57ca2e-9aea-464d-b841-5fa5d36ed15f,Wridesh Saha,1985-11-26,9456715514,Hingoli,Customer Care Executive,BATCH_8212,66.74,84.85
+9cc3c582-9eb1-452c-a566-1bba678f463e,Kalpit Zachariah,1987-09-05,9240409084,Parbhani,Logistics Associate,BATCH_2739,65.96,65.66
+e060d741-d92d-434b-a658-792903579d10,Siddharth Zacharia,2001-10-22,7506919288,Mumbai City,Field Technician,BATCH_5345,96.33,83.18
+50687f21-0126-4730-8c31-0a0c824d0921,Krishna Shenoy,1985-09-30,7743576792,Akola,Python Developer,BATCH_2143,63.81,83.45
+9c980ff3-df09-4263-b53b-f8df8454aa22,Tanish Zacharia,1984-05-13,6178663096,Buldhana,Electrician,BATCH_9288,63.26,91.33
+1b8e611d-b947-4a79-9284-9bf2246f053b,Max Sachar,1999-12-29,6197088689,Solapur,Plumber,BATCH_1660,60.75,87.11
+ceadf2e9-cdaa-4933-a919-daae4b5fb593,Ekalinga Chand,2003-12-13,9262598077,Wardha,Electrician,BATCH_7723,75.09,73.63
+b509a78f-7446-4e98-aaa0-0d5f0f1183e6,Neha Magar,1994-09-03,6753903309,Aurangabad,Data Entry Operator,BATCH_3955,63.66,81.93
+dc48d29e-3925-4b9f-abe0-ffdd66a4a104,Dipta Dash,2000-10-23,9327761953,Latur,Plumber,BATCH_6576,63.98,72.79
+ca6ade2e-3c7e-46e0-9405-bbfe205431a7,Saanvi Samra,1994-04-04,9788603957,Buldhana,Logistics Associate,BATCH_9092,94.46,47.38
+476b30ec-a82f-4d0b-8d60-4d2334c0e704,Ishwar Sidhu,2007-08-15,9137365109,Satara,Retail Sales Associate,BATCH_4866,88.93,60.15
+f5c22bee-1d5f-4fc8-8346-5a771a93d635,Aarush Nath,2002-04-02,8351785565,Aurangabad,Customer Care Executive,BATCH_6238,94.65,44.43
+0d7a098d-f0aa-4674-a43a-54de440e5181,Neel,2007-10-31,+918200223044,Parbhani,Plumber,BATCH_2350,68.59,89.71
+4fabfeda-0a34-4bdc-a9df-69f7e011ffc0,Chanchal Tripathi,1998-09-16,7876693898,Gadchiroli,Electrician,BATCH_8749,90.37,50.47
+ccfe45c3-caa7-4868-9e97-3f8ae19a222f,Vincent Shenoy,1998-07-09,9167438668,Pune,General Duty Assistant,BATCH_9782,50.82,68.35
+bac00c4d-e717-4292-956d-16bfa5128041,Vasatika Merchant,2001-07-25,8650921917,Solapur,Data Entry Operator,BATCH_3339,92.43,77.29
+1bda0534-2d0e-4af5-9ec6-99f8916c550c,Madhavi Singhal,1981-11-17,8412940071,Amravati,Electrician,BATCH_6339,68.8,84.91
+74129d87-5fb5-416b-a019-a5a2829962d4,Lakshmi Raju,2008-05-02,9306164050,Jalgaon,Python Developer,BATCH_3538,53.86,86.44
+6d73afe1-e957-49fb-b5f1-d7935a8cb274,Bimala Contractor,1992-01-01,6166312199,Yavatmal,Logistics Associate,BATCH_4312,78.64,48.24
+a326d44e-6b14-44ca-b5d4-f4eeacdc491d,Wishi Varma,1993-09-24,6362508142,Ratnagiri,Field Technician,BATCH_2900,72.67,73.49
+4b823294-03cd-4eb8-adb8-8b15abf6fe1c,Kashvi Edwin,1995-10-06,6807577342,Bhandara,Customer Care Executive,BATCH_7939,70.56,87.51
+fe3f39d1-3587-4511-b579-d241e7c3774d,Mason Gala,1989-11-05,6639127345,Washim,Python Developer,BATCH_2970,97.46,64.7
+c8345c4a-d963-4d8d-a282-9813d8fde22b,Hardik Contractor,2004-07-15,9761962359,Beed,Customer Care Executive,BATCH_9311,91.41,69.28
+b2fe75ac-df6c-43ef-aee0-230434bcb384,Ekani Mangal,1998-09-29,8163947730,Mumbai Suburban,Python Developer,BATCH_3320,88.72,86.56
+04b107e0-22d4-43d4-a201-283520f212e2,Pallavi Trivedi,1990-10-16,7636120880,Yavatmal,Customer Care Executive,BATCH_5216,88.17,66.87
+579c3cdb-c49d-4048-a965-e160f6a281d1,Faraj Uppal,1998-05-22,6174108740,Gadchiroli,Data Entry Operator,BATCH_5703,70.44,82.29
+4800a8f5-a4a6-4392-a9c8-8501fe18fbfb,Chanchal Ramakrishnan,2004-07-22,8768548027,Amravati,General Duty Assistant,BATCH_1845,60.18,70.21
+6c59e8f3-351d-4b34-bc3b-c8ef3aeebba6,Damini Pillay,1993-11-29,9983063850,Parbhani,Retail Sales Associate,BATCH_4830,73.57,74.08
+5d148943-c39f-4f7f-befd-7475bd966a67,Sudiksha Deo,1995-01-11,6193445007,Hingoli,Logistics Associate,BATCH_7510,77.6,87.11
+56c0d862-bc4b-405e-b825-fb846f4aa3c3,Damyanti Dutta,1992-01-05,9314399191,Sindhudurg,Data Entry Operator,BATCH_4390,58.54,56.05
+c19603ad-b361-429f-8eca-564e4ee28802,Hredhaan Khalsa,1991-05-04,8243247463,Thane,Customer Care Executive,BATCH_9945,66.93,75.35
+a8ec195e-1332-43c0-a6ba-cafcfb51688a,Urmi Balay,1988-09-12,8499905152,Mumbai Suburban,Customer Care Executive,BATCH_5965,65.55,86.36
+8b3d91a0-073a-4dc6-b650-7c038458974d,Balhaar Ranganathan,2002-09-21,8339699130,Kolhapur,Field Technician,BATCH_6026,86.7,56.2
+1f2ca15b-4889-48ae-bacd-795517971eed,Utkarsh Chana,1992-10-23,6406084084,Ratnagiri,Python Developer,BATCH_5469,72.47,68.23
+41528d0b-35e9-4c85-ac40-01aada96947f,Laksh Kumer,1988-10-06,9352889019,Gondia,Plumber,BATCH_6400,65.1,79.76
+9954136b-7607-4cd5-b939-60d2db72c074,Chaaya Nagi,1983-07-14,9131344962,Nashik,General Duty Assistant,BATCH_8037,69.44,78.76
+fa978a9e-5bcd-440f-9803-7e3329c92c21,Ekbal Garg,1995-08-13,9726563708,Nagpur,Customer Care Executive,BATCH_4593,99.87,47.61
+e16487b5-c11a-4aa0-a3d8-f8eafe838462,Rajeshri Chand,2007-02-27,8512151733,Satara,Retail Sales Associate,BATCH_9204,87.27,59.02
+f1b66a37-3386-4e19-a46b-edaf6f453812,Januja Pradhan,2006-05-12,9498441427,Ratnagiri,Logistics Associate,BATCH_4120,52.58,60.74
+e0a57470-0854-4ed3-8f77-66ce659672ad,Gayathri Tripathi,2003-11-07,8211614410,Dhule,Logistics Associate,BATCH_4902,70.99,92.87
+48cbe8a1-3004-4d83-8d36-3a006e1bcb06,Arya Misra,1986-12-15,9968977829,Satara,Retail Sales Associate,BATCH_6432,56.13,91.83
+8dda3802-0761-453f-9d67-f90b4704fada,Finn Dugar,1987-05-18,6802992685,Yavatmal,Electrician,BATCH_8046,72.58,52.57
+549272b2-c9dc-4fcf-ad38-7e8ef5f575b6,Charan Mani,1997-06-21,8341449138,Beed,Plumber,BATCH_4396,84.51,66.9
+6a29fb30-498d-4e12-9b54-f2e2f1761c15,Jacob Merchant,1990-12-13,6608492614,Pune,Plumber,BATCH_7512,73.55,89.22
+f1ef7110-5d39-4ef5-87dc-c7b961121ff3,Veda Shroff,1992-11-08,9618840705,Sindhudurg,Electrician,BATCH_7248,78.6,71.61
+20a4bf57-e6b7-4855-b186-9e399fe67cc6,Maanas Issac,1997-07-12,7339643129,Washim,Data Entry Operator,BATCH_7568,53.45,65.58
+ea7e69d6-ec65-46d9-9258-97cbf2a6082b,Ansh Bedi,2002-09-09,8799145494,Dhule,Field Technician,BATCH_1496,74.9,74.49
+64efb49f-fccb-49bf-832e-7f409a1c88eb,Balendra Pingle,1996-12-20,6922050912,Hingoli,General Duty Assistant,BATCH_1096,97.14,56.42
+b6b2c03b-15c1-4a52-a2a8-b9d0d3e7f838,Varenya Sastry,1990-03-14,6397721596,Sangli,Python Developer,BATCH_9850,62.53,49.6
+0ae4352b-f063-46cf-94c6-57c108e8bef2,Barkha Chaudhry,2003-12-22,8135128844,Parbhani,Electrician,BATCH_8264,72.23,52.99
+788edf16-8f1c-41e0-a35c-0b5ea51f8930,Zashil Hegde,1998-06-10,6101166414,Dhule,General Duty Assistant,BATCH_2276,56.63,52.44
+09078ed3-3fb5-437e-8393-7330f095533b,Harini Tripathi,1988-02-21,9571825556,Washim,Logistics Associate,BATCH_3600,68.19,90.49
+9b92d1e7-080d-40bf-8d0e-7de13a84716c,Hemani Sani,1983-10-07,8871588919,Kolhapur,Data Entry Operator,BATCH_6523,89.54,71.23
+6e8fd41f-d08d-45f8-948f-e84e847cfc98,Alexander Dhawan,1992-02-20,7874364348,Gondia,Data Entry Operator,BATCH_7731,68.21,79.58
+ed7cceaa-174c-4078-be68-4950d2519618,Aryan Maharaj,1987-07-08,6126855092,Aurangabad,Electrician,BATCH_4657,56.98,45.64
+80b80ea8-44ca-4b9c-8a2f-6a6a23d44223,Upma Mangal,1994-09-08,9392036942,Washim,Retail Sales Associate,BATCH_5308,85.62,71.72
+12e4fd85-f45c-4ca0-84a1-e37840982322,Dayamai Nori,1990-06-27,7154508960,Washim,Electrician,BATCH_4814,52.62,62.73
+049e6610-04e2-40b0-a8d3-f1260459c3dc,Vansha Iyengar,2001-10-28,8759422189,Nashik,Python Developer,BATCH_6582,85.85,90.53
+19eaa2fa-8a59-46e8-a43f-1a85c9d90f93,Shivansh Saha,1997-12-19,7572553155,Latur,Electrician,BATCH_3480,95.99,73.88
+24f24347-8581-40cd-a6a1-8ccd1ea7d858,Ira Saran,1988-05-06,9756387421,Nagpur,Retail Sales Associate,BATCH_6700,67.6,65.18
+1370557e-8cf1-4a54-af7f-df4c1e3771fe,Nakul Setty,1980-10-01,7107721109,Raigad,Data Entry Operator,BATCH_4750,53.37,41.73
+ab621abf-d47f-473c-a290-016fa3649474,Yashica Zacharia,2004-01-16,7109815572,Dhule,Logistics Associate,BATCH_8471,68.66,73.98
+1575877d-6134-41c3-9138-719e0d026b88,Frederick Kothari,1983-12-23,6880871219,Washim,Plumber,BATCH_8504,82.17,41.71
+867e56af-4caa-47b3-a4d1-5545ff4df419,Gaurika Bhatti,1989-11-21,8425545658,Mumbai City,Electrician,BATCH_4113,98.1,46.45
+ec872d4a-bfc1-417f-89ca-6e9c6bf09058,Chakrika Mohan,1993-02-22,7398870482,Raigad,Retail Sales Associate,BATCH_9796,59.35,57.93
+1e0b52cc-865f-4279-8d91-5c819a4ffa13,Peter Tak,1993-08-25,9671159367,Hingoli,Electrician,BATCH_5055,73.03,48.53
+4d18a15b-beb8-49da-bcf5-41ee9b0f9beb,Dhriti Sane,1989-05-30,7874597473,Palghar,General Duty Assistant,BATCH_3793,76.21,79.67
+9056b9c2-1490-46d7-b3ec-522bf03238ee,Wazir Naik,1981-02-06,9366578178,Solapur,Customer Care Executive,BATCH_6123,59.49,48.76
+dfd77419-c6c3-43eb-b89d-1e9fa20280c1,Hemang Tripathi,1986-08-13,9474524558,Yavatmal,Plumber,BATCH_5715,56.09,77.21
+6f43bebd-359a-4b47-897c-62ac7b10819d,Chaaya Parmer,1991-02-26,6442185272,Sindhudurg,Customer Care Executive,BATCH_3392,56.88,55.78
+6a0b2c7f-f68c-447e-9cb3-5babfec459b5,Imaran Dua,1998-03-24,6916690353,Buldhana,Python Developer,BATCH_3103,82.99,92.08
+f8ccfd1a-e985-4755-95a0-55d439a60475,Chakrika Merchant,1981-04-10,9846668526,Gadchiroli,Python Developer,BATCH_3209,53.16,82.69
+a7454c17-facb-4448-a677-c7a9516f8974,Wyatt Shukla,1984-02-03,8331652222,Thane,Data Entry Operator,BATCH_7520,75.33,74.57
+7ecbba76-5037-4d6b-a09a-fda19fd4072e,Karan Chana,2006-02-16,7685698675,Jalna,Customer Care Executive,BATCH_2680,54.0,76.35
+f66abd7a-96e0-496e-972e-535fc70f0a6f,Veer Bir,2006-01-04,8379995032,Dhule,Customer Care Executive,BATCH_4910,63.28,47.2
+0891665a-e3dc-4209-ae03-daa38cd79144,Ethan Seth,1985-06-29,9226042285,Ahmednagar,Electrician,BATCH_6744,93.05,73.56
+1de30a68-8a67-4578-bf0f-2b97831d9b1a,Edhitha Srinivasan,1990-06-05,7480043678,Dhule,Python Developer,BATCH_5505,63.99,88.59
+71358278-dce4-44d7-8230-602e99afb2fc,Amara Deep,2006-08-20,8337911187,Nanded,Python Developer,BATCH_2251,75.52,46.27
+b7b3f3a8-883e-499c-b171-e31a462d0b0d,Gavin Wali,1986-09-07,9612656440,Nashik,Plumber,BATCH_6262,64.27,43.25
+4eabe603-0106-4126-86de-34f419d2f729,Aarnav Malhotra,2004-09-10,7465278987,Sangli,Customer Care Executive,BATCH_6231,86.71,87.34
+42a285be-ea38-418e-9b99-39d5f3d03fae,Fiyaz Dyal,1988-04-18,9182611003,Beed,Python Developer,BATCH_4939,78.33,86.72
+12fe804b-8229-4cd3-b8a4-dadd7650e64b,Michael Saran,1985-08-04,8786055206,Bhandara,Plumber,BATCH_8484,92.27,50.96
+b3f4f873-42b9-4cd0-b85f-ced12a1dee79,Balhaar Memon,1986-04-21,6217434526,Ahmednagar,Customer Care Executive,BATCH_3725,82.35,42.44
+e4f8a181-7533-45ef-861d-87e70948ac59,Vedika Balakrishnan,1991-07-19,7862123506,Solapur,Plumber,BATCH_1224,77.61,45.13
+8c65f2c6-fb37-45a7-9dc2-a4fc179dbd52,Charles Date,2001-05-06,9635539154,Beed,General Duty Assistant,BATCH_1379,54.5,61.63
+c84f05df-d609-465f-8386-0d57d59315f5,Nikita Mammen,1981-07-29,7924399252,Satara,Field Technician,BATCH_9238,95.54,43.05
+949181c9-d852-400c-b35c-6ad85f9f782b,Pallavi Choudhry,2002-05-23,6740942859,Osmanabad,Field Technician,BATCH_1202,64.59,61.33
+19a43250-98e3-4fae-ab61-681037a69f33,Megha Pai,2007-05-22,6194190297,Aurangabad,Field Technician,BATCH_3248,70.96,75.35
+9d280e22-bde7-4b6c-9d6d-073814834ff5,Janani Chaudhary,2008-02-15,7471539452,Washim,Plumber,BATCH_2292,62.53,74.93
+65324155-5e9b-413a-85e0-fe7265f05475,Upkaar Ranganathan,2007-09-29,9709074302,Thane,Python Developer,BATCH_8371,97.44,60.46
+166e3450-326c-4804-a2bb-ae56f1e69d42,Manbir Kibe,1981-07-17,7246148980,Sindhudurg,Python Developer,BATCH_2731,58.22,65.63
+a1c1685e-412d-4a76-8a38-dc0beb78b4c2,Harshil Pandya,2002-07-03,9877583839,Solapur,General Duty Assistant,BATCH_3091,99.04,69.38
+2c557a18-0858-4b20-a252-cb1aab6d4d9c,Arunima Dugal,1986-09-09,8966647391,Thane,General Duty Assistant,BATCH_9785,56.24,90.73
+962a6fa1-c8e0-4ef8-83bb-fd8e83ddeaaf,Xiti Gokhale,1994-11-16,8176082500,Akola,Electrician,BATCH_5562,83.45,51.78
+ab6787ad-ec2a-40ea-9fcc-b42d7bb3dcaf,Vasudha Konda,2003-03-11,9477458516,Bhandara,Customer Care Executive,BATCH_3290,62.39,75.45
+1e7c7614-a213-4960-a386-74039ab62bd7,Falak Munshi,1985-12-22,8519544755,Raigad,Plumber,BATCH_8167,86.5,86.56
+fa9cb01c-d411-4891-a618-c6ffefd8d4d4,Darpan Gandhi,2002-11-08,7266140258,Gadchiroli,Electrician,BATCH_2773,67.51,70.59
+ec52f4a3-96dc-49e4-bd36-d92fe161238e,Benjamin Mutti,2006-10-17,9908186980,Nanded,Field Technician,BATCH_2735,50.53,54.23
+7e45fa67-eed6-47df-a25a-b6a37627b99a,Jackson Jha,2000-09-24,7327515325,Nashik,Python Developer,BATCH_1699,71.17,94.36
+2f431df8-4a1c-4781-8e81-264a5ef3b260,Onkar Gill,1982-11-14,6374796224,Dhule,Python Developer,BATCH_9991,97.01,73.49
+855e5b31-a801-4600-ba5e-e86512c3e177,Mitali,1998-11-06,9624737111,Solapur,Retail Sales Associate,BATCH_1505,89.79,52.13
+c513ab73-a04a-4db1-9037-7464b1c10c01,Falan Ravi,1990-10-31,7973744799,Beed,Retail Sales Associate,BATCH_3194,65.66,53.12
+3c2d343f-fe03-4ce6-b26c-b16d27d6410c,Yochana Chopra,1993-04-25,9406819991,Buldhana,Data Entry Operator,BATCH_2761,71.55,88.54
+48aa9d25-2099-46a2-9cc0-05847056e3e2,Bishakha Bali,1987-02-21,8814154134,Nandurbar,Customer Care Executive,BATCH_3500,84.34,66.08
+8c7b97cd-1770-455d-843c-2b65e816ab5e,Aishani Sule,1986-01-16,6725265416,Nandurbar,Retail Sales Associate,BATCH_1357,99.86,50.88
+e8751978-808f-49f6-bd43-0beb906a4ff7,Parth Sahni,2005-05-12,7886356993,Bhandara,General Duty Assistant,BATCH_6198,58.71,93.28
+bfb743b9-13c7-46c4-a5fc-8c9d8ab145c6,Gaurangi Deol,1981-11-25,6979357576,Wardha,General Duty Assistant,BATCH_3280,81.67,53.31
+c48b9a08-d43b-4aea-b0f3-179dab11655e,Vivaan Walla,1987-05-10,9706666479,Ahmednagar,Electrician,BATCH_5914,84.2,86.63
+be4e0cce-a07e-4000-a509-70946c9844ec,Tejas Shroff,2000-03-30,7180346223,Gadchiroli,Plumber,BATCH_6546,81.16,61.86
+2203525f-59f9-49ff-9502-4f98407f4915,Frederick Sunder,2003-07-05,8596743109,Ahmednagar,Retail Sales Associate,BATCH_8260,90.4,87.08
+06ecbf2f-aaed-4308-962d-d6cc49595e93,Gayathri Deep,1997-05-20,9807901168,Amravati,Data Entry Operator,BATCH_1108,76.61,62.62
+a8b63ab0-ef73-4d5c-b1d7-0d6f5de0f7b0,Bhavna Dugar,1982-09-23,9301126777,Ratnagiri,Logistics Associate,BATCH_6908,53.38,68.93
+cb35d44f-8aee-48df-9579-df631f1d81f1,Harish Sarraf,1983-06-14,7741288486,Hingoli,Python Developer,BATCH_3658,59.04,78.11
+ef59d620-9ce6-4028-96b5-d60467d0b02d,Upasna Sathe,1998-05-04,6358413465,Dhule,Retail Sales Associate,BATCH_2653,79.7,64.55
+cbdb1de3-cd84-492e-ae7f-61f2231fd15a,Lipika Setty,1991-01-18,9664461415,Wardha,Field Technician,BATCH_2208,56.27,57.44
+0dc26f37-de76-4526-b25c-36c8b905b7b3,Dayita Nori,1986-11-12,7720956992,Raigad,Data Entry Operator,BATCH_7941,67.23,43.51
+c3eb9050-9393-49ed-95fd-ac0a20de90b7,Theodore Deol,1994-01-18,8197857474,Buldhana,Field Technician,BATCH_4029,68.55,60.98
+82bb6576-5333-4454-82d2-35c20d9596b7,Nihal Shere,1991-04-14,9197613238,Palghar,Retail Sales Associate,BATCH_3504,81.37,83.56
+a9fc0f48-558d-44a7-a446-aebe8a62e39a,Hritik Swaminathan,2000-08-09,+918986171278,Pune,Python Developer,BATCH_2584,69.7,83.72
+66754d73-7aab-43b2-8fae-a39061ce9d98,Yachana Sinha,2006-02-05,7197939109,Ahmednagar,Customer Care Executive,BATCH_7492,75.67,77.25
+974f44c3-ec65-48c5-9f4e-e94a6496d75d,Lekha Gupta,1987-10-17,8761330848,Buldhana,General Duty Assistant,BATCH_8616,71.78,80.21
+e4ee2cd3-8a95-4016-b43d-cb275cd85a53,Kai Chad,1989-04-30,9149086585,Jalgaon,Python Developer,BATCH_1265,63.04,91.41
+c61adfa1-6339-4abd-8395-b679a7b5c771,Nakul Bawa,1999-07-13,8140229006,Mumbai City,Plumber,BATCH_2758,96.42,58.43
+a99a324d-d6e4-496a-9ac2-ca33a5323fd7,Baljiwan Modi,2008-07-18,7354193540,Amravati,Data Entry Operator,BATCH_6912,77.7,60.29
+eac4e4b1-bc29-4cfb-99b5-76b6ff8fdff8,Dhriti Sanghvi,1996-09-18,7830511568,Ratnagiri,Logistics Associate,BATCH_8319,76.41,59.9
+03ca0f10-d2bd-4566-8dc3-6cf110d1674f,Prisha Varma,1989-11-03,7274651099,Gondia,Retail Sales Associate,BATCH_1547,64.75,57.53
+7eb59720-eaa9-44a3-afa4-0f0fb3e43714,Bina Mital,2004-06-30,8740871060,Buldhana,Python Developer,BATCH_6302,98.95,56.09
+4f4a3093-6e14-4119-b217-4bffba449360,Mohammed Khalsa,2004-11-13,9735540030,Mumbai Suburban,Retail Sales Associate,BATCH_8022,56.78,65.39
+3ab32fc2-8d72-438f-bfdc-3786e9921fb1,Ekiya Suresh,1981-03-16,6823019672,Sindhudurg,Data Entry Operator,BATCH_7596,86.41,84.03
+374a36ae-6fa4-4347-92ce-b6cb290b3670,Vanya Vora,1991-03-18,7201710492,Chandrapur,Retail Sales Associate,BATCH_3290,56.07,43.39
+041f3bb5-0484-40d4-8a74-16b75cc11751,Yadavi Wali,1985-01-25,8291735734,Nandurbar,Data Entry Operator,BATCH_2776,79.83,59.01
+baa5fb0d-21cb-4422-a05e-39dba0d35395,Ekiya Kothari,1980-11-06,6462871672,Gadchiroli,Data Entry Operator,BATCH_8066,97.12,49.07
+7948e3a6-a342-4965-bdfb-6022bfead2f6,Hiral Venkataraman,2005-09-19,7155606161,Nagpur,Plumber,BATCH_4836,71.46,45.02
+d5c49b88-5154-441b-878c-05d414de7d47,Urishilla Bakshi,1998-01-03,9314939857,Pune,Python Developer,BATCH_2213,72.6,89.43
+528afb6d-eb95-4b3a-bb7e-a84017493139,Triya Dalal,1998-10-18,9777944609,Beed,Plumber,BATCH_1920,67.6,44.08
+20eada3b-69c8-48d5-9c72-819fb5d32231,Kamala Biswas,1994-10-29,7282518553,Kolhapur,Retail Sales Associate,BATCH_7267,80.99,53.25
+05fbb16a-1149-4a29-87d6-65d20e906415,Onveer Nazareth,2004-04-01,6436458586,Parbhani,Plumber,BATCH_3246,69.14,84.74
+2ed01488-495a-4efe-b691-176aef0b312a,Manthan Sekhon,1995-09-28,9405100495,Nandurbar,Python Developer,BATCH_6461,54.08,76.5
+ce965215-ee77-4c42-b3f1-441edda817c5,Y. Solanki,2003-11-19,+918207939087,Nashik,Plumber,BATCH_4727,68.04,56.62
+e0d8b06e-fdf7-4819-8dd8-e35271310efa,Ishaan Bal,2001-04-04,6395121074,Jalgaon,Logistics Associate,BATCH_5729,58.41,65.15
+445bfa11-e6a0-4fe6-9550-aa617f4b41c8,Aarav Venkatesh,2006-07-29,8446071904,Ahmednagar,Retail Sales Associate,BATCH_5569,94.08,53.41
+61cb6153-14bd-4532-9ff8-5b72d8b3ee92,Viraj Ben,1983-06-19,7289086333,Ahmednagar,Customer Care Executive,BATCH_6878,95.7,41.55
+3674b61c-08c7-4b38-920a-b05cfeee6493,Yoshita Agarwal,1999-01-27,8718216692,Bhandara,Field Technician,BATCH_7843,64.48,62.28
+2130846d-2e1d-49dc-a5e1-846364700ff5,Ikbal Kothari,1986-01-09,6199104722,Bhandara,Plumber,BATCH_1722,50.18,82.41
+be28f762-2ccf-4687-8fe6-1401c1e9e6c8,Faqid Kibe,1983-07-07,6576396216,Solapur,Plumber,BATCH_1474,52.3,83.79
+cc393ff1-6acc-496c-8da0-caee164aa319,Nirja Rout,2003-09-18,6931221434,Ratnagiri,General Duty Assistant,BATCH_6869,92.51,83.76
+7c20fddd-de44-4de6-a29b-bd406008f7a1,Aadhya Andra,2005-10-30,7871531100,Sangli,Plumber,BATCH_8032,50.08,59.4
+9223e0f2-cad4-4ccb-9a62-c007be09dec7,Ojas Sawhney,1990-07-03,9222358216,Nandurbar,General Duty Assistant,BATCH_9646,98.3,57.24
+3c7a2089-7d5a-457f-8a3c-46f32264ff83,Upkaar Virk,1991-04-24,9531233244,Bhandara,Retail Sales Associate,BATCH_9032,85.62,64.4
+a20103af-4468-4905-bcfe-bc1bf9be8087,Falguni Mallick,2004-11-10,6935147672,Solapur,Plumber,BATCH_2771,78.93,91.09
+94b7f83b-5d71-4454-9e8e-cedf1a0b2a1f,Falguni Datta,1999-06-04,9416960306,Sangli,Electrician,BATCH_6404,61.5,71.34
+c3ea60dd-df69-4631-8ae7-a6b54cd432d8,Liam Khalsa,2002-10-16,7853150998,Satara,Electrician,BATCH_3396,85.57,85.57
+f31c19a5-1174-4774-9779-f8f8fbbbb366,Jeremiah Mitter,1997-11-11,9109971784,Mumbai City,Customer Care Executive,BATCH_2975,99.41,63.23
+1ee2393e-2709-4235-95a2-020a8aed652a,Chakrika Hans,1985-07-28,9477131597,Buldhana,Field Technician,BATCH_2661,91.44,83.38
+ff8da730-2eae-4974-9967-b397e2cbe992,Logan Sami,1985-10-18,8273497327,Gondia,Logistics Associate,BATCH_8007,78.05,46.15
+dbde4682-931d-484d-b723-7fe9012cc83d,Leena Sahota,1987-08-12,6432759989,Ratnagiri,Logistics Associate,BATCH_4329,98.72,48.55
+2df9efd5-64ff-48a0-a9b3-274a62bbb61d,Ayush Batra,1989-09-28,9639026034,Parbhani,Electrician,BATCH_7326,99.73,60.62
+12b0b268-80b1-4cf0-b51c-4fea5bd85dfd,Jonathan Mahal,1981-12-07,6984968439,Chandrapur,Retail Sales Associate,BATCH_4475,82.09,72.84
+53647bd8-8de9-4ff5-9203-5e7c657e6e87,Nakul,1998-07-13,8140229007,Mumbai City,Plumber,BATCH_2758,96.42,58.43
+d8358815-9bd5-466b-976a-4a338e048bb9,Isaiah Narayanan,1985-03-17,7844292151,Raigad,Customer Care Executive,BATCH_5205,89.35,79.62
+93d365ec-a54a-451b-8dbe-cc45c0cd792e,Yachana Sinha,2005-02-05,7197939109,Ahmednagar,Customer Care Executive,BATCH_7492,75.67,77.25
+1936917c-97f4-4343-b2d0-b8b5115198d0,Ayaan D’Alia,2005-03-20,6954942461,Thane,Customer Care Executive,BATCH_9728,71.42,60.38
+ec90f59f-170a-4cd6-a9dd-68fad6e14945,Ayush Bumb,1981-12-06,7788887139,Sangli,Retail Sales Associate,BATCH_9691,78.16,73.57
+f0996f8e-50ac-4302-8dac-fea9229f65b9,Amara Oak,1983-10-13,6366186631,Jalgaon,Retail Sales Associate,BATCH_6539,51.05,70.47
+04673ddb-d387-4344-828c-4b2390844a3f,Yachana Mahajan,2003-11-30,8760191749,Bhandara,Plumber,BATCH_1939,53.75,75.06
+1aa2131d-f99d-413f-ba73-4b87b8cd65d9,Deepa Chokshi,1996-11-11,9680911523,Thane,Retail Sales Associate,BATCH_4846,81.56,90.65
+4c8d5f1e-5392-4632-89af-a4510277a680,Panini Brar,1992-09-18,9596126873,Jalgaon,Field Technician,BATCH_4022,59.32,76.15
+51d01450-9dde-402e-a3fa-c252672775a3,Krish Thaman,1993-10-06,8443080569,Solapur,Retail Sales Associate,BATCH_6500,72.33,54.59
+49f21f0c-d205-42cc-8e9f-39ec777a42fd,Ganga Shukla,1992-04-20,7454123990,Wardha,General Duty Assistant,BATCH_5722,83.13,62.02
+3f734693-9a1b-48e8-ad22-e1e6530895a9,Inaya Mukherjee,2007-10-03,9600368062,Sindhudurg,General Duty Assistant,BATCH_6246,95.72,60.39
+98a81d5e-55e2-4d92-ac59-d1303d6266f4,Azaan Kota,1986-03-29,7631855083,Thane,Python Developer,BATCH_9229,98.27,58.26
+15dd649b-4968-46af-bc1f-32a21bb20037,Jeet Vasa,1984-12-10,9100725768,Bhandara,Electrician,BATCH_3161,94.11,56.6
+6332bc8d-b46f-45e3-8296-c6d28324a58f,Umang Bhatt,1990-02-15,7161073976,Akola,Retail Sales Associate,BATCH_4044,53.43,43.74
+ffbb4979-5e64-42aa-ac26-6ce146388eda,Kashvi Nori,1996-04-11,8391261014,Raigad,Customer Care Executive,BATCH_2956,75.1,89.61
+03346c96-9a7c-49c0-afd2-72d62532e7ff,Guneet Bhat,1991-12-07,8318610946,Nandurbar,Logistics Associate,BATCH_9004,62.56,89.95
+8c834b5c-f621-4c4f-a8bc-b5a6df4684eb,Aditya Choudhury,1982-10-07,9546434187,Palghar,Electrician,BATCH_7883,69.47,82.34
+0b6d0d5c-f4ac-4900-bb06-8f15d35402e6,Teerth Sawhney,1993-02-09,6656307931,Sangli,Plumber,BATCH_3697,58.1,91.41
+dec42aa3-2d0a-441a-b5eb-fd2edf091494,Rishi Pillai,1999-08-27,6200395400,Nagpur,Field Technician,BATCH_7179,77.64,43.09
+08f0dc5b-51eb-4a80-a5bc-773dd01c3476,Oeshi Mahajan,1986-09-11,9392956587,Nashik,Retail Sales Associate,BATCH_6417,58.12,65.24
+acca5f35-5109-40b2-8df1-0f9daec49f04,Darsh Murthy,1982-04-05,8477040284,Akola,Field Technician,BATCH_9785,66.56,41.52
+17e0d505-a396-4f0c-8275-b48b96b1de06,Pallavi Roy,1993-09-26,7383968123,Pune,Retail Sales Associate,BATCH_3546,63.62,73.27
+adb44c56-cdff-45cb-a91b-bdcbeed38698,Triya Manda,2002-06-12,6854674236,Solapur,Retail Sales Associate,BATCH_9189,92.27,75.47
+8fd58d9a-027c-4cee-8629-6b91cd856c27,Harsh Chanda,1991-04-19,6692749116,Jalna,Customer Care Executive,BATCH_4150,85.23,42.52
+493d584b-8feb-47c6-8df8-30b05b87862a,Harsh Chahal,1997-03-11,6734036506,Bhandara,Data Entry Operator,BATCH_1488,54.68,52.8
+2fa2443a-82dc-46df-9af7-9253577da9a7,Lajita Sood,1980-10-28,9652543518,Mumbai City,Logistics Associate,BATCH_8569,70.66,50.32
+9180f2f2-7314-4196-97c3-851ee088c893,Chameli Sanghvi,1989-03-18,6445864933,Sangli,Retail Sales Associate,BATCH_3067,63.75,74.82
+210ef5fd-6afe-492a-9c87-7ff76eba9e00,Chasmum Rege,1983-12-05,8269119969,Kolhapur,Customer Care Executive,BATCH_9335,61.21,94.18
+5fa0f8ba-06f9-4100-964d-17236d202277,Eiravati Chaudhary,2004-02-27,9192013357,Jalna,Electrician,BATCH_2204,54.1,48.48
+b4a243a4-c5ed-47ed-9493-79330b2acce0,Vaishnavi Bora,1993-05-30,6262915636,Sangli,Plumber,BATCH_2395,99.7,46.51
+62c1c07e-caaa-4e73-ae2f-f597f46f49b9,Garima,1984-02-23,6224628497,Sangli,Customer Care Executive,BATCH_6110,67.15,83.13
+e54d05e8-0ed5-464b-8dc3-33384b2d4605,Samar Oak,1997-08-24,7631381642,Hingoli,Retail Sales Associate,BATCH_4949,74.98,72.67
+590ee9e3-fea2-4e13-bc02-6a27d43fa631,Janaki Kanda,2008-08-01,6743111853,Osmanabad,General Duty Assistant,BATCH_1319,55.59,59.96
+ce15fa7d-68c0-4ea2-abbe-8796e2fb34b2,Vanya Vora,1991-03-18,7201710493,Chandrapur,Retail Sales Associate,BATCH_3290,56.07,43.39
+40270aa6-2015-42f6-83f9-61275b36766a,Vamakshi Swaminathan,1993-03-17,7826197069,Nagpur,Logistics Associate,BATCH_6992,54.52,61.7
+49cb8d30-37a3-4c29-b978-58bad6ba49d4,Warhi Bansal,1984-03-12,6645127678,Buldhana,Logistics Associate,BATCH_1618,83.1,88.2
+f45e7224-8e82-4a9b-a644-7678401f4956,Bishakha Sanghvi,1980-09-13,9737594763,Nashik,General Duty Assistant,BATCH_2752,56.77,40.37
+c6727ef3-b6f9-4891-af2d-3fa70df9bc46,Tanish Jaggi,2003-11-04,7131464348,Aurangabad,Data Entry Operator,BATCH_8728,76.47,82.18
+586a4c8e-3b04-4a20-81d7-8d806397b6e4,Frado Mander,1995-02-03,7394539550,Thane,Data Entry Operator,BATCH_5786,84.87,46.95
+a5c59d62-fcbd-4bc4-adba-f4e22e7557c2,Darsh Srinivas,2004-05-20,7489256938,Yavatmal,Plumber,BATCH_2204,69.32,64.77
+b143e8c7-b714-47cc-b683-fc43ef3701e7,Oliver Contractor,2002-06-09,6452794611,Buldhana,Field Technician,BATCH_6188,81.34,88.81
+f29694ce-c832-4ee7-b790-0488ed31e38c,Abdul,2001-06-15,+919427899537,Palghar,Retail Sales Associate,BATCH_4404,81.28,54.56
+b343c8df-f3ff-4634-a1ac-fb1a96aa2936,Oscar Dua,2001-12-11,7881531720,Jalgaon,Data Entry Operator,BATCH_1372,98.92,65.47
+a4e50e39-7164-40cb-8089-39683ac2258b,Udyati Sathe,1993-01-14,7305665554,Dhule,General Duty Assistant,BATCH_5530,86.23,93.71
+ac497221-69cf-4b52-828f-7cadff2863f3,Jagrati Bhat,1991-10-22,8234400576,Beed,Logistics Associate,BATCH_2530,75.13,49.27
+9de35c10-bd03-4a98-82dc-0490e6b0b55c,Suhani Mangal,1992-07-03,6605399561,Jalgaon,Electrician,BATCH_8541,67.48,85.13
+26323bb2-11d4-44b8-9e52-c78f7ed97b13,Quincy Biswas,1997-04-27,8568574364,Akola,Retail Sales Associate,BATCH_7311,94.98,50.45
+39bf89ed-2272-4a2e-afcb-3cdc0d2e87d8,Ekantika Korpal,2003-12-02,8123557463,Nagpur,Plumber,BATCH_1132,78.3,77.72
+e3328638-dd44-4d0e-93b5-63b8155452e4,Balveer Bumb,1992-05-25,7491079829,Bhandara,Retail Sales Associate,BATCH_6409,81.16,76.49
+6acfbfff-a229-4eaf-856f-d7db025726eb,Triya Seth,1981-09-17,6250469429,Akola,Plumber,BATCH_4836,90.79,80.23
+8096ac7e-441f-4856-9f9a-251a1168b06e,Qabil Deshmukh,1982-06-05,9673772626,Akola,Field Technician,BATCH_9907,51.84,93.26
+957bc9aa-ace8-4540-866f-c0556da5cdb5,Imaran Bal,1984-05-07,8582750043,Ahmednagar,Python Developer,BATCH_2586,52.53,92.0
+9331a9c5-a19d-4f8e-b82d-59526e324b7c,Ladli Agate,2008-03-31,9961393416,Ahmednagar,Plumber,BATCH_3608,89.37,45.95
+de050a4a-560a-4aec-985d-42a951df5b3c,Kabir Soman,2006-03-04,6154318806,Buldhana,Data Entry Operator,BATCH_2528,96.32,86.68
+28f8fa9e-ac61-4b00-80f8-863650284237,Nachiket Magar,1988-07-19,9153921577,Yavatmal,Electrician,BATCH_2988,72.82,84.08
+197889da-7e9d-4916-9246-35d5d73d6d04,Tanvi Bhatnagar,1983-10-06,7388749542,Beed,Plumber,BATCH_9079,57.3,49.2
+ccd35d91-5e3a-431b-b500-eba5aa65c5aa,Warinder Chauhan,1984-10-04,7801726890,Latur,Retail Sales Associate,BATCH_3924,99.64,61.62
+9f8e7c6f-3c06-442e-ac43-1a21af1496cd,Yashica Rajagopalan,1993-08-13,7544056890,Beed,Plumber,BATCH_1998,77.84,72.54
+15ecfd68-c657-4aec-a4ee-453247fbe6b1,Jai Barman,1990-05-19,8484897084,Parbhani,Field Technician,BATCH_3385,62.21,62.66
+60b6ca90-66c9-4d60-9239-e700fa5b46d9,Bimala Barad,1980-12-01,7882576281,Mumbai City,Field Technician,BATCH_1530,59.1,57.5
+c91f6a72-8780-4e86-a9b0-35851f657ad9,Raksha Bassi,1992-02-29,9965615974,Kolhapur,Retail Sales Associate,BATCH_2578,76.22,53.25
+297c6517-2eaa-4a4c-bcbb-7a4279e32722,Warjas Ganesan,1992-01-15,8937643439,Yavatmal,Field Technician,BATCH_3532,96.29,53.02
+ab60f5c6-a270-4a59-961b-29fb26e6f809,Upma Mangal,1995-09-08,9392036942,Washim,Retail Sales Associate,BATCH_5308,85.62,71.72
+2226e108-3fba-4158-9757-43e83564503e,Balendra Biswas,1987-03-26,7368438908,Palghar,General Duty Assistant,BATCH_7081,77.73,45.64
+48f4b584-d8e2-4881-a2e9-35c4c117b2cd,Pavani Narayanan,1990-07-05,8755070775,Jalgaon,Retail Sales Associate,BATCH_8606,95.47,56.62
+9ea3aeaa-91f0-4c91-8daa-f1d898edc142,A. Malhotra,2005-09-10,7465278988,Sangli,Customer Care Executive,BATCH_6231,86.71,87.34
+c958b9a5-7877-4d9b-beca-e421cadb334c,Yamini Gera,1981-10-03,7965195567,Chandrapur,Data Entry Operator,BATCH_7761,98.39,70.65
+5cb6dee5-43e4-4fa5-a223-2c5d972272f0,Abdul Dugar,1992-01-20,6196913120,Palghar,Electrician,BATCH_4584,51.0,66.29
+35cf3fd4-6ba8-4eee-ae64-2940686777ab,Isaac Bhatia,2003-11-12,9675004218,Gadchiroli,Electrician,BATCH_8803,64.94,61.71
+968278a5-89fb-45f0-aa29-2e4f8a1d3a57,Rushil Din,1981-05-05,6371096600,Gadchiroli,Retail Sales Associate,BATCH_2070,70.04,44.07
+f482eb07-975e-4006-b0ad-0441e5040563,Qushi Datta,1981-10-30,9997356828,Wardha,Logistics Associate,BATCH_9947,89.99,89.38
+cbc0a481-f4ec-4809-8ec4-610b0822bbd9,Amol Varma,1996-10-05,8552155193,Beed,General Duty Assistant,BATCH_2260,68.06,91.93
+f5a4b47c-bdda-44e0-9e4f-d7cf459053ef,Suhani Pillay,1999-07-02,7221814525,Mumbai Suburban,Python Developer,BATCH_9176,75.89,90.24
+7c3da654-370a-4e3e-9769-ebfc9520b00b,Zayyan Bumb,1993-10-29,9588922557,Osmanabad,Electrician,BATCH_4912,78.59,52.85
+fcb45a8d-3dd9-4f5e-95a5-133d92e67a8d,U. Patel,1985-09-07,8206681214,Parbhani,Logistics Associate,BATCH_6876,53.03,55.17
+1c7d984c-e4dd-4a46-a47f-74a24195c7de,Avi Som,1988-02-04,9180348617,Palghar,Field Technician,BATCH_3141,61.84,54.35
+7ac16cf1-7a91-4673-ad2e-e2b45288a372,Vedhika Dara,1981-06-20,7933468715,Latur,Customer Care Executive,BATCH_3419,61.81,48.05
+9c276098-8719-41fb-bb34-db3474421243,Chasmum Issac,2008-08-22,6483426624,Raigad,Customer Care Executive,BATCH_4950,86.65,74.55
+d3c8c0da-7aa8-4041-bfcb-fdfb6360766d,Hamsini Rao,1998-11-08,9996696177,Nashik,Customer Care Executive,BATCH_8218,73.08,55.5
+99c2702f-d71a-4e9e-8ca3-d5061c6bd55a,R. Khare,1996-09-01,8973150512,Satara,Logistics Associate,BATCH_2531,82.3,63.29
+06e3ce22-eab2-4990-8af4-b7a0c1d763b5,Madhav Devan,1981-09-24,7894198823,Hingoli,Customer Care Executive,BATCH_6909,55.33,40.29
+6601ad19-8d14-452f-a2c4-ceef55361c7a,Raagini Desai,2005-05-14,6632734398,Chandrapur,Logistics Associate,BATCH_6900,52.77,87.26
+e3bba6b9-7553-47e5-bcd3-74e0e7f42455,Vedant Mann,2008-03-30,7835098955,Osmanabad,Data Entry Operator,BATCH_4752,91.09,84.28
+e84a3b3f-eba8-4e17-a177-b3b536871534,Vedika Handa,1987-01-01,7682115008,Palghar,Logistics Associate,BATCH_1554,91.95,44.09
+cdfb2a82-3ef1-4fd7-8358-03568a51bdbb,Mohammed Gupta,1988-12-19,7339362341,Mumbai Suburban,Electrician,BATCH_7528,66.41,87.54
+a1a13302-d9f5-4394-9e68-d51a137c4f51,Nicholas Golla,2003-12-09,6668457864,Aurangabad,Logistics Associate,BATCH_5697,50.86,84.72
+9a4003df-5e99-47e6-9386-7d290d624296,Robert Patil,1996-02-24,6345247378,Akola,Data Entry Operator,BATCH_1721,92.93,40.68
+bd4433d3-1350-470b-8661-3ead50e29420,Onveer Sharma,2003-12-16,8658712474,Gondia,Retail Sales Associate,BATCH_4365,85.85,66.89
+a9c73a08-4649-47ce-8555-2c4bce5289df,Zayan Apte,1999-09-16,7865523129,Beed,Field Technician,BATCH_7118,71.91,68.47
+50c4dfe7-1f86-4ca6-8f8a-8dd0e93a1181,Shivani Guha,1989-08-30,7772155012,Bhandara,Logistics Associate,BATCH_9120,52.34,58.94
+0df5c2da-2789-44f7-8c38-35ed637865f2,Ekani Mangal,1998-09-29,+918163947730,Mumbai Suburban,Python Developer,BATCH_3320,88.72,86.56
+3e455194-d2a4-405b-8e30-87f3ccdd67c0,Gagan Nagarajan,1999-05-11,9278221407,Satara,Electrician,BATCH_4390,90.27,71.35
+7cbffc59-b8fe-44b3-8a4f-3b715952b3b5,Inaya Kapur,1998-11-12,9146865930,Osmanabad,General Duty Assistant,BATCH_7246,69.3,76.5
+40488897-e3c2-43e8-a405-c0da5abd4d55,Bhanumati Krishnan,2000-12-03,9360482447,Dhule,Field Technician,BATCH_4921,77.6,82.65
+84a033ef-fa6a-49dd-858a-a847a0a0f819,Wishi Sathe,2001-12-09,9732295732,Nagpur,Logistics Associate,BATCH_2288,69.79,57.07
+d7e5f420-bd71-4066-91b3-caafb33d2754,Yug Dhaliwal,1983-05-16,9554810444,Nagpur,Retail Sales Associate,BATCH_9791,76.88,48.4
+ae98af24-b5c9-4871-b206-93d9c3c53e72,Neel Naidu,2006-10-31,8200223044,Parbhani,Plumber,BATCH_2350,68.59,89.71
+7c8cfd13-95ee-4734-b9e7-1314db2dadc0,Dayamai Gole,2007-04-17,9594811370,Solapur,Customer Care Executive,BATCH_3773,57.0,70.06
+65979d71-6bb8-4739-90cf-62266dff30c0,Kashvi Kulkarni,2001-08-01,9491932454,Pune,Electrician,BATCH_9939,59.0,82.22
+56f11728-85ad-401c-ba2a-386ce3fb07d4,Nisha Tandon,1988-09-23,7920511515,Nandurbar,Plumber,BATCH_6375,56.0,67.36
+1835c4a1-ac33-4a95-bb1f-2687efb1cc98,Tanvi Mutti,2006-09-03,7760904107,Beed,Field Technician,BATCH_9977,91.69,56.71
+4ad80b2c-ff23-4d04-8105-70df88c54fa0,Udant Bajwa,1999-02-21,7599326438,Nandurbar,Customer Care Executive,BATCH_3749,80.29,93.01
+ff3e2234-a7f4-48c9-9bf5-5dce5565c7b4,Tarak Kaul,1989-11-10,8586989309,Raigad,Data Entry Operator,BATCH_3589,71.98,66.63
+84850baf-4b82-4692-b483-92491bf7cc8e,Chasmum Apte,1987-12-25,8809311588,Jalna,Plumber,BATCH_4891,54.8,61.61
+cbe0feb4-9adf-41d7-b12f-ba4659d24d40,Harrison Rai,1988-06-10,9387484583,Raigad,Electrician,BATCH_6155,60.63,67.46
+c8ac2684-ecd2-4417-913c-af960f89a64e,Gavin Uppal,1993-02-17,9316809172,Sangli,Plumber,BATCH_6238,95.54,90.28
+3b7e78ae-d4dd-4de6-ac69-8ab356b2e84a,Abdul Chhabra,2002-06-15,9427899537,Palghar,Retail Sales Associate,BATCH_4404,81.28,54.56
+98f4a774-bbb9-4fa8-b6c2-e7803a0fe106,Kala Mane,1985-01-28,6362897676,Gadchiroli,Retail Sales Associate,BATCH_8461,70.72,74.64
+af618e0d-aa2d-4138-be0b-fa0e9d3e713b,Gautami Mane,1993-05-19,7786815488,Sindhudurg,General Duty Assistant,BATCH_3304,66.56,44.28
+f554debc-3a75-423b-91c6-47a1a64b478e,Vedhika Khare,1988-05-07,9570040006,Ratnagiri,Data Entry Operator,BATCH_8078,86.73,73.2
+b9f92812-2d87-40e4-b000-2da84db2bb68,Faris Devi,1984-11-18,7605196410,Washim,General Duty Assistant,BATCH_5557,59.07,72.19
+eb9fa790-9c9b-46fe-9f8b-11cdc2d59c3d,Tejas Bora,1981-12-05,8511289794,Amravati,General Duty Assistant,BATCH_1613,58.61,62.16
+52f539d1-c06a-4d5d-83d3-a4dd597ea83a,Ranbir Khare,1996-09-01,8973150512,Satara,Logistics Associate,BATCH_2531,82.3,63.29
+95223bf3-b7f0-4a09-80f7-004cf450ff15,Chameli Setty,1982-09-14,7694205108,Jalna,Data Entry Operator,BATCH_5942,60.27,73.38
+bfe45a76-d691-4ac5-9018-f24c2ba2df3a,Lavanya Barad,2004-09-12,6475767056,Jalgaon,Retail Sales Associate,BATCH_1659,87.71,92.23
+3ac11493-448e-4864-bfca-6fc377f149de,Yashica More,1999-05-02,8696776072,Mumbai City,Logistics Associate,BATCH_4130,54.28,79.6
+c35f6e95-7eb4-4ad4-b9fc-f0d8cca57c39,Bakhshi Date,1982-07-17,9554234434,Kolhapur,General Duty Assistant,BATCH_9804,84.67,75.49
+403dc987-4a9d-45f5-aa41-0acd1a744907,Upma Venkataraman,1998-11-25,6156488296,Sangli,Python Developer,BATCH_1815,83.7,54.97
+80fd22c5-e702-4d06-86f8-ee0dcf01910f,Mohammed Sachdeva,1998-12-30,6583156434,Chandrapur,Logistics Associate,BATCH_6644,56.42,85.6
+ec74afb7-048d-443b-8bf6-200dbb30fe73,Anita Devan,1983-09-20,7271395839,Sindhudurg,Electrician,BATCH_4951,63.33,84.9
+e75d615a-667c-4a56-8aa5-6410d5f03e95,Rudra Sandal,1983-11-15,7697398528,Palghar,Logistics Associate,BATCH_6400,83.5,62.59
+db13c3b5-0868-4761-9f50-3175ea5d0eb0,Abhiram Mistry,2006-10-01,7871318048,Hingoli,General Duty Assistant,BATCH_7547,62.2,76.08
+fabade2c-40b9-4b5a-ade1-d73460cb561f,Libni Bumb,1991-02-27,7482049366,Yavatmal,Field Technician,BATCH_8075,59.29,72.22
+45d2d513-bb6e-4131-b2da-7afd34f267d3,Bhavya Johal,1999-12-27,6280377032,Bhandara,Field Technician,BATCH_9128,51.47,77.58
+424a917f-381e-49e5-b099-bb0c262c33fa,Wridesh Tank,2006-03-21,9219385981,Jalna,Electrician,BATCH_5934,56.09,53.11
+8e37e716-49d9-4288-8a8c-7f59a05c3f29,Mohammed Khalsa,2005-11-13,9735540030,Mumbai Suburban,Retail Sales Associate,BATCH_8022,56.78,65.39
+72cba182-4ad0-4f7e-bc5b-3dc76dde582a,Hritik Swaminathan,2000-08-09,8986171278,Pune,Python Developer,BATCH_2584,69.7,83.72
+7b43400b-6833-4d12-903e-28c5ef7a098e,Gaurang Sarkar,2004-04-21,9968326513,Palghar,General Duty Assistant,BATCH_3161,75.66,65.12
+82e2dc9c-7682-4cce-ab49-d2d0a01dee46,Caleb Verma,1989-02-07,8920184955,Nagpur,Customer Care Executive,BATCH_1741,70.03,71.37
+cb7a79c0-85e5-4879-8f25-9aacec74d0bc,Bhavika Parikh,2004-10-19,7470405910,Mumbai Suburban,General Duty Assistant,BATCH_2712,64.77,90.63
+852ff70b-a5f4-4579-9a6d-ea2999aa86cb,Laksh Chatterjee,2005-12-15,9529520110,Gondia,Field Technician,BATCH_6554,98.69,67.29
+6d3b9e78-2e9d-455f-9145-652f302d2944,Harini Mammen,2005-04-23,8450811990,Wardha,Python Developer,BATCH_4289,56.61,69.67
+df57f105-1b94-486b-aaef-0394c7276c27,Girik Menon,1986-11-12,8676140134,Pune,General Duty Assistant,BATCH_7038,83.64,76.98
+35ed97ca-316c-4315-9c1e-ce26647ee876,Devansh Rajan,1991-05-06,7384602384,Washim,Field Technician,BATCH_4470,96.45,81.54
+d076008a-9f1f-4644-8559-e56520c66d1c,Yug Dhaliwal,1983-05-16,9554810443,Nagpur,Retail Sales Associate,BATCH_9791,76.88,48.4
+e6d7c9a6-8772-4864-8b25-366a018957ff,Kabir Soman,2007-03-04,6154318806,Buldhana,Data Entry Operator,BATCH_2528,96.32,86.68
+197a0dba-0ceb-45c0-b4af-5440cc2dfd1d,Ryan Sharma,1990-06-13,7121882877,Sangli,Electrician,BATCH_3068,73.68,46.29
+fc298667-4e87-48f5-a251-967aebb63028,Reyansh Mutti,1984-01-03,6352114611,Buldhana,Python Developer,BATCH_7367,72.68,76.88
+d7b899ac-a990-4668-b055-3b7f23812e17,Rajata Bahl,1993-07-13,8546510829,Yavatmal,General Duty Assistant,BATCH_9806,90.1,85.41
+01828dbb-4e7d-4e2a-950a-689e98861993,Jeremiah Jha,1982-07-31,8789242701,Beed,General Duty Assistant,BATCH_5012,90.23,77.67
+6719ab2b-8b35-441d-95c5-060da04e1912,Girik Kar,2008-06-10,9910080036,Gondia,Customer Care Executive,BATCH_6179,57.55,43.76
+fc15f16d-afea-4ce5-bba2-349bf2c79921,Tanay Rattan,2005-12-05,7958872154,Kolhapur,Field Technician,BATCH_1406,58.97,90.85
+e68e1fce-8636-4cef-bb2a-b05766adc13b,Kevin Palla,2005-04-28,8200273738,Ahmednagar,Plumber,BATCH_4680,90.33,48.1
+279969c9-c7bc-4790-a413-645fe825b297,Utkarsh Patel,1985-09-07,8206681214,Parbhani,Logistics Associate,BATCH_6876,53.03,55.17
+7a2d568d-281b-4e77-9576-f72e25c7baba,Manthan Lata,2003-10-21,9874233009,Palghar,Plumber,BATCH_6119,67.58,71.79
+36bebb56-b465-4519-a90e-f683322b867b,Lakshit Venkataraman,1986-06-19,8980564513,Kolhapur,Data Entry Operator,BATCH_7625,92.73,70.58
+73c22056-e9e5-4874-8958-635440d82a6f,Fariq Bahl,1987-10-29,9698058121,Yavatmal,Logistics Associate,BATCH_7685,55.16,44.93
+75fc0e5f-e1b6-4a60-9c7a-ca2f4d3ca6e4,Bhavika Keer,1988-04-07,6198061499,Jalgaon,Data Entry Operator,BATCH_5415,78.81,81.97
+6d71e4ce-3d1a-41e2-8ccb-18b4af0fb5ba,Ladli Narang,1986-08-02,9464938258,Akola,Plumber,BATCH_1042,64.14,56.42
+1d39cf49-6f68-484a-b522-fb0323a56cff,Harinakshi Grover,1994-07-21,6422406106,Thane,Retail Sales Associate,BATCH_1370,92.46,75.64
+66d3cbda-9a88-400d-96f5-0235faecd7fe,Krish Lalla,1983-11-22,6906341967,Sindhudurg,Field Technician,BATCH_4585,58.79,92.69
+ad4d8c43-f543-47ea-99c8-a11c5e8d76c5,L. Raju,2008-02-05,+919306164050,Jalgaon,Python Developer,BATCH_3538,53.86,86.44
+90b3bbec-596c-4094-bf1e-b3a98ad28967,Harshil Varty,2004-06-28,6292580427,Osmanabad,Data Entry Operator,BATCH_4394,79.35,81.37
+e4ab2c32-26fa-4d89-838b-a275835cc4d6,Janaki Handa,2000-05-21,6754049436,Solapur,Logistics Associate,BATCH_5010,58.17,60.87
+f122009f-c405-45ec-9775-1e43ca2652c7,Neha Merchant,1996-03-07,9696115913,Ahmednagar,General Duty Assistant,BATCH_9041,72.41,40.95
+0273e14a-8e5e-4168-b4c1-0ffcd48d103a,Lakshmi Wali,1988-11-30,7750967273,Akola,Python Developer,BATCH_6373,96.57,57.52
+cd9bb833-9ead-4241-a845-583928fbafac,Yashasvi Shankar,2007-09-23,7633019326,Latur,Logistics Associate,BATCH_9474,89.15,79.64
+286fe9a8-5955-40c4-8020-cc2f9a17b7f1,Sachi Bose,1996-09-23,9702994164,Akola,General Duty Assistant,BATCH_7703,84.23,62.86
+2d327638-8b76-4aed-8c20-52cd37a0226b,Zayyan Sridhar,1983-11-08,6241522640,Mumbai City,Customer Care Executive,BATCH_4898,79.44,40.87
+78e344b9-6b19-4a81-a73c-2376ec1203e6,Bhavna Dara,1996-09-18,6759391912,Ahmednagar,Plumber,BATCH_9173,70.6,70.29
+5a6f72f7-b553-4927-acb1-1e4cd453e67a,Hemangini Lalla,2003-04-05,7930075810,Jalna,Retail Sales Associate,BATCH_4814,93.32,60.91
+dbbde16d-9e60-42dd-b6bc-707aad9e12bf,Kashvi Sagar,2000-04-24,7578647558,Thane,Plumber,BATCH_8204,73.25,52.44
+57a18130-3c58-4936-8f91-1bd44be80ebf,Odika Bhagat,1985-11-29,8284547422,Chandrapur,Customer Care Executive,BATCH_2443,71.84,45.82
+548058b7-1196-4d53-bb3e-b727d2ce5289,Rajeshri Ratta,2001-06-21,9473984594,Gadchiroli,Retail Sales Associate,BATCH_8178,86.1,64.88
+5ab14366-a921-4dcc-b854-f0a04a84ac6c,Yasti Solanki,2002-11-19,8207939087,Nashik,Plumber,BATCH_4727,68.04,56.62
+5d8f0ece-fc6e-43a7-b725-06c74209717e,Qushi Seth,2005-07-11,8609912042,Mumbai Suburban,Customer Care Executive,BATCH_6427,83.69,93.89
+eca205f9-2c29-4a6d-a6f1-3ff193be2740,Adya Sangha,2005-10-19,7264109919,Parbhani,Python Developer,BATCH_9837,97.67,90.73
+4414c192-d957-4657-9261-9dcd5da30d9b,Ayushman Chander,1986-10-13,6702632297,Nashik,Logistics Associate,BATCH_7873,61.02,72.41
+16865fa7-7656-45bf-b4a5-15dd96e95014,Bhavika Swaminathan,1986-04-07,7419662531,Thane,General Duty Assistant,BATCH_5305,67.43,84.92
+301b3c7e-6fae-4183-81bf-83624fb0125d,Sanya Wable,2000-05-13,9912239392,Jalgaon,Logistics Associate,BATCH_1999,92.04,85.01
+5eefdc72-d77e-4b31-9518-b931e83ffaea,C. Srinivasan,1984-06-07,+918959870518,Nagpur,Customer Care Executive,BATCH_6211,72.64,52.85
+e6bc5d5c-bd99-49b3-9f71-01c74f5bf5bc,Widisha Mann,1998-08-19,9333264702,Ratnagiri,Retail Sales Associate,BATCH_3293,87.62,72.43
+e7c4fa98-dc94-4c9b-8402-bbea6664cbf2,Nicholas Ramaswamy,2008-05-25,7681479730,Latur,Data Entry Operator,BATCH_6488,50.07,76.15
+76a0046a-53a9-45c1-ad84-62b6d533764d,Charan Srinivasan,1985-06-07,8959870518,Nagpur,Customer Care Executive,BATCH_6211,72.64,52.85
+cd1c9db5-918d-41c3-aa8e-d219cad4afa9,Michael Khare,1984-03-11,6572775194,Sindhudurg,Logistics Associate,BATCH_8486,50.77,47.93
+b0c0d526-3a63-4bf1-adcc-d1ac34d20109,Pranav Lanka,1981-09-24,8113585139,Wardha,General Duty Assistant,BATCH_2729,71.68,59.92
+9218e961-0c2f-4705-8caa-30e9e6fc3a31,Hamsini,1999-11-08,9996696178,Nashik,Customer Care Executive,BATCH_8218,73.08,55.5
+7b5fe32a-600b-4c60-a358-2ccb0f69a305,Harshil Arora,1996-09-24,7729624046,Dhule,Electrician,BATCH_6383,88.72,83.38
+31aeaa8c-66c5-4948-ad77-cb5ac6d7084f,Naksh Agate,1992-02-05,8988434627,Chandrapur,Field Technician,BATCH_7815,86.48,57.19
+a34e3463-8ee2-4c27-bbae-11aaffd90d9b,Lajita Nadig,1998-03-18,9639991949,Washim,Field Technician,BATCH_3655,90.84,84.07
+fe206bdb-0c8b-4205-b4eb-06698c3b008e,Jason Roy,1990-07-24,8825708356,Nandurbar,General Duty Assistant,BATCH_4150,97.87,55.35
+c056f41f-bc2f-4bd2-8ec9-5e487b5389f4,Xavier Bedi,1999-06-01,6920392140,Jalgaon,Field Technician,BATCH_6813,96.76,94.53
+da120fd9-f43f-4238-9a23-d1d33f5fe053,Abeer Dutta,2000-03-16,8209747451,Ratnagiri,Field Technician,BATCH_2584,67.95,58.92
+3e1ae546-1672-4eec-8eb2-7ace550a59d5,Netra Dar,2007-01-09,6861052404,Bhandara,Data Entry Operator,BATCH_9518,96.28,69.61
+0382fb85-2ec1-48d0-b89f-4d46ef3c1067,Yachana Dora,2007-06-23,9943751263,Washim,Customer Care Executive,BATCH_7821,70.41,56.49
+b1070dff-803d-404e-af6f-81ee904396d4,Ekantika Krishna,1981-05-20,7895609471,Mumbai Suburban,Retail Sales Associate,BATCH_9691,60.76,63.09
+5c4a44e8-24e5-4ad1-bd6a-c7dc5e0c72a9,Sachi Mane,2001-09-22,8975329786,Latur,Plumber,BATCH_7502,53.95,92.76
+a454b4da-8b9b-4413-ad11-eab7c2051572,Krishna Salvi,1991-02-22,6344767409,Satara,Plumber,BATCH_8259,88.7,57.65
+cb4f3024-e599-44c6-b599-39f3de222912,Nitara Bakshi,1985-09-06,6379340713,Hingoli,Customer Care Executive,BATCH_4467,72.73,58.56
+b1207c8b-af32-41b9-afed-23a19cc633ea,Pratyush Sarin,1998-06-07,9621475287,Gondia,Field Technician,BATCH_5475,60.78,68.18
+c46f6c5d-3ab5-4dfd-8b9e-99f9e5f51398,Reva Viswanathan,1995-04-19,7517061783,Ahmednagar,Plumber,BATCH_4331,66.51,44.35
+ead03648-968f-446d-8c04-2815227d1e37,Ladli Nayar,1981-06-18,7766676815,Nandurbar,Python Developer,BATCH_2591,95.17,75.55
+d3ad0f16-88d0-4e60-a756-edf58019076c,Vincent Warrior,2001-05-05,8177880216,Parbhani,Field Technician,BATCH_2655,66.83,57.74
+839549b0-0a26-4680-88f7-d47d14dbfc23,Kamala Varma,1996-05-21,8686645526,Kolhapur,General Duty Assistant,BATCH_2195,50.83,43.71
+1b45faa0-ed38-4dbf-a09b-c42750de4558,Chatresh Randhawa,1994-09-19,9930598266,Osmanabad,Data Entry Operator,BATCH_5478,89.18,64.78
+9342c70e-387d-4305-aa49-44bcdcccf7f5,Gaurangi Purohit,1993-05-29,8433108786,Nagpur,Python Developer,BATCH_2388,65.48,60.72
+98412808-1816-4fe5-8a90-a8fb3f09dde9,Advik Salvi,2003-09-07,7349310440,Chandrapur,Plumber,BATCH_8529,62.77,40.52

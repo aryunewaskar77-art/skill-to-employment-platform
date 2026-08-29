@@ -1,6 +1,6 @@
 [
   {
-    "candidate_id": "a7d93cea-7623-418f-8fb6-f09e6a2fffbb",
+    "candidate_id": "3e9dbde9-5522-4cb3-a021-2c56211dbb80",
     "employer": "Yogi, Ghose and Ganesan",
     "job_role": "Customer Care Executive",
     "joining_date": "2025-04-21",
@@ -8,2611 +8,2595 @@
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "0985b663-d3d5-4083-92a5-cb88ce934e86",
-    "employer": "Mody Inc",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "32c7cd5b-4fd9-40c3-a599-62204fb5c775",
+    "employer": "Nagy and Sons",
+    "job_role": "Python Developer",
     "joining_date": "2025-03-23",
-    "status": "unverified",
+    "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "6198fe1d-4a15-48af-b111-376dc5d41c65",
-    "employer": "Barman, Sastry and Kamdar",
-    "job_role": "Field Technician",
+    "candidate_id": "078f214a-b534-4919-828b-46860a77d8c3",
+    "employer": "Bali-Maharaj",
+    "job_role": "Plumber",
     "joining_date": "2025-10-02",
     "status": "self_reported",
-    "wage_band": "10k-15k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "c063c496-f3ab-4f1f-b209-cdc98bf9e7e1",
+    "candidate_id": "6c161729-0f26-4039-b5fe-f4ac7be69508",
     "employer": "Nagy and Sons",
-    "job_role": "Electrician",
+    "job_role": "Data Entry Operator",
     "joining_date": "2024-12-01",
     "status": "verified",
-    "wage_band": "10k-15k"
+    "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "ddda9d19-c1c1-46ce-8602-ed735f5d886b",
-    "employer": "Varma-Mall",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "fdb4d1c2-5da3-4156-b72a-a3c3d180e540",
+    "employer": "Pandey-Shankar",
+    "job_role": "Logistics Associate",
     "joining_date": "2026-05-13",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "dff7de7a-9c8d-4b4b-8007-528fc2382e54",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Logistics Associate",
+    "candidate_id": "cf592e18-429a-43c7-a761-47de9b74f9f6",
+    "employer": "Balasubramanian and Sons",
+    "job_role": "Field Technician",
     "joining_date": "2026-03-27",
-    "status": "self_reported",
-    "wage_band": "60k+"
+    "status": "verified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "c77fa2f2-c9f1-44cd-8aea-b3c0ac7a2d3a",
-    "employer": "Talwar LLC",
-    "job_role": "Field Technician",
+    "candidate_id": "67261a86-666d-4d58-b150-124a82424dc3",
+    "employer": "Agate-Chander",
+    "job_role": "Electrician",
     "joining_date": "2026-06-12",
-    "status": "verified",
-    "wage_band": "10k-15k"
+    "status": "unverified",
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "29a066e6-4a9b-415a-a250-8ce00b8ade33",
+    "candidate_id": "0becf129-69f6-47bd-990d-917e76221131",
     "employer": "Bali-Maharaj",
-    "job_role": "Retail Sales Associate",
+    "job_role": "Data Entry Operator",
     "joining_date": "2026-03-08",
-    "status": "self_reported",
-    "wage_band": "60k+"
+    "status": "unverified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "ef97d0da-11d6-4901-8965-9e57d40a0589",
-    "employer": "Comar-Lala",
-    "job_role": "Electrician",
+    "candidate_id": "ad8cd172-d77f-4afa-915c-13af076f0ca5",
+    "employer": "Panchal, Walia and Mand",
+    "job_role": "Field Technician",
     "joining_date": "2024-09-30",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "5e92d4c2-dffc-4fc3-b095-73ca3c2a4ccd",
-    "employer": "Dalal-Khalsa",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2025-11-28",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "28730b19-5745-4e6a-8e42-e3e4a2b91113",
-    "employer": "Nagy and Sons",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-05-01",
-    "status": "self_reported",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "56f59b48-2681-4c08-a196-a9555cd372a9",
-    "employer": "Pall-Chahal",
-    "job_role": "Electrician",
-    "joining_date": "2024-09-08",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "26a0453c-14a2-4e96-9704-dd9ca07c9273",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-07-08",
-    "status": "unverified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "3291f6d5-802d-44d8-a520-616fb91b9ebe",
-    "employer": "Comar-Lala",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2024-12-21",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "980a7d3d-b214-4e89-92b9-5e1a431c9823",
-    "employer": "Yogi LLC",
-    "job_role": "Field Technician",
-    "joining_date": "2025-07-27",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "58ae755c-b0cc-4965-afb3-e9a77acd6cad",
-    "employer": "Nagy and Sons",
-    "job_role": "Python Developer",
-    "joining_date": "2026-08-23",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "c9385563-9e26-48ba-b033-70582d68e6d9",
-    "employer": "Tandon, Vaidya and Chowdhury",
-    "job_role": "Field Technician",
-    "joining_date": "2025-07-06",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "843b5361-5d7a-4c36-9fc4-6b2b9508f9b9",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2026-08-25",
-    "status": "unverified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "edbeca32-1126-4bd4-b1a7-6291e934340d",
-    "employer": "Tiwari-Talwar",
-    "job_role": "Field Technician",
-    "joining_date": "2026-06-23",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "3eaf7abf-1965-4e2d-9693-dfa15d2003ad",
-    "employer": "Bera, Parmer and Andra",
-    "job_role": "Field Technician",
-    "joining_date": "2026-06-03",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "73a605b8-4fec-4277-89ec-264b304b8908",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Python Developer",
-    "joining_date": "2025-04-05",
+    "candidate_id": "e1d7488a-7177-4dc1-a620-2f7cc2e45e5b",
+    "employer": "Shanker, Parmar and Bhatnagar",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-11-28",
     "status": "verified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "c65f8173-88a1-4d0f-9f32-addc2f131d74",
-    "employer": "Talwar LLC",
+    "candidate_id": "fec12f78-57dd-48ac-a25f-7dd40f2370e1",
+    "employer": "Agate-Chander",
     "job_role": "Python Developer",
-    "joining_date": "2026-05-29",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "6efb83e8-292f-485c-a223-e8775d4497b3",
-    "employer": "Comar-Lala",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-05-30",
-    "status": "self_reported",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "934c13f4-b676-449d-ac67-ea5dbdacff03",
-    "employer": "Jhaveri Inc",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2024-11-04",
-    "status": "self_reported",
+    "joining_date": "2026-05-01",
+    "status": "unverified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "6d13617a-d390-4b94-9fd9-f5079a88a86e",
-    "employer": "Jhaveri Inc",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-05-18",
-    "status": "unverified",
+    "candidate_id": "b1a2c035-e696-4693-bb24-e6469604ea62",
+    "employer": "Comar-Lala",
+    "job_role": "Field Technician",
+    "joining_date": "2024-09-08",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "9793b206-acb9-400a-ac43-d1c34289d3f3",
+    "employer": "Yogi LLC",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-07-08",
+    "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "51e01810-4c47-4518-8e4d-f5c47c44b800",
-    "employer": "Mody Inc",
+    "candidate_id": "518851c0-5ab5-47d6-8e04-47c45bde7293",
+    "employer": "Comar-Lala",
+    "job_role": "Field Technician",
+    "joining_date": "2024-12-21",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "33a15adc-6291-4cb9-a45e-451f4bf2cff9",
+    "employer": "Devi-Rajagopal",
+    "job_role": "Field Technician",
+    "joining_date": "2025-07-27",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "ef587bd3-f597-49d3-be88-f8ce89d73e24",
+    "employer": "Malhotra Ltd",
     "job_role": "Python Developer",
-    "joining_date": "2024-10-27",
+    "joining_date": "2026-08-23",
     "status": "verified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "9bbccd94-9716-416e-856a-f17df336ab70",
-    "employer": "Borra-Chander",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-12-26",
+    "candidate_id": "d56cde8b-7f2e-4c12-964f-86b7bd378baa",
+    "employer": "Balasubramanian and Sons",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-07-06",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "c7ae85d0-fe26-488c-b762-c66e6f5fe7d7",
-    "employer": "Desai, Munshi and Dalal",
-    "job_role": "Python Developer",
-    "joining_date": "2025-12-15",
-    "status": "unverified",
-    "wage_band": "25k-40k"
+    "candidate_id": "999a8aea-c4c2-44d7-92ac-14c7b0e8cf48",
+    "employer": "Gera, Mishra and Chad",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-08-25",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "021dd60c-35b8-40c8-bad3-ea375a338524",
-    "employer": "Nagy and Sons",
-    "job_role": "Plumber",
-    "joining_date": "2024-10-04",
+    "candidate_id": "eacc47ba-b0cb-4aef-9d88-2fa83d78aea7",
+    "employer": "Sawhney, Suresh and Ganesh",
+    "job_role": "Python Developer",
+    "joining_date": "2026-06-23",
     "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "38678477-93bc-4345-9206-b62c94f71422",
+    "employer": "Mody Inc",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-06-03",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "f280ffdb-3c6b-48e1-b7ee-45b292499084",
+    "employer": "Comar-Lala",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-04-05",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "1cc6cd15-d0d2-4955-8591-ed41a340fdf4",
+    "employer": "Bali-Maharaj",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-05-29",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "6eba313e-1a7e-4df1-8df8-2de4209e26b5",
+    "employer": "Balasubramanian and Sons",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-05-30",
+    "status": "verified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "23c5b526-7bf5-466e-b092-a1cf74d67838",
+    "employer": "Prakash Ltd",
+    "job_role": "Electrician",
+    "joining_date": "2024-11-04",
+    "status": "verified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "779a4813-a516-473e-a83c-7b5f5e24cacc",
+    "employer": "Pillay, Sha and Sura",
+    "job_role": "Python Developer",
+    "joining_date": "2025-05-18",
+    "status": "unverified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "f1e052a7-97c6-482b-a46a-750fc7042890",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2024-10-27",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "32c801ce-71f9-415d-afbd-d6102d520b77",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "Python Developer",
+    "joining_date": "2025-12-26",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "aa8b4d3d-7825-48c5-87f4-c6bba72bb325",
+    "employer": "Rao, Kamdar and Sanghvi",
+    "job_role": "Plumber",
+    "joining_date": "2025-12-15",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "5183cf03-89e3-43ea-a35f-b1d055d5c137",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2024-10-04",
+    "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "f16be1a7-c73b-4312-83f8-6e7b8208ab19",
-    "employer": "Talwar LLC",
-    "job_role": "Python Developer",
+    "candidate_id": "d5fe7d11-e667-450a-bca2-5fccaa3eba1a",
+    "employer": "Devi-Rajagopal",
+    "job_role": "Electrician",
     "joining_date": "2025-11-28",
     "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "b7b41688-2d58-4ee8-83fb-9edb3eaa16cf",
-    "employer": "Yohannan, Ganguly and Naik",
+    "candidate_id": "68afce42-ee22-4e9d-9c01-760ed46d0c5d",
+    "employer": "Deo and Sons",
     "job_role": "Field Technician",
     "joining_date": "2026-02-09",
     "status": "unverified",
-    "wage_band": "10k-15k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "322ef7df-6ac9-472e-b9eb-8b40146f9957",
-    "employer": "Swamy-Sagar",
-    "job_role": "Python Developer",
-    "joining_date": "2026-03-03",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "66807e5d-72f9-47d3-b8b0-5e309ba7ce2e",
+    "candidate_id": "236551ed-f501-4ccd-9af0-6118b91a1a91",
     "employer": "Panchal, Walia and Mand",
-    "job_role": "Logistics Associate",
-    "joining_date": "2025-07-07",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-03-03",
     "status": "self_reported",
-    "wage_band": "10k-15k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "a0497100-803c-402b-a031-06185707e481",
-    "employer": "Borra-Chander",
+    "candidate_id": "2910fc32-b39d-4c0b-8c3b-6713fbdccdbb",
+    "employer": "Vaidya Group",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-07-07",
+    "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "176f041f-249a-4acd-8e69-a4f06ad21b8d",
+    "employer": "Devi-Rajagopal",
     "job_role": "Field Technician",
     "joining_date": "2024-11-02",
     "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "cc45d368-08f0-48f6-8fc8-7d4b56be3cf2",
+    "employer": "Bali-Sengupta",
+    "job_role": "Python Developer",
+    "joining_date": "2024-11-05",
+    "status": "verified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "daf8aca8-cf03-4a00-983e-fe3ef2b67c2d",
+    "employer": "Borra-Chander",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-01-31",
+    "status": "verified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "bda9baa2-5c0e-4795-8537-7e6b07e17835",
-    "employer": "Chandran, Deshmukh and Sabharwal",
+    "candidate_id": "0387f8ae-da10-4954-beaf-9e07d4131210",
+    "employer": "Gera, Mishra and Chad",
     "job_role": "Plumber",
-    "joining_date": "2024-11-05",
+    "joining_date": "2024-10-23",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "2f762573-97f3-4b0a-ab36-ee9c664dd3a7",
+    "employer": "Malhotra Ltd",
+    "job_role": "Logistics Associate",
+    "joining_date": "2025-11-04",
     "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "484baf6a-3aba-4e1e-94ab-60b2653ce789",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Plumber",
-    "joining_date": "2025-01-31",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "300acadf-23ff-4f8f-bcc4-2a69d68625c2",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2024-10-23",
+    "candidate_id": "1dbba45c-df37-4714-a193-d226b05cc9b1",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "Field Technician",
+    "joining_date": "2025-09-11",
     "status": "unverified",
-    "wage_band": "10k-15k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "7f9eeb81-48c9-4b12-adfe-644f58b4b3d4",
+    "candidate_id": "b1798d81-4800-4121-82f5-15f829e2241f",
     "employer": "Rao, Kamdar and Sanghvi",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-11-04",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2025-07-19",
     "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "8bf329d7-0f8d-4140-b7c4-faff020ec768",
+    "candidate_id": "d97be92b-54b3-4933-8153-73dfae93a559",
     "employer": "Varma-Mall",
-    "job_role": "Plumber",
-    "joining_date": "2025-09-11",
+    "job_role": "Field Technician",
+    "joining_date": "2024-09-02",
     "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "75d6536b-4aa1-4da4-af2d-2f32602ef7fa",
+    "candidate_id": "1c7babe3-8fbb-4c14-a0e1-1b347fa59030",
     "employer": "Borra-Chander",
-    "job_role": "Plumber",
-    "joining_date": "2025-07-19",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-05-06",
     "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "6619b426-bcff-4002-a672-debc7ad0abdb",
+    "candidate_id": "922f3b6f-bd2f-4483-9d67-5b37f4922aee",
     "employer": "Murty Group",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2024-09-02",
+    "job_role": "Plumber",
+    "joining_date": "2024-11-24",
     "status": "verified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "9a7b3c74-b62b-4e0f-8e24-f3ed53f0be93",
-    "employer": "Bali-Maharaj",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2025-05-06",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "5e83f748-b408-4d3e-a711-e514271d3d4d",
-    "employer": "Pandey-Shankar",
-    "job_role": "Python Developer",
-    "joining_date": "2024-11-24",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "03535da6-9474-4197-a0b0-40910378de41",
-    "employer": "Devi-Rajagopal",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "4c44e420-a21b-4281-89de-add386fd41d0",
+    "employer": "Shankar PLC",
+    "job_role": "Plumber",
     "joining_date": "2026-05-18",
     "status": "self_reported",
-    "wage_band": "25k-40k"
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "7d66d2c5-8014-493f-ba18-ebd5ae141c8b",
-    "employer": "Prakash Ltd",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "ce5ca180-ede4-415d-83a2-166f0b3f2024",
+    "employer": "Comar-Lala",
+    "job_role": "Plumber",
     "joining_date": "2026-01-17",
-    "status": "unverified",
-    "wage_band": "10k-15k"
+    "status": "verified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "b6de92ac-fb0f-4841-bed7-30572c6daf5f",
-    "employer": "Pillay, Sha and Sura",
+    "candidate_id": "80571760-76fb-409b-b313-a73ef2a45c13",
+    "employer": "Dalal-Khalsa",
     "job_role": "Data Entry Operator",
     "joining_date": "2025-08-12",
-    "status": "verified",
-    "wage_band": "25k-40k"
+    "status": "self_reported",
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "e4b56dd2-1c81-48a8-8698-4632fa8b0865",
-    "employer": "Pandey-Shankar",
-    "job_role": "Logistics Associate",
+    "candidate_id": "97d4af4f-41d1-4c05-9063-c7309eecac19",
+    "employer": "Yogi LLC",
+    "job_role": "Electrician",
     "joining_date": "2025-02-11",
-    "status": "self_reported",
+    "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "6cb46a9a-32a8-43bf-b966-d74d5c0a7ad1",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "5a81d90b-b866-4c1e-8fce-01c87da09dcb",
+    "employer": "Desai, Munshi and Dalal",
+    "job_role": "Customer Care Executive",
     "joining_date": "2024-11-01",
     "status": "self_reported",
-    "wage_band": "15k-25k"
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "6c7fbe35-a32d-4f97-8a04-367bd1d4bf49",
-    "employer": "Yohannan, Ganguly and Naik",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "62709295-f5b7-44e9-8341-69bb2e12801b",
+    "employer": "Ramaswamy, Suri and Dhar",
+    "job_role": "Python Developer",
     "joining_date": "2026-04-09",
     "status": "verified",
-    "wage_band": "40k-60k"
+    "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "4a108fb5-19ab-4eb1-b0b7-5ed8087f584a",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "289d64bb-c926-4cab-ac7f-2819462b41a8",
+    "employer": "Barman, Sastry and Kamdar",
+    "job_role": "Python Developer",
     "joining_date": "2024-11-11",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "9f5bf854-843b-4d24-848b-77651ac0decd",
+    "employer": "Devi-Rajagopal",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-05-23",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "7e58e69c-b530-4d5c-b46d-e9c39e3908c7",
-    "employer": "Bali-Maharaj",
-    "job_role": "Logistics Associate",
-    "joining_date": "2025-05-23",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "7b8834e2-b90e-49d0-a5db-16df63ebbd62",
-    "employer": "Shanker, Parmar and Bhatnagar",
-    "job_role": "Field Technician",
+    "candidate_id": "e43d4e01-75bd-4a5d-aca1-6cc46bc7de63",
+    "employer": "Mani-Dey",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-04-03",
     "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "569ef981-fad1-44e0-90e9-570cda0d2143",
-    "employer": "Mody Inc",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "0f18c532-58c7-4044-9430-70c76308d159",
+    "employer": "Chaudry-Kota",
+    "job_role": "Data Entry Operator",
     "joining_date": "2025-06-03",
     "status": "unverified",
-    "wage_band": "60k+"
+    "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "c3b4e85b-4aef-4f7c-b4e8-0ac6ae1dc61c",
-    "employer": "Yohannan, Ganguly and Naik",
-    "job_role": "Electrician",
+    "candidate_id": "6d5cf1bc-a182-40ab-9acb-4b9b237d048c",
+    "employer": "Bera, Parmer and Andra",
+    "job_role": "Data Entry Operator",
     "joining_date": "2026-04-14",
     "status": "verified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "099b4dc5-6cb7-4bb7-ac6a-e8256616c233",
-    "employer": "Pandey-Shankar",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2026-05-29",
-    "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "7a80b2e5-41fe-4bbe-aaa1-4616fd114bbd",
+    "candidate_id": "92de605e-6fcf-4caf-b737-cbe38e4b5bcd",
     "employer": "Malhotra Ltd",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-12-09",
+    "job_role": "Python Developer",
+    "joining_date": "2026-05-29",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "bcffcee2-5fa2-4754-b3b9-1d9de489f25a",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Electrician",
-    "joining_date": "2026-01-04",
-    "status": "verified",
-    "wage_band": "10k-15k"
+    "candidate_id": "a533eb3e-c758-49e3-ad5a-3f827bbfd138",
+    "employer": "Grewal-Sur",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-12-09",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "b651c35c-63bd-417c-8d8e-2e5982ab9a41",
-    "employer": "Rao, Kamdar and Sanghvi",
-    "job_role": "Plumber",
+    "candidate_id": "f4a32483-c145-44f1-8328-906376cb526c",
+    "employer": "Desai, Munshi and Dalal",
+    "job_role": "Logistics Associate",
+    "joining_date": "2026-01-04",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "10c2cb1e-c05f-4924-9e01-a40c294bb5de",
+    "employer": "Panchal Ltd",
+    "job_role": "Field Technician",
     "joining_date": "2024-10-17",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "d5221196-47c0-4d52-8563-0c8abbf46509",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "71d8c27b-7d4a-4ccf-a9c7-a1c1d3d31337",
+    "employer": "Prakash Ltd",
+    "job_role": "General Duty Assistant",
     "joining_date": "2025-10-13",
-    "status": "verified",
-    "wage_band": "40k-60k"
+    "status": "unverified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "f781cc7b-e946-4e02-8f01-3dc842cfcdbc",
-    "employer": "Tandon, Vaidya and Chowdhury",
-    "job_role": "Field Technician",
+    "candidate_id": "86e2430a-2629-4430-b245-f0b4edf46169",
+    "employer": "Swamy-Sagar",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-11-17",
-    "status": "unverified",
+    "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "659df324-a049-4528-b4fb-29064cd13ecf",
-    "employer": "Mani-Dey",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "e3008a55-629b-4291-a048-568bbe061d63",
+    "employer": "Borra-Chander",
+    "job_role": "Electrician",
     "joining_date": "2024-12-25",
-    "status": "unverified",
+    "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "53a44a98-3d98-4cdf-9682-b7f55319e153",
+    "candidate_id": "ee1057dc-7a29-4ef8-9f7d-39c31dfd9fe5",
     "employer": "Borra-Chander",
-    "job_role": "Logistics Associate",
+    "job_role": "Electrician",
     "joining_date": "2025-05-11",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "62d94d8e-76fa-412b-a1e2-098b6c13ff8b",
-    "employer": "Yogi LLC",
-    "job_role": "Logistics Associate",
+    "candidate_id": "f4bacb8f-e666-40b1-8356-57c122fcc075",
+    "employer": "Prakash Ltd",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-01-30",
-    "status": "verified",
-    "wage_band": "60k+"
+    "status": "self_reported",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "c5e5402e-8540-4c56-8e51-af5855ea610c",
-    "employer": "Comar, Loyal and Peri",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "190d0503-1898-4442-b178-74d436827979",
+    "employer": "Yohannan, Ganguly and Naik",
+    "job_role": "Logistics Associate",
     "joining_date": "2026-02-25",
     "status": "verified",
-    "wage_band": "25k-40k"
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "b76e3bde-ce87-4565-90e5-e3dccb4fb4b0",
-    "employer": "Rama, Ramanathan and Comar",
-    "job_role": "Field Technician",
+    "candidate_id": "d7e0ac26-b2f1-4c1d-a769-92f49776aea3",
+    "employer": "Swamy-Sagar",
+    "job_role": "Customer Care Executive",
     "joining_date": "2026-07-01",
     "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "fe0ac3a4-294b-4658-9560-bb5b035ebd55",
-    "employer": "Yogi LLC",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-11-21",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "8759211f-e4af-49ce-9bfd-21c1c94f1538",
-    "employer": "Bera, Parmer and Andra",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-07-17",
-    "status": "self_reported",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "1d98cd1c-2d39-4914-8261-2af765eb0e2f",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Plumber",
-    "joining_date": "2025-02-02",
-    "status": "verified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "b1f41411-abd3-474d-b430-89cbff898b98",
-    "employer": "Shankar PLC",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2026-06-14",
-    "status": "self_reported",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "c2cf6c0a-8e46-4ebb-8cbb-5ed9a3c8b6eb",
+    "candidate_id": "db7f9483-7a7b-4a2c-b151-eee63939b1e2",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-11-21",
+    "status": "self_reported",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "44bde63a-3b1e-4abd-98a7-6649c42f131c",
+    "employer": "Chaudry-Kota",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-07-17",
+    "status": "unverified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "c1162d28-86ff-494f-b2b3-12510dc2406f",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-02-02",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "ae27646d-46d9-46cc-9698-b001d414d6e6",
+    "employer": "Barman, Sastry and Kamdar",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-06-14",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "f604b163-23bd-446d-8a4a-a8ebbd08684d",
     "employer": "Prakash Ltd",
-    "job_role": "Logistics Associate",
+    "job_role": "Plumber",
     "joining_date": "2024-12-08",
     "status": "verified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "b0c700d0-101d-44af-a6cc-dbc4a65aac7c",
+    "candidate_id": "77323318-79ed-4b50-ba56-8de835d79209",
     "employer": "Panchal Ltd",
-    "job_role": "Data Entry Operator",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2024-11-26",
     "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "9c4645af-52d6-45dd-b203-a7ddd0e60c63",
+    "candidate_id": "8c7c03ef-8bbc-4e98-9540-31129bc4bc92",
     "employer": "Prakash Ltd",
-    "job_role": "Field Technician",
+    "job_role": "Logistics Associate",
     "joining_date": "2026-02-12",
-    "status": "verified",
-    "wage_band": "15k-25k"
+    "status": "unverified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "e213e201-16c5-45fd-9848-2128170520aa",
-    "employer": "Barman, Sastry and Kamdar",
-    "job_role": "Field Technician",
+    "candidate_id": "e6bff3a9-295e-4b42-9269-21b6f5365092",
+    "employer": "Chaudry-Kota",
+    "job_role": "Plumber",
     "joining_date": "2025-05-11",
-    "status": "self_reported",
-    "wage_band": "60k+"
+    "status": "unverified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "6ed0b6ae-a9fd-4fce-8f87-58caeb473894",
-    "employer": "Deo and Sons",
+    "candidate_id": "88b88217-f22c-4fa1-838e-ca8d0eefff3d",
+    "employer": "Murty Group",
     "job_role": "Plumber",
     "joining_date": "2025-07-07",
     "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "5726681a-7ac2-4c3f-8e27-0820c37cb47c",
-    "employer": "Yohannan, Ganguly and Naik",
-    "job_role": "Plumber",
-    "joining_date": "2026-03-29",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "68036716-2297-4388-bb7b-7a7999c83e44",
+    "candidate_id": "3b72bc91-d01f-4be0-b326-e92edfe28c8f",
     "employer": "Master, Mann and Loke",
-    "job_role": "Python Developer",
-    "joining_date": "2025-02-25",
+    "job_role": "Logistics Associate",
+    "joining_date": "2026-03-29",
     "status": "self_reported",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "4c5a974d-ed49-4cb5-afb4-d29f13b1ad4c",
-    "employer": "Tiwari-Talwar",
+    "candidate_id": "ec728a67-b5d4-4998-9170-61507628cd3e",
+    "employer": "Panchal, Walia and Mand",
+    "job_role": "Python Developer",
+    "joining_date": "2025-02-25",
+    "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "b2a94e7e-2904-4bca-8d31-9cf0650fdcbe",
+    "employer": "Suri, Wable and Munshi",
     "job_role": "Plumber",
     "joining_date": "2025-12-12",
-    "status": "self_reported",
-    "wage_band": "60k+"
+    "status": "unverified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "1ce0a54f-548e-48cf-aa31-226799be616d",
-    "employer": "Suri, Wable and Munshi",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-02-25",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "bd4d00fb-3534-4c17-834c-2d1285b31530",
-    "employer": "Shankar PLC",
+    "candidate_id": "da0b5f00-f4c9-4dd2-9887-7afed9556f4b",
+    "employer": "Dalal-Khalsa",
     "job_role": "Data Entry Operator",
-    "joining_date": "2025-11-10",
-    "status": "verified",
-    "wage_band": "60k+"
+    "joining_date": "2025-02-25",
+    "status": "unverified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "33f8cbab-8e1b-4478-b374-ec4346db600a",
-    "employer": "Varma-Mall",
+    "candidate_id": "783e0fff-e26f-4308-8cf6-171a5dbd21c2",
+    "employer": "Agate-Chander",
     "job_role": "Electrician",
+    "joining_date": "2025-11-10",
+    "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "eecbcfee-bc0d-4996-91c4-9c89bd71ab24",
+    "employer": "Deo and Sons",
+    "job_role": "Python Developer",
     "joining_date": "2026-02-06",
     "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "d9b0929e-83f0-40b0-bc78-84deb8c3973b",
-    "employer": "Jhaveri Inc",
-    "job_role": "Field Technician",
+    "candidate_id": "a34c0eb3-d80a-441b-8421-20f405100d4c",
+    "employer": "Shanker, Parmar and Bhatnagar",
+    "job_role": "Data Entry Operator",
     "joining_date": "2025-03-24",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "49e6cf33-0e2e-4d96-94ba-0db4576bdb43",
-    "employer": "Jhaveri Inc",
-    "job_role": "Python Developer",
-    "joining_date": "2026-07-17",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "76aabfb6-4f49-4079-b511-998c0cf77120",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "432e09ff-f282-4c46-ad56-5a656593a9ff",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Field Technician",
+    "joining_date": "2026-07-17",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "4ba2960d-31cd-4fa1-875b-4dfd1f871d79",
+    "employer": "Bali-Maharaj",
+    "job_role": "Python Developer",
     "joining_date": "2024-09-16",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "28afd776-2795-4e89-abb9-3b66dcbd5e43",
-    "employer": "Panchal, Walia and Mand",
-    "job_role": "Field Technician",
-    "joining_date": "2026-05-09",
-    "status": "unverified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "4b09b603-a720-4b23-a711-0e13d7441b61",
-    "employer": "Bali-Maharaj",
-    "job_role": "Python Developer",
-    "joining_date": "2026-05-30",
-    "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "d558403c-a516-4ae3-9991-d8cadd87b9cd",
+    "candidate_id": "377bf86d-c618-41f9-a8a7-633c55ced5b0",
     "employer": "Sangha, Gandhi and Dewan",
     "job_role": "Logistics Associate",
-    "joining_date": "2025-01-25",
+    "joining_date": "2026-05-09",
     "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "64e5938c-e64d-42d9-9159-f9675db31490",
-    "employer": "Barman, Sastry and Kamdar",
+    "candidate_id": "b0d56d48-a256-40f0-b0f9-fe7f1a9bae99",
+    "employer": "Swamy-Sagar",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-05-30",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "3bb797b0-569a-49b4-af76-88bb5018ee4d",
+    "employer": "Malhotra Ltd",
+    "job_role": "Logistics Associate",
+    "joining_date": "2025-01-25",
+    "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "6bd1c0fa-13fa-457d-ac30-b8bf5130f839",
+    "employer": "Rama, Ramanathan and Comar",
     "job_role": "Electrician",
     "joining_date": "2025-11-14",
-    "status": "self_reported",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "aa14292c-9f30-483c-b782-f2f5f40d5d94",
+    "employer": "Master, Mann and Loke",
+    "job_role": "Electrician",
+    "joining_date": "2025-01-12",
+    "status": "verified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "c7feec3b-cd70-4f12-b638-c66be28728ab",
-    "employer": "Shanker, Parmar and Bhatnagar",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-01-12",
-    "status": "self_reported",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "d03bd2dd-6f15-4c5f-a13a-614b17f89a2f",
-    "employer": "Chandran, Deshmukh and Sabharwal",
+    "candidate_id": "34ed8fc8-c41b-4fb6-9ba9-01adb0de3098",
+    "employer": "Swamy-Sagar",
     "job_role": "Electrician",
     "joining_date": "2025-06-10",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "7e292f67-6bf1-4b8a-af70-4c46dccaea8f",
-    "employer": "Shanker, Parmar and Bhatnagar",
-    "job_role": "Electrician",
-    "joining_date": "2025-12-13",
-    "status": "unverified",
+    "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "22792312-72d0-4fb7-b77d-2b99e1fb6b27",
+    "candidate_id": "614937c1-55fe-48d5-a63b-eb411c57f027",
+    "employer": "Pandey-Shankar",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-12-13",
+    "status": "self_reported",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "705bc33a-0daa-40da-bd4e-2d0bd1c18914",
     "employer": "Tiwari-Talwar",
-    "job_role": "Python Developer",
+    "job_role": "Data Entry Operator",
     "joining_date": "2026-03-23",
     "status": "self_reported",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "bc89e9cd-bbe0-4f14-bbba-0504a671e1f1",
+    "employer": "Mody Inc",
+    "job_role": "Python Developer",
+    "joining_date": "2026-03-31",
+    "status": "unverified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "9ed95f50-205f-4c13-836b-3ac3230e9aa7",
-    "employer": "Tiwari-Talwar",
-    "job_role": "Plumber",
-    "joining_date": "2026-03-31",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "f13e41d0-6ffe-4548-9e5d-daf1151a39a6",
-    "employer": "Malhotra Ltd",
+    "candidate_id": "2eef88bc-5ac2-4f8e-a59a-7bca08e84969",
+    "employer": "Luthra, Sachdeva and Prashad",
     "job_role": "Electrician",
     "joining_date": "2025-02-18",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "e12e24b5-ebb1-4170-9aa9-f0eb4d82c134",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Python Developer",
-    "joining_date": "2025-06-06",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "b7881237-2ac4-4d58-ac10-3d26857a1af6",
-    "employer": "Deshpande-Hayer",
+    "candidate_id": "ec38dfaa-641a-4f1e-969d-d1c641fc01c2",
+    "employer": "Varma-Mall",
     "job_role": "Python Developer",
-    "joining_date": "2025-02-20",
-    "status": "unverified",
-    "wage_band": "15k-25k"
+    "joining_date": "2025-06-06",
+    "status": "verified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "b1b8c4f4-833f-4141-8fdf-72e638640201",
+    "candidate_id": "c3592cd6-a29b-4f35-9bd4-e5fe72e58eff",
     "employer": "Jhaveri Inc",
     "job_role": "Retail Sales Associate",
-    "joining_date": "2025-12-07",
+    "joining_date": "2025-02-20",
     "status": "verified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "31c5041a-3dd1-4b80-b192-f8c2d79ca748",
+    "candidate_id": "fcf12694-cb6c-459c-a811-d1c77f3cd136",
     "employer": "Vaidya Group",
-    "job_role": "Field Technician",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-12-07",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "70af1ee7-66a3-4671-b72b-e4b1db16aa28",
+    "employer": "Bera, Parmer and Andra",
+    "job_role": "Plumber",
     "joining_date": "2024-10-18",
     "status": "unverified",
-    "wage_band": "15k-25k"
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "3e653d9e-74f7-4cdc-9d2c-35c5a28fb31e",
-    "employer": "Rao, Kamdar and Sanghvi",
+    "candidate_id": "06b267ff-0b19-4dc3-8193-e038b14cfd8c",
+    "employer": "Master, Mann and Loke",
     "job_role": "Retail Sales Associate",
     "joining_date": "2026-06-08",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
+    "status": "unverified",
+    "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "c922c884-327c-46bb-a7d1-e77f57fcc00f",
-    "employer": "Nagy and Sons",
-    "job_role": "Plumber",
+    "candidate_id": "95446b37-d2fd-4f5e-9ae6-f18defb42ccd",
+    "employer": "Deshpande-Hayer",
+    "job_role": "Electrician",
     "joining_date": "2024-09-05",
     "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "4702f2ee-c654-4482-be2f-a22b069b29e3",
-    "employer": "Yogi LLC",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2025-05-18",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "cab1f8c3-10ff-4f39-8c28-a089888d9a29",
-    "employer": "Mody Inc",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-04-16",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "d6d94fe5-23c6-42be-b946-bf2f63049128",
-    "employer": "Dalal-Khalsa",
-    "job_role": "Electrician",
-    "joining_date": "2025-06-06",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "8835e487-0592-4820-8578-38c160915388",
-    "employer": "Rao, Kamdar and Sanghvi",
-    "job_role": "Electrician",
-    "joining_date": "2026-05-03",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "2ff55e03-05a7-416a-95e9-fafda21273d3",
-    "employer": "Dalal-Khalsa",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-07-01",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "5f3e6091-e84c-4729-836d-d4a4e09f5a2d",
-    "employer": "Chaudry-Kota",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2025-10-01",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "6714ee22-dc63-4da3-944b-280f03124990",
-    "employer": "Bali-Sengupta",
-    "job_role": "Field Technician",
-    "joining_date": "2025-01-01",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "6b7367c7-028a-44eb-a8c8-338a8d1bf70f",
-    "employer": "Borra-Chander",
-    "job_role": "Plumber",
-    "joining_date": "2025-08-07",
-    "status": "verified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "e92c0a6c-8ab2-4d13-998b-826fb2ed30ab",
-    "employer": "Nagy and Sons",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-08-19",
+    "candidate_id": "814cfee2-60f4-40fd-82f8-f8c31f13f09b",
+    "employer": "Comar, Loyal and Peri",
+    "job_role": "Electrician",
+    "joining_date": "2025-05-18",
     "status": "self_reported",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "1f04d6b4-d2c4-4a0f-b719-af973121dd71",
+    "employer": "Borra-Chander",
+    "job_role": "Field Technician",
+    "joining_date": "2025-04-16",
+    "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "7da20c0b-56fd-46c0-bf1a-2fb6905d9e85",
+    "candidate_id": "60bf8a47-7e2f-41b6-b55c-f8c4c95de17d",
+    "employer": "Vaidya Group",
+    "job_role": "Plumber",
+    "joining_date": "2025-06-06",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "374e4be3-0b8d-4c2f-a90e-50d25aa607ce",
+    "employer": "Bali-Sengupta",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-05-03",
+    "status": "self_reported",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "5f696117-b399-4c32-bdf6-e35ce81f4b67",
+    "employer": "Panchal, Walia and Mand",
+    "job_role": "Plumber",
+    "joining_date": "2025-07-01",
+    "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "361887cd-a5ff-4d50-94e3-c1214632a0ff",
     "employer": "Ramaswamy, Suri and Dhar",
     "job_role": "Electrician",
+    "joining_date": "2025-10-01",
+    "status": "self_reported",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "ef2bfa01-e514-4237-87e0-bd0392c14cc3",
+    "employer": "Desai, Munshi and Dalal",
+    "job_role": "Plumber",
+    "joining_date": "2025-01-01",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "8b8bf4c2-04b0-450d-9dc9-036f80e66c44",
+    "employer": "Talwar LLC",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-08-07",
+    "status": "unverified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "420c955e-716f-4bb6-87ca-0a87c666b70f",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-08-19",
+    "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "9d178a38-8ee6-4ceb-87a6-324f0779ce53",
+    "employer": "Grewal-Sur",
+    "job_role": "Plumber",
     "joining_date": "2024-10-20",
     "status": "self_reported",
-    "wage_band": "25k-40k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "62efbb5f-c079-4ffc-9c51-180717060c74",
-    "employer": "Deshpande-Hayer",
+    "candidate_id": "b37c1145-7ea8-4246-b634-ac181f14a6d2",
+    "employer": "Nanda-Hegde",
     "job_role": "Plumber",
     "joining_date": "2025-10-31",
-    "status": "unverified",
-    "wage_band": "60k+"
+    "status": "verified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "52217eb7-ac7d-4544-96b0-c5d49184df8f",
-    "employer": "Shanker, Parmar and Bhatnagar",
-    "job_role": "Electrician",
+    "candidate_id": "9f57ca2e-9aea-464d-b841-5fa5d36ed15f",
+    "employer": "Jhaveri Inc",
+    "job_role": "Customer Care Executive",
     "joining_date": "2024-09-07",
     "status": "verified",
-    "wage_band": "60k+"
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "b9b90a8e-eb27-438c-a554-de751521797d",
-    "employer": "Jhaveri Inc",
-    "job_role": "Plumber",
+    "candidate_id": "9cc3c582-9eb1-452c-a566-1bba678f463e",
+    "employer": "Agate-Chander",
+    "job_role": "Logistics Associate",
     "joining_date": "2025-02-01",
     "status": "self_reported",
-    "wage_band": "15k-25k"
+    "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "021f63be-53eb-4d0f-969c-8a1de1aff781",
-    "employer": "Jhaveri Inc",
-    "job_role": "Plumber",
+    "candidate_id": "e060d741-d92d-434b-a658-792903579d10",
+    "employer": "Comar-Lala",
+    "job_role": "Field Technician",
     "joining_date": "2026-07-03",
-    "status": "verified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "5b9b0560-f6f6-4273-96bc-61046e4784b9",
-    "employer": "Deshpande-Hayer",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-07-22",
-    "status": "verified",
+    "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "56967527-b78b-4dd5-837e-6670d2cba149",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Electrician",
+    "candidate_id": "50687f21-0126-4730-8c31-0a0c824d0921",
+    "employer": "Malhotra Ltd",
+    "job_role": "Python Developer",
+    "joining_date": "2026-07-22",
+    "status": "unverified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "1b8e611d-b947-4a79-9284-9bf2246f053b",
+    "employer": "Pillay, Sha and Sura",
+    "job_role": "Plumber",
     "joining_date": "2025-06-14",
     "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "0cb2b9d3-7068-49fe-a659-643ac7e56726",
-    "employer": "Pillay, Sha and Sura",
-    "job_role": "Plumber",
-    "joining_date": "2025-03-25",
-    "status": "verified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "549d65be-4ce2-40fb-bbcb-b61ba7e5791a",
-    "employer": "Prakash Ltd",
-    "job_role": "Electrician",
-    "joining_date": "2026-01-30",
-    "status": "self_reported",
+    "candidate_id": "b509a78f-7446-4e98-aaa0-0d5f0f1183e6",
+    "employer": "Luthra, Sachdeva and Prashad",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2025-03-25",
+    "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "d2acf0c2-baf4-4c0a-9c33-cf1a4f9c0acc",
-    "employer": "Grewal-Sur",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2026-03-11",
-    "status": "verified",
+    "candidate_id": "ca6ade2e-3c7e-46e0-9405-bbfe205431a7",
+    "employer": "Mody Inc",
+    "job_role": "Logistics Associate",
+    "joining_date": "2026-01-30",
+    "status": "unverified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "6cb94f57-ffe4-410f-bea8-7ea7e49ea723",
-    "employer": "Pandey-Shankar",
-    "job_role": "Logistics Associate",
+    "candidate_id": "476b30ec-a82f-4d0b-8d60-4d2334c0e704",
+    "employer": "Pall-Chahal",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-03-11",
+    "status": "unverified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "4fabfeda-0a34-4bdc-a9df-69f7e011ffc0",
+    "employer": "Chaudry-Kota",
+    "job_role": "Electrician",
     "joining_date": "2025-07-03",
     "status": "unverified",
-    "wage_band": "40k-60k"
+    "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "11991684-5b04-4bdf-8f9c-88aa241ae3af",
-    "employer": "Tiwari-Talwar",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "ccfe45c3-caa7-4868-9e97-3f8ae19a222f",
+    "employer": "Talwar LLC",
+    "job_role": "General Duty Assistant",
     "joining_date": "2025-06-18",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "bac00c4d-e717-4292-956d-16bfa5128041",
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2025-12-09",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "89659659-88e4-4959-97c7-b62ed80895fd",
-    "employer": "Tiwari-Talwar",
-    "job_role": "Plumber",
-    "joining_date": "2025-12-09",
+    "candidate_id": "74129d87-5fb5-416b-a019-a5a2829962d4",
+    "employer": "Deshpande-Hayer",
+    "job_role": "Python Developer",
+    "joining_date": "2025-09-25",
     "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "1f43be61-3685-4747-b1e9-6e96a6f29ecf",
-    "employer": "Deshpande-Hayer",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-09-25",
-    "status": "self_reported",
+    "candidate_id": "6d73afe1-e957-49fb-b5f1-d7935a8cb274",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "Logistics Associate",
+    "joining_date": "2024-12-17",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "a326d44e-6b14-44ca-b5d4-f4eeacdc491d",
+    "employer": "Panchal Ltd",
+    "job_role": "Field Technician",
+    "joining_date": "2024-10-28",
+    "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "78e01a68-5b42-48e6-8e77-68db0df3fa5e",
-    "employer": "Panchal Ltd",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2024-12-17",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "8588fa56-f8d2-4f8f-a322-e9040a1060a2",
-    "employer": "Desai, Munshi and Dalal",
-    "job_role": "Python Developer",
-    "joining_date": "2024-10-28",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "b69370cf-1156-4474-a798-0d8b2c6b8b55",
-    "employer": "Mani-Dey",
-    "job_role": "Logistics Associate",
+    "candidate_id": "4b823294-03cd-4eb8-adb8-8b15abf6fe1c",
+    "employer": "Chaudry-Kota",
+    "job_role": "Customer Care Executive",
     "joining_date": "2024-10-24",
-    "status": "unverified",
-    "wage_band": "10k-15k"
+    "status": "verified",
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "0e68137a-b0e2-43bf-997b-c9f5be552109",
-    "employer": "Pillay, Sha and Sura",
-    "job_role": "Field Technician",
-    "joining_date": "2026-07-02",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "951c5ab7-4491-40a0-a191-ebc6acee63bd",
-    "employer": "Talwar LLC",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-08-10",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "3d42e6b2-be75-4460-85fa-7f2ccb745fb8",
-    "employer": "Vaidya Group",
+    "candidate_id": "fe3f39d1-3587-4511-b579-d241e7c3774d",
+    "employer": "Bali-Sengupta",
     "job_role": "Python Developer",
-    "joining_date": "2024-12-19",
+    "joining_date": "2026-07-02",
     "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "cd77b70f-8724-431b-b051-253c6e06cd2e",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-04-23",
-    "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "69eec4f9-f4b3-457d-9d9c-7922cc6b4449",
+    "candidate_id": "c8345c4a-d963-4d8d-a282-9813d8fde22b",
+    "employer": "Pandey-Shankar",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-08-10",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "b2fe75ac-df6c-43ef-aee0-230434bcb384",
     "employer": "Talwar LLC",
+    "job_role": "Python Developer",
+    "joining_date": "2024-12-19",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "579c3cdb-c49d-4048-a965-e160f6a281d1",
+    "employer": "Nagy and Sons",
     "job_role": "Data Entry Operator",
+    "joining_date": "2025-04-23",
+    "status": "verified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "6c59e8f3-351d-4b34-bc3b-c8ef3aeebba6",
+    "employer": "Varma-Mall",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-10-30",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "96da393d-ec73-4f0e-9222-67a957f993a9",
+    "candidate_id": "5d148943-c39f-4f7f-befd-7475bd966a67",
+    "employer": "Sangha, Gandhi and Dewan",
+    "job_role": "Logistics Associate",
+    "joining_date": "2026-03-08",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "c19603ad-b361-429f-8eca-564e4ee28802",
     "employer": "Agate-Chander",
     "job_role": "Customer Care Executive",
-    "joining_date": "2026-03-08",
+    "joining_date": "2025-12-16",
     "status": "verified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "54764aef-57be-45ef-ae6d-80249cae544d",
-    "employer": "Talwar LLC",
-    "job_role": "Python Developer",
-    "joining_date": "2025-12-16",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
+    "candidate_id": "a8ec195e-1332-43c0-a6ba-cafcfb51688a",
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-12-11",
+    "status": "unverified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "14a4a115-24c0-4e03-aaf1-831a1aaa3339",
-    "employer": "Yogi LLC",
-    "job_role": "Plumber",
-    "joining_date": "2025-12-11",
+    "candidate_id": "8b3d91a0-073a-4dc6-b650-7c038458974d",
+    "employer": "Panchal, Walia and Mand",
+    "job_role": "Field Technician",
+    "joining_date": "2025-04-11",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "3ff75343-3aae-44ec-9a37-380c2a675050",
+    "candidate_id": "41528d0b-35e9-4c85-ac40-01aada96947f",
     "employer": "Nagy and Sons",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-04-11",
+    "job_role": "Plumber",
+    "joining_date": "2025-07-13",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "5b5bb8fd-1c44-4cff-aed1-c4656c5b7752",
+    "candidate_id": "9954136b-7607-4cd5-b939-60d2db72c074",
     "employer": "Bali-Maharaj",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-07-13",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-07-25",
     "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "aaa5a80e-599f-4afd-b27b-b1c9f51bb877",
-    "employer": "Swamy-Sagar",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-07-25",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "b7c9131f-e4cc-4f55-815c-d88ff47e9f8d",
-    "employer": "Desai, Munshi and Dalal",
-    "job_role": "Plumber",
+    "candidate_id": "e16487b5-c11a-4aa0-a3d8-f8eafe838462",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-02-18",
-    "status": "unverified",
-    "wage_band": "25k-40k"
+    "status": "verified",
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "2aa5e2e8-6bac-4fff-bb88-6b1c49cfe055",
-    "employer": "Nagy and Sons",
-    "job_role": "Electrician",
+    "candidate_id": "f1b66a37-3386-4e19-a46b-edaf6f453812",
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "job_role": "Logistics Associate",
     "joining_date": "2025-02-22",
-    "status": "self_reported",
+    "status": "unverified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "7d4dd2bb-9115-474b-b968-74ffdf550ed3",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "e0a57470-0854-4ed3-8f77-66ce659672ad",
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "job_role": "Logistics Associate",
     "joining_date": "2026-07-04",
     "status": "verified",
-    "wage_band": "40k-60k"
+    "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "512d1865-5d6f-452d-b6ca-57ae57c45522",
-    "employer": "Ramaswamy, Suri and Dhar",
-    "job_role": "Electrician",
+    "candidate_id": "48cbe8a1-3004-4d83-8d36-3a006e1bcb06",
+    "employer": "Nagy and Sons",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2024-11-20",
     "status": "self_reported",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "c14ef9de-d9b1-4931-85d9-b277ffed46cf",
-    "employer": "Bali-Sengupta",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-11-18",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "e435f747-ccf0-4560-a76d-169b2cd638d3",
-    "employer": "Comar, Loyal and Peri",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2024-10-07",
-    "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "a6944202-bc6c-4551-8ebf-db08ce6dfe7d",
-    "employer": "Luthra, Sachdeva and Prashad",
+    "candidate_id": "8dda3802-0761-453f-9d67-f90b4704fada",
+    "employer": "Yogi, Ghose and Ganesan",
     "job_role": "Electrician",
+    "joining_date": "2025-11-18",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "549272b2-c9dc-4fcf-ad38-7e8ef5f575b6",
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "job_role": "Plumber",
+    "joining_date": "2024-10-07",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "6a29fb30-498d-4e12-9b54-f2e2f1761c15",
+    "employer": "Panchal Ltd",
+    "job_role": "Plumber",
     "joining_date": "2025-12-27",
     "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "d66ecb35-ecea-4bd6-b7c6-eb31e2251b12",
-    "employer": "Panchal, Walia and Mand",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "20a4bf57-e6b7-4855-b186-9e399fe67cc6",
+    "employer": "Bali-Maharaj",
+    "job_role": "Data Entry Operator",
     "joining_date": "2025-12-22",
     "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "5bed2f04-9ed9-4661-b8b0-f98198b7252e",
-    "employer": "Panchal Ltd",
-    "job_role": "Electrician",
-    "joining_date": "2025-01-03",
-    "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "b93b38c9-2878-4afe-88df-289a9a779d49",
-    "employer": "Deo and Sons",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2024-09-06",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "058e25da-cee8-4a59-bed7-5f4789e0a500",
-    "employer": "Prakash Ltd",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2024-12-06",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "423b55ea-f4c2-4bc6-96c8-44d785817a5d",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Logistics Associate",
-    "joining_date": "2024-09-05",
-    "status": "verified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "1dd97c10-241a-4009-bc3e-7fd7a48ffb29",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Plumber",
-    "joining_date": "2025-08-25",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "e75bcb7c-f44a-45f9-9d9c-f9cb43a18190",
-    "employer": "Deo and Sons",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-05-08",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "d1948437-8867-490a-a96f-98709ec62d69",
-    "employer": "Chaudry-Kota",
-    "job_role": "Electrician",
-    "joining_date": "2025-09-10",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "fc8ee000-1fbc-4e89-83d0-c20ee2e5461e",
-    "employer": "Master, Mann and Loke",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-04-21",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "cb4c7aa6-1eaf-454a-a6dc-1f761371d911",
-    "employer": "Mani-Dey",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-03-05",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "319b169b-557e-4d34-8a39-4952293ca894",
-    "employer": "Devi-Rajagopal",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-05-26",
-    "status": "unverified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "d28714fe-82be-43a9-8ec7-11b557efeac1",
-    "employer": "Bali-Sengupta",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-02-27",
+    "candidate_id": "64efb49f-fccb-49bf-832e-7f409a1c88eb",
+    "employer": "Mody Inc",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-01-03",
     "status": "verified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "940e8551-5437-439c-a0a8-6788f9cd74c8",
-    "employer": "Deo and Sons",
-    "job_role": "Python Developer",
-    "joining_date": "2026-05-28",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
+    "candidate_id": "09078ed3-3fb5-437e-8393-7330f095533b",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Logistics Associate",
+    "joining_date": "2024-09-06",
+    "status": "verified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "e7040c79-1e9a-4e7b-bcff-429ddf00369c",
-    "employer": "Nanda-Hegde",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-02-14",
+    "candidate_id": "9b92d1e7-080d-40bf-8d0e-7de13a84716c",
+    "employer": "Vaidya Group",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2024-12-06",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "6e8fd41f-d08d-45f8-948f-e84e847cfc98",
+    "employer": "Deo and Sons",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2024-09-05",
     "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "518442c6-b682-40c3-9967-9a5db8aad508",
-    "employer": "Pillay, Sha and Sura",
+    "candidate_id": "80b80ea8-44ca-4b9c-8a2f-6a6a23d44223",
+    "employer": "Grewal-Sur",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-08-25",
+    "status": "unverified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "19eaa2fa-8a59-46e8-a43f-1a85c9d90f93",
+    "employer": "Deo and Sons",
+    "job_role": "Electrician",
+    "joining_date": "2025-05-08",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "24f24347-8581-40cd-a6a1-8ccd1ea7d858",
+    "employer": "Desai, Munshi and Dalal",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-09-10",
+    "status": "verified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "1575877d-6134-41c3-9138-719e0d026b88",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "Plumber",
+    "joining_date": "2026-04-21",
+    "status": "self_reported",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "4d18a15b-beb8-49da-bcf5-41ee9b0f9beb",
+    "employer": "Borra-Chander",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-03-05",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "9056b9c2-1490-46d7-b3ec-522bf03238ee",
+    "employer": "Mani-Dey",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-05-26",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "dfd77419-c6c3-43eb-b89d-1e9fa20280c1",
+    "employer": "Pandey-Shankar",
+    "job_role": "Plumber",
+    "joining_date": "2026-02-27",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "6f43bebd-359a-4b47-897c-62ac7b10819d",
+    "employer": "Barman, Sastry and Kamdar",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-05-28",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "6a0b2c7f-f68c-447e-9cb3-5babfec459b5",
+    "employer": "Bali-Sengupta",
+    "job_role": "Python Developer",
+    "joining_date": "2026-02-14",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "f8ccfd1a-e985-4755-95a0-55d439a60475",
+    "employer": "Desai, Munshi and Dalal",
     "job_role": "Python Developer",
     "joining_date": "2024-11-22",
     "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "a699b10d-9120-4e7e-9b1f-66f0a4a71aee",
-    "employer": "Barman, Sastry and Kamdar",
-    "job_role": "Plumber",
+    "candidate_id": "a7454c17-facb-4448-a677-c7a9516f8974",
+    "employer": "Devi-Rajagopal",
+    "job_role": "Data Entry Operator",
     "joining_date": "2026-06-16",
-    "status": "unverified",
+    "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "e1eeaf6b-1245-4b8a-ac78-a9c01fed0181",
-    "employer": "Mani-Dey",
+    "candidate_id": "7ecbba76-5037-4d6b-a09a-fda19fd4072e",
+    "employer": "Nanda-Hegde",
     "job_role": "Customer Care Executive",
     "joining_date": "2025-04-29",
     "status": "verified",
-    "wage_band": "25k-40k"
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "b430d352-3293-440b-b890-a41b469eda44",
-    "employer": "Barman, Sastry and Kamdar",
-    "job_role": "Plumber",
+    "candidate_id": "0891665a-e3dc-4209-ae03-daa38cd79144",
+    "employer": "Swamy-Sagar",
+    "job_role": "Electrician",
     "joining_date": "2025-07-07",
-    "status": "verified",
-    "wage_band": "15k-25k"
+    "status": "self_reported",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "69e9bdb6-4c2e-408d-94c2-fee1b19f6da8",
-    "employer": "Suri, Wable and Munshi",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-09-14",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "b336303a-987f-4749-95b5-e97a14966832",
-    "employer": "Deo and Sons",
-    "job_role": "Field Technician",
-    "joining_date": "2025-03-08",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "9e9ce4bc-8550-42e7-81ac-1e5a75d5749b",
-    "employer": "Desai, Munshi and Dalal",
+    "candidate_id": "1de30a68-8a67-4578-bf0f-2b97831d9b1a",
+    "employer": "Mani-Dey",
     "job_role": "Python Developer",
-    "joining_date": "2026-08-10",
-    "status": "unverified",
+    "joining_date": "2025-09-14",
+    "status": "verified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "15d28db8-8fe5-45ea-a873-81feacf50e1b",
-    "employer": "Panchal, Walia and Mand",
+    "candidate_id": "42a285be-ea38-418e-9b99-39d5f3d03fae",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "Python Developer",
+    "joining_date": "2025-03-08",
+    "status": "unverified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "e4f8a181-7533-45ef-861d-87e70948ac59",
+    "employer": "Sawhney, Suresh and Ganesh",
+    "job_role": "Plumber",
+    "joining_date": "2026-08-10",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "8c65f2c6-fb37-45a7-9dc2-a4fc179dbd52",
+    "employer": "Bera, Parmer and Andra",
     "job_role": "General Duty Assistant",
     "joining_date": "2025-11-29",
-    "status": "unverified",
-    "wage_band": "15k-25k"
+    "status": "verified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "f94a7a7e-984d-41df-81a0-2832d18bfcf3",
-    "employer": "Nagy and Sons",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "19a43250-98e3-4fae-ab61-681037a69f33",
+    "employer": "Rao, Kamdar and Sanghvi",
+    "job_role": "Field Technician",
     "joining_date": "2025-08-25",
     "status": "unverified",
-    "wage_band": "15k-25k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "746b6d8e-9df3-47b0-870a-f0cfabaa815e",
-    "employer": "Borra-Chander",
+    "candidate_id": "9d280e22-bde7-4b6c-9d6d-073814834ff5",
+    "employer": "Talwar LLC",
     "job_role": "Plumber",
     "joining_date": "2025-09-05",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
+    "status": "unverified",
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "78885e41-6b5c-4278-adde-c5e8d461c57a",
-    "employer": "Suri, Wable and Munshi",
-    "job_role": "Field Technician",
+    "candidate_id": "65324155-5e9b-413a-85e0-fe7265f05475",
+    "employer": "Yogi, Ghose and Ganesan",
+    "job_role": "Python Developer",
     "joining_date": "2024-10-07",
     "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "974f170f-ecab-43b2-82bb-532b2c3f36d6",
-    "employer": "Bali-Maharaj",
-    "job_role": "Python Developer",
-    "joining_date": "2026-05-18",
-    "status": "unverified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "53351ef1-ab13-4e08-8807-8a845f17725c",
-    "employer": "Panchal, Walia and Mand",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2024-12-27",
-    "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "daa54781-3d43-4085-a3e7-9e3698994be6",
-    "employer": "Panchal Ltd",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "2c557a18-0858-4b20-a252-cb1aab6d4d9c",
+    "employer": "Grewal-Sur",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-05-18",
+    "status": "verified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "962a6fa1-c8e0-4ef8-83bb-fd8e83ddeaaf",
+    "employer": "Shankar PLC",
+    "job_role": "Electrician",
+    "joining_date": "2024-12-27",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "ab6787ad-ec2a-40ea-9fcc-b42d7bb3dcaf",
+    "employer": "Bali-Maharaj",
+    "job_role": "Customer Care Executive",
     "joining_date": "2024-12-20",
     "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "daffb35e-3347-4e0e-be5f-0171de29d03c",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-03-16",
-    "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "a007ae63-7770-47ce-b23f-269c1eec6f17",
-    "employer": "Balasubramanian and Sons",
+    "candidate_id": "1e7c7614-a213-4960-a386-74039ab62bd7",
+    "employer": "Shanker, Parmar and Bhatnagar",
+    "job_role": "Plumber",
+    "joining_date": "2026-03-16",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "fa9cb01c-d411-4891-a618-c6ffefd8d4d4",
+    "employer": "Comar-Lala",
     "job_role": "Electrician",
     "joining_date": "2026-06-12",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "13f253c9-ff1c-43f6-b815-0bf01f8839b9",
-    "employer": "Yogi, Ghose and Ganesan",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2026-01-02",
     "status": "self_reported",
-    "wage_band": "15k-25k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "d982bca7-ae43-4976-905d-5848a3fbf415",
-    "employer": "Rama, Ramanathan and Comar",
+    "candidate_id": "ec52f4a3-96dc-49e4-bd36-d92fe161238e",
+    "employer": "Bera, Parmer and Andra",
+    "job_role": "Field Technician",
+    "joining_date": "2026-01-02",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "7e45fa67-eed6-47df-a25a-b6a37627b99a",
+    "employer": "Balasubramanian and Sons",
     "job_role": "Python Developer",
     "joining_date": "2024-11-20",
     "status": "self_reported",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "1a0f89c4-ff06-4ec0-b097-8df28df44da2",
-    "employer": "Grewal-Sur",
-    "job_role": "Field Technician",
+    "candidate_id": "2f431df8-4a1c-4781-8e81-264a5ef3b260",
+    "employer": "Balasubramanian and Sons",
+    "job_role": "Python Developer",
     "joining_date": "2026-02-20",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "e4572e3f-e7a4-47f5-9bd5-56c717576533",
-    "employer": "Nagy and Sons",
-    "job_role": "Field Technician",
-    "joining_date": "2024-08-29",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "bae77efc-027c-46ed-bf42-daaad7da231d",
-    "employer": "Rama, Ramanathan and Comar",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-05-17",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "406832aa-9095-439e-866d-8bd4c7044cda",
-    "employer": "Barman, Sastry and Kamdar",
-    "job_role": "Python Developer",
-    "joining_date": "2024-09-05",
     "status": "verified",
-    "wage_band": "25k-40k"
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "882e3dc2-762b-4538-a4bf-7c2371e80aa0",
-    "employer": "Deo and Sons",
+    "candidate_id": "855e5b31-a801-4600-ba5e-e86512c3e177",
+    "employer": "Desai, Munshi and Dalal",
     "job_role": "Retail Sales Associate",
-    "joining_date": "2024-09-30",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "f3079469-3931-4692-a531-de5b241f77f4",
-    "employer": "Murty Group",
-    "job_role": "Python Developer",
-    "joining_date": "2025-05-21",
+    "joining_date": "2024-08-29",
     "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "233c1798-432b-4805-ba95-acf32b2b32c0",
-    "employer": "Panchal Ltd",
+    "candidate_id": "3c2d343f-fe03-4ce6-b26c-b16d27d6410c",
+    "employer": "Murty Group",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2026-05-17",
+    "status": "verified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "48aa9d25-2099-46a2-9cc0-05847056e3e2",
+    "employer": "Rama, Ramanathan and Comar",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2024-09-05",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "8c7b97cd-1770-455d-843c-2b65e816ab5e",
+    "employer": "Deo and Sons",
     "job_role": "Retail Sales Associate",
+    "joining_date": "2024-09-30",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "e8751978-808f-49f6-bd43-0beb906a4ff7",
+    "employer": "Prakash Ltd",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-05-21",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "be4e0cce-a07e-4000-a509-70946c9844ec",
+    "employer": "Prakash Ltd",
+    "job_role": "Plumber",
     "joining_date": "2026-07-01",
     "status": "verified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "0466d778-3ccd-4f7b-a754-bdbf5ca027f2",
-    "employer": "Pall-Chahal",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "2203525f-59f9-49ff-9502-4f98407f4915",
+    "employer": "Prakash Ltd",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-01-05",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
+    "status": "verified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "396be62d-ee59-471e-8040-8a94200f9a57",
-    "employer": "Shanker, Parmar and Bhatnagar",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "06ecbf2f-aaed-4308-962d-d6cc49595e93",
+    "employer": "Devi-Rajagopal",
+    "job_role": "Data Entry Operator",
     "joining_date": "2026-07-31",
-    "status": "verified",
+    "status": "self_reported",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "7bc86aee-1181-4eba-8d0e-49c6e200f9d0",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "c3eb9050-9393-49ed-95fd-ac0a20de90b7",
+    "employer": "Yohannan, Ganguly and Naik",
+    "job_role": "Field Technician",
     "joining_date": "2024-09-22",
     "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "74e12414-fbb6-41b1-b9df-f38e1320fa47",
-    "employer": "Barman, Sastry and Kamdar",
-    "job_role": "Plumber",
-    "joining_date": "2026-04-07",
-    "status": "verified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "f586cbe0-cdf0-40b8-bb23-2679e739efdd",
-    "employer": "Agate-Chander",
+    "candidate_id": "82bb6576-5333-4454-82d2-35c20d9596b7",
+    "employer": "Jhaveri Inc",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-04-07",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "a9fc0f48-558d-44a7-a446-aebe8a62e39a",
+    "employer": "Pall-Chahal",
     "job_role": "Python Developer",
     "joining_date": "2026-01-31",
-    "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "3a41bf4f-f598-4f83-966e-ae8dfe944661",
-    "employer": "Comar, Loyal and Peri",
-    "job_role": "Plumber",
-    "joining_date": "2025-12-20",
     "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "a8b5795c-c483-45f3-997f-8c9eb63cc5bc",
-    "employer": "Bera, Parmer and Andra",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "e4ee2cd3-8a95-4016-b43d-cb275cd85a53",
+    "employer": "Balasubramanian and Sons",
+    "job_role": "Python Developer",
+    "joining_date": "2025-12-20",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "c61adfa1-6339-4abd-8395-b679a7b5c771",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Plumber",
     "joining_date": "2025-02-08",
     "status": "verified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "bfce39e1-6cbf-491a-a761-0c0f9dd3fdc5",
-    "employer": "Varma-Mall",
-    "job_role": "Plumber",
+    "candidate_id": "eac4e4b1-bc29-4cfb-99b5-76b6ff8fdff8",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "Logistics Associate",
     "joining_date": "2025-02-25",
-    "status": "unverified",
+    "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "c47dd0fc-b3db-495b-be66-9ebd30a4349b",
-    "employer": "Prakash Ltd",
+    "candidate_id": "7eb59720-eaa9-44a3-afa4-0f0fb3e43714",
+    "employer": "Chaudry-Kota",
     "job_role": "Python Developer",
     "joining_date": "2026-06-28",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
+    "status": "unverified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "868e2804-3862-4558-b13b-f8480d168fb3",
-    "employer": "Comar-Lala",
-    "job_role": "Logistics Associate",
+    "candidate_id": "3ab32fc2-8d72-438f-bfdc-3786e9921fb1",
+    "employer": "Desai, Munshi and Dalal",
+    "job_role": "Data Entry Operator",
     "joining_date": "2025-04-18",
     "status": "self_reported",
-    "wage_band": "25k-40k"
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "05b53b22-516a-49e0-96c6-0eb63ded82a3",
-    "employer": "Master, Mann and Loke",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "374a36ae-6fa4-4347-92ce-b6cb290b3670",
+    "employer": "Yohannan, Ganguly and Naik",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2026-04-23",
-    "status": "unverified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "a896fd9d-06e5-4607-8b5e-ff2071aef648",
-    "employer": "Talwar LLC",
-    "job_role": "Plumber",
-    "joining_date": "2025-10-19",
     "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "b9c2bcdd-fced-4e32-95c5-adebcc8d992c",
-    "employer": "Nagy and Sons",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2024-11-23",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "c0b4197e-bfd1-443f-bece-8174ca5abe0c",
-    "employer": "Pandey-Shankar",
-    "job_role": "Plumber",
-    "joining_date": "2026-01-02",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "ac4d5ddc-5f7e-4a13-a769-dea5cd42234b",
+    "candidate_id": "baa5fb0d-21cb-4422-a05e-39dba0d35395",
     "employer": "Swamy-Sagar",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2024-10-05",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "442945d4-26e5-40dc-9430-a6af9ba16dcb",
-    "employer": "Deo and Sons",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-02-07",
-    "status": "unverified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "61388de7-f158-437e-9716-1ae01aac7167",
-    "employer": "Borra-Chander",
-    "job_role": "Plumber",
-    "joining_date": "2025-09-09",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2025-10-19",
     "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "05a30c3c-74f8-4b62-820e-d2b328c0cb74",
-    "employer": "Shanker, Parmar and Bhatnagar",
-    "job_role": "Electrician",
-    "joining_date": "2024-09-30",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "04724111-a7a3-4724-bf15-cd3719fde9d1",
-    "employer": "Borra-Chander",
-    "job_role": "Electrician",
-    "joining_date": "2025-06-17",
-    "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "84580d89-0b5d-4026-b931-b873e39e1f91",
-    "employer": "Shankar PLC",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-05-31",
+    "candidate_id": "7948e3a6-a342-4965-bdfb-6022bfead2f6",
+    "employer": "Luthra, Sachdeva and Prashad",
+    "job_role": "Plumber",
+    "joining_date": "2024-11-23",
     "status": "self_reported",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "fa93c0ca-4cdb-4b66-8c31-0239b77a2c40",
-    "employer": "Pillay, Sha and Sura",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-05-23",
+    "candidate_id": "d5c49b88-5154-441b-878c-05d414de7d47",
+    "employer": "Master, Mann and Loke",
+    "job_role": "Python Developer",
+    "joining_date": "2026-01-02",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "528afb6d-eb95-4b3a-bb7e-a84017493139",
+    "employer": "Pall-Chahal",
+    "job_role": "Plumber",
+    "joining_date": "2024-10-05",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "05fbb16a-1149-4a29-87d6-65d20e906415",
+    "employer": "Shankar PLC",
+    "job_role": "Plumber",
+    "joining_date": "2025-02-07",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "ce965215-ee77-4c42-b3f1-441edda817c5",
+    "employer": "Nagy and Sons",
+    "job_role": "Plumber",
+    "joining_date": "2025-09-09",
+    "status": "verified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "445bfa11-e6a0-4fe6-9550-aa617f4b41c8",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2024-09-30",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "cc393ff1-6acc-496c-8da0-caee164aa319",
+    "employer": "Borra-Chander",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-06-17",
     "status": "verified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "e46ea71d-a04f-4fd2-9147-13a24b9bd609",
-    "employer": "Mani-Dey",
+    "candidate_id": "3c7a2089-7d5a-457f-8a3c-46f32264ff83",
+    "employer": "Borra-Chander",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-05-31",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "a20103af-4468-4905-bcfe-bc1bf9be8087",
+    "employer": "Shankar PLC",
+    "job_role": "Plumber",
+    "joining_date": "2026-05-23",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "94b7f83b-5d71-4454-9e8e-cedf1a0b2a1f",
+    "employer": "Shankar PLC",
     "job_role": "Electrician",
     "joining_date": "2026-03-16",
     "status": "verified",
-    "wage_band": "25k-40k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "b9602215-e095-4b7e-a48c-084d69dee001",
-    "employer": "Rao, Kamdar and Sanghvi",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "c3ea60dd-df69-4631-8ae7-a6b54cd432d8",
+    "employer": "Yohannan, Ganguly and Naik",
+    "job_role": "Electrician",
     "joining_date": "2025-04-12",
     "status": "unverified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "25979098-56a2-4b1f-bc1f-3c4d98c96dc9",
-    "employer": "Rao, Kamdar and Sanghvi",
+    "candidate_id": "f31c19a5-1174-4774-9779-f8f8fbbbb366",
+    "employer": "Bali-Maharaj",
     "job_role": "Customer Care Executive",
     "joining_date": "2024-10-30",
     "status": "verified",
-    "wage_band": "25k-40k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "a6ce5d22-a21d-4b82-91db-d35d872af17a",
-    "employer": "Tiwari-Talwar",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-07-27",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "fa2f1b66-6cf2-476b-b91a-af2372910370",
-    "employer": "Sangha, Gandhi and Dewan",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-05-24",
-    "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "e7dbe325-4e51-4282-b174-d6476bc5521a",
-    "employer": "Panchal, Walia and Mand",
+    "candidate_id": "1ee2393e-2709-4235-95a2-020a8aed652a",
+    "employer": "Dalal-Khalsa",
     "job_role": "Field Technician",
-    "joining_date": "2025-03-29",
+    "joining_date": "2025-07-27",
     "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "f7707578-33c1-48c0-8839-3941a7f96085",
-    "employer": "Bali-Sengupta",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2026-03-24",
+    "candidate_id": "53647bd8-8de9-4ff5-9203-5e7c657e6e87",
+    "employer": "Tiwari-Talwar",
+    "job_role": "Plumber",
+    "joining_date": "2025-05-24",
     "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "d8358815-9bd5-466b-976a-4a338e048bb9",
+    "employer": "Pandey-Shankar",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-03-29",
+    "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "dd7c9839-e3bb-4234-be08-42a31cd5a496",
-    "employer": "Varma-Mall",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-02-19",
-    "status": "verified",
-    "wage_band": "15k-25k"
+    "candidate_id": "93d365ec-a54a-451b-8dbe-cc45c0cd792e",
+    "employer": "Sangha, Gandhi and Dewan",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-03-24",
+    "status": "unverified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "dbc49b22-1c90-4f95-9502-881bb5cf3498",
-    "employer": "Pall-Chahal",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "1936917c-97f4-4343-b2d0-b8b5115198d0",
+    "employer": "Panchal, Walia and Mand",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-02-19",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "f0996f8e-50ac-4302-8dac-fea9229f65b9",
+    "employer": "Shankar PLC",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-02-21",
+    "status": "unverified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "04673ddb-d387-4344-828c-4b2390844a3f",
+    "employer": "Pall-Chahal",
+    "job_role": "Plumber",
+    "joining_date": "2025-05-24",
     "status": "verified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "781cb351-6af7-4c34-bb92-d4baa68112b0",
-    "employer": "Pandey-Shankar",
+    "candidate_id": "1aa2131d-f99d-413f-ba73-4b87b8cd65d9",
+    "employer": "Grewal-Sur",
     "job_role": "Retail Sales Associate",
-    "joining_date": "2025-05-24",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "7bdd7e55-2915-4206-b16e-f64abd3995c7",
-    "employer": "Panchal Ltd",
-    "job_role": "Logistics Associate",
     "joining_date": "2026-08-08",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "378ac341-25df-4cca-b8db-26da44a47f72",
-    "employer": "Nagy and Sons",
-    "job_role": "Electrician",
-    "joining_date": "2026-08-27",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "fa811f66-5978-40c5-88ed-7091e9aa507f",
-    "employer": "Borra-Chander",
-    "job_role": "Plumber",
-    "joining_date": "2026-03-18",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "53df3bb4-5edd-4cd8-bd7b-056be26fbec8",
-    "employer": "Barman, Sastry and Kamdar",
-    "job_role": "Field Technician",
-    "joining_date": "2026-02-14",
     "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "899e305e-78bd-4d69-a310-9078481b753c",
-    "employer": "Murty Group",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-10-01",
-    "status": "unverified",
+    "candidate_id": "4c8d5f1e-5392-4632-89af-a4510277a680",
+    "employer": "Tiwari-Talwar",
+    "job_role": "Field Technician",
+    "joining_date": "2026-08-27",
+    "status": "verified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "3f734693-9a1b-48e8-ad22-e1e6530895a9",
+    "employer": "Nagy and Sons",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-03-18",
+    "status": "verified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "fa92c16c-d564-4d2d-b56b-8a8e7dc43873",
-    "employer": "Bali-Maharaj",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "98a81d5e-55e2-4d92-ac59-d1303d6266f4",
+    "employer": "Borra-Chander",
+    "job_role": "Python Developer",
+    "joining_date": "2026-02-14",
+    "status": "unverified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "15dd649b-4968-46af-bc1f-32a21bb20037",
+    "employer": "Barman, Sastry and Kamdar",
+    "job_role": "Electrician",
+    "joining_date": "2025-10-01",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "ffbb4979-5e64-42aa-ac26-6ce146388eda",
+    "employer": "Murty Group",
+    "job_role": "Customer Care Executive",
     "joining_date": "2026-04-01",
     "status": "unverified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "aaf2f28f-c5af-41c7-bd81-a6102a8d8b88",
-    "employer": "Luthra, Sachdeva and Prashad",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "03346c96-9a7c-49c0-afd2-72d62532e7ff",
+    "employer": "Bali-Maharaj",
+    "job_role": "Logistics Associate",
     "joining_date": "2024-12-16",
     "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "8c834b5c-f621-4c4f-a8bc-b5a6df4684eb",
+    "employer": "Luthra, Sachdeva and Prashad",
+    "job_role": "Electrician",
+    "joining_date": "2026-07-10",
+    "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "c722ba87-518d-4210-b599-8c9d23c25836",
-    "employer": "Bali-Sengupta",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2026-07-10",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "cad49e1c-f092-40be-8ec4-a55411ac03c5",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Logistics Associate",
+    "candidate_id": "08f0dc5b-51eb-4a80-a5bc-773dd01c3476",
+    "employer": "Prakash Ltd",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2024-09-14",
-    "status": "verified",
-    "wage_band": "25k-40k"
+    "status": "self_reported",
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "3c9bf96d-58ee-4a1d-a75a-794cd21927fc",
-    "employer": "Vaidya Group",
-    "job_role": "Plumber",
+    "candidate_id": "17e0d505-a396-4f0c-8275-b48b96b1de06",
+    "employer": "Shankar PLC",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-09-27",
     "status": "self_reported",
-    "wage_band": "25k-40k"
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "e6592a19-a932-4f59-b1c6-f2fb3bf5a93a",
-    "employer": "Devi-Rajagopal",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-12-05",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "b245d17e-2c1f-4fec-9418-a10196542d93",
+    "candidate_id": "adb44c56-cdff-45cb-a91b-bdcbeed38698",
     "employer": "Swamy-Sagar",
     "job_role": "Retail Sales Associate",
-    "joining_date": "2026-01-16",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "25a7b381-2b59-4187-917d-611420bee10b",
-    "employer": "Varma-Mall",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2024-09-04",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "0b95ae12-4864-49cc-ba27-d3edc8991aa7",
-    "employer": "Master, Mann and Loke",
-    "job_role": "Logistics Associate",
-    "joining_date": "2025-04-29",
-    "status": "verified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "c6b760f3-e97a-4147-8617-4ce264fb0e20",
-    "employer": "Suri, Wable and Munshi",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2026-03-05",
-    "status": "unverified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "87559e35-15bd-4b21-8942-0145a9418ffc",
-    "employer": "Vaidya Group",
-    "job_role": "Plumber",
-    "joining_date": "2025-05-30",
+    "joining_date": "2025-12-05",
     "status": "self_reported",
-    "wage_band": "40k-60k"
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "a7cb53f3-e8f0-4a7e-9d76-70f11d502884",
-    "employer": "Devi-Rajagopal",
-    "job_role": "Field Technician",
-    "joining_date": "2026-02-18",
-    "status": "unverified",
-    "wage_band": "25k-40k"
+    "candidate_id": "493d584b-8feb-47c6-8df8-30b05b87862a",
+    "employer": "Panchal, Walia and Mand",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2026-01-16",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "00ba9ff8-8426-43f8-913e-65d525347bd0",
-    "employer": "Talwar LLC",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-04-09",
+    "candidate_id": "210ef5fd-6afe-492a-9c87-7ff76eba9e00",
+    "employer": "Luthra, Sachdeva and Prashad",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2024-09-04",
     "status": "verified",
-    "wage_band": "40k-60k"
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "17db47d7-7b5f-4ef1-b351-83929bd45b8d",
-    "employer": "Vaidya Group",
-    "job_role": "Logistics Associate",
-    "joining_date": "2025-01-24",
-    "status": "verified",
+    "candidate_id": "5fa0f8ba-06f9-4100-964d-17236d202277",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "Electrician",
+    "joining_date": "2025-04-29",
+    "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "714775b2-42cf-4de9-a975-f6f3f5dfc382",
-    "employer": "Bali-Maharaj",
-    "job_role": "Electrician",
-    "joining_date": "2026-08-16",
-    "status": "unverified",
+    "candidate_id": "b4a243a4-c5ed-47ed-9493-79330b2acce0",
+    "employer": "Deshpande-Hayer",
+    "job_role": "Plumber",
+    "joining_date": "2026-03-05",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "62c1c07e-caaa-4e73-ae2f-f597f46f49b9",
+    "employer": "Pillay, Sha and Sura",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-05-30",
+    "status": "verified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "69cf95e3-8e8c-416d-bc03-9fa337b16c4e",
-    "employer": "Swamy-Sagar",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-06-30",
+    "candidate_id": "590ee9e3-fea2-4e13-bc02-6a27d43fa631",
+    "employer": "Bali-Sengupta",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-02-18",
     "status": "unverified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "c2509315-4456-436a-8426-3278c62ba038",
-    "employer": "Agate-Chander",
-    "job_role": "Plumber",
-    "joining_date": "2026-07-31",
+    "candidate_id": "40270aa6-2015-42f6-83f9-61275b36766a",
+    "employer": "Comar-Lala",
+    "job_role": "Logistics Associate",
+    "joining_date": "2025-04-09",
     "status": "self_reported",
-    "wage_band": "25k-40k"
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "10b83a5d-c93d-4701-934f-4f97aaee253b",
-    "employer": "Agate-Chander",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "49cb8d30-37a3-4c29-b978-58bad6ba49d4",
+    "employer": "Pall-Chahal",
+    "job_role": "Logistics Associate",
+    "joining_date": "2025-01-24",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "f45e7224-8e82-4a9b-a644-7678401f4956",
+    "employer": "Shanker, Parmar and Bhatnagar",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-08-16",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "c6727ef3-b6f9-4891-af2d-3fa70df9bc46",
+    "employer": "Pillay, Sha and Sura",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2025-06-30",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "b143e8c7-b714-47cc-b683-fc43ef3701e7",
+    "employer": "Master, Mann and Loke",
+    "job_role": "Field Technician",
+    "joining_date": "2026-07-31",
+    "status": "unverified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "b343c8df-f3ff-4634-a1ac-fb1a96aa2936",
+    "employer": "Bali-Sengupta",
+    "job_role": "Data Entry Operator",
     "joining_date": "2026-08-08",
     "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "5df4a87f-a3b9-4b4f-9967-1c3704a18970",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Field Technician",
+    "candidate_id": "a4e50e39-7164-40cb-8089-39683ac2258b",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "General Duty Assistant",
     "joining_date": "2024-12-10",
     "status": "verified",
-    "wage_band": "40k-60k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "f8678aed-eccf-4695-adda-8875a66eb693",
-    "employer": "Murty Group",
-    "job_role": "Python Developer",
+    "candidate_id": "ac497221-69cf-4b52-828f-7cadff2863f3",
+    "employer": "Comar-Lala",
+    "job_role": "Logistics Associate",
     "joining_date": "2025-03-20",
     "status": "self_reported",
-    "wage_band": "25k-40k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "eead0f8a-6078-47f8-b430-ac9483ade0ce",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Electrician",
+    "candidate_id": "26323bb2-11d4-44b8-9e52-c78f7ed97b13",
+    "employer": "Gera, Mishra and Chad",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2024-09-29",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "e3f22366-d71b-44bc-b242-795584aea363",
-    "employer": "Talwar LLC",
-    "job_role": "Plumber",
-    "joining_date": "2025-02-13",
     "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "2f01707a-c8ab-449e-ad88-9b25c861cf05",
-    "employer": "Bali-Sengupta",
-    "job_role": "Plumber",
-    "joining_date": "2026-05-08",
-    "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "04abe00a-6963-47e0-80a9-c3357a6b50eb",
-    "employer": "Comar, Loyal and Peri",
-    "job_role": "Field Technician",
-    "joining_date": "2025-06-25",
+    "candidate_id": "e3328638-dd44-4d0e-93b5-63b8155452e4",
+    "employer": "Jhaveri Inc",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-02-13",
     "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "6acfbfff-a229-4eaf-856f-d7db025726eb",
+    "employer": "Gera, Mishra and Chad",
+    "job_role": "Plumber",
+    "joining_date": "2026-05-08",
+    "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "640e0c0f-f2f4-424c-82b5-6300699712d6",
+    "candidate_id": "de050a4a-560a-4aec-985d-42a951df5b3c",
+    "employer": "Panchal Ltd",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2025-06-25",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "28f8fa9e-ac61-4b00-80f8-863650284237",
     "employer": "Rama, Ramanathan and Comar",
-    "job_role": "Retail Sales Associate",
+    "job_role": "Electrician",
     "joining_date": "2026-06-13",
     "status": "unverified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "39d1c807-d187-4624-9513-bcc9e297930e",
-    "employer": "Chaudry-Kota",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "9f8e7c6f-3c06-442e-ac43-1a21af1496cd",
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "job_role": "Plumber",
     "joining_date": "2025-07-29",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "15ecfd68-c657-4aec-a4ee-453247fbe6b1",
+    "employer": "Yogi LLC",
+    "job_role": "Field Technician",
+    "joining_date": "2026-02-25",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "ab1126ce-8c9a-4821-9752-4c834c993feb",
-    "employer": "Yohannan, Ganguly and Naik",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2026-02-25",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "6389ca28-83be-44ca-9f05-c6528cdfdb40",
-    "employer": "Bali-Sengupta",
-    "job_role": "Electrician",
-    "joining_date": "2025-10-26",
-    "status": "unverified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "618692fd-19e5-4f2e-9cd9-5157008488d3",
-    "employer": "Swamy-Sagar",
-    "job_role": "Electrician",
-    "joining_date": "2025-09-01",
-    "status": "verified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "3fe586aa-ee43-4115-bff1-e80f2bfc17a3",
-    "employer": "Barman, Sastry and Kamdar",
+    "candidate_id": "c91f6a72-8780-4e86-a9b0-35851f657ad9",
+    "employer": "Agate-Chander",
     "job_role": "Retail Sales Associate",
+    "joining_date": "2025-10-26",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "ab60f5c6-a270-4a59-961b-29fb26e6f809",
+    "employer": "Agate-Chander",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-09-01",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "2226e108-3fba-4158-9757-43e83564503e",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "General Duty Assistant",
     "joining_date": "2025-12-06",
-    "status": "verified",
+    "status": "unverified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "48f4b584-d8e2-4881-a2e9-35c4c117b2cd",
+    "employer": "Sawhney, Suresh and Ganesh",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-06-12",
+    "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "5d6cfbaf-8c98-45aa-83e8-ebdd19a13f78",
-    "employer": "Vaidya Group",
-    "job_role": "Logistics Associate",
-    "joining_date": "2025-06-12",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "25bead54-73a1-4bfd-8ff1-8c4025e1d7e9",
-    "employer": "Jhaveri Inc",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "c958b9a5-7877-4d9b-beca-e421cadb334c",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Data Entry Operator",
     "joining_date": "2025-11-03",
     "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "f909889b-4e43-4f07-989b-4e30116d344d",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Python Developer",
+    "candidate_id": "5cb6dee5-43e4-4fa5-a223-2c5d972272f0",
+    "employer": "Nagy and Sons",
+    "job_role": "Electrician",
     "joining_date": "2024-10-12",
     "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "aed1bc92-fd4d-4e17-ada4-497a361df6cf",
-    "employer": "Tiwari-Talwar",
-    "job_role": "Logistics Associate",
-    "joining_date": "2025-12-25",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "adff5e0f-894d-478f-b173-8c223b76f0ce",
-    "employer": "Pillay, Sha and Sura",
-    "job_role": "Field Technician",
-    "joining_date": "2024-12-01",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "e63a2c4f-b8c2-4d14-9ad3-a70a17ed383d",
-    "employer": "Swamy-Sagar",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-03-29",
-    "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "c66dca5b-12a1-40f8-b8f4-bf32b94fd7e0",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-05-12",
-    "status": "self_reported",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "b8f6877f-d6cd-4e77-97d0-3b71883436fd",
+    "candidate_id": "35cf3fd4-6ba8-4eee-ae64-2940686777ab",
     "employer": "Pall-Chahal",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-07-05",
-    "status": "verified",
-    "wage_band": "10k-15k"
+    "job_role": "Electrician",
+    "joining_date": "2025-12-25",
+    "status": "unverified",
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "b9e649fb-26be-4e18-99bd-de05df663639",
-    "employer": "Vaidya Group",
+    "candidate_id": "f482eb07-975e-4006-b0ad-0441e5040563",
+    "employer": "Grewal-Sur",
     "job_role": "Logistics Associate",
-    "joining_date": "2025-06-11",
+    "joining_date": "2024-12-01",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "5f6bdee5-8586-4b1e-bef8-2b8b60f4673c",
-    "employer": "Nagy and Sons",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2026-04-28",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "3fff85b3-535f-4542-a741-2e12e0193316",
-    "employer": "Swamy-Sagar",
-    "job_role": "Logistics Associate",
-    "joining_date": "2025-04-23",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "952e91cf-e3da-46fa-97b8-43ff0f1d6395",
-    "employer": "Varma-Mall",
-    "job_role": "Electrician",
-    "joining_date": "2025-07-24",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "cfcc2135-850a-4a81-b781-1375c7240248",
-    "employer": "Panchal Ltd",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2025-02-14",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "35042a46-10cf-4765-83d8-216b397df3ff",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2026-07-18",
+    "candidate_id": "cbc0a481-f4ec-4809-8ec4-610b0822bbd9",
+    "employer": "Suri, Wable and Munshi",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-03-29",
     "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "0910eae0-f6f6-450d-8566-f13303a2e657",
-    "employer": "Deshpande-Hayer",
-    "job_role": "Field Technician",
-    "joining_date": "2024-12-05",
+    "candidate_id": "f5a4b47c-bdda-44e0-9e4f-d7cf459053ef",
+    "employer": "Yohannan, Ganguly and Naik",
+    "job_role": "Python Developer",
+    "joining_date": "2026-05-12",
     "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "171c59df-b2ab-4a6d-b478-01040489b42a",
-    "employer": "Mody Inc",
+    "candidate_id": "7c3da654-370a-4e3e-9769-ebfc9520b00b",
+    "employer": "Nanda-Hegde",
+    "job_role": "Electrician",
+    "joining_date": "2026-07-05",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "fcb45a8d-3dd9-4f5e-95a5-133d92e67a8d",
+    "employer": "Nagy and Sons",
     "job_role": "Logistics Associate",
-    "joining_date": "2026-03-13",
+    "joining_date": "2025-06-11",
+    "status": "unverified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "1c7d984c-e4dd-4a46-a47f-74a24195c7de",
+    "employer": "Luthra, Sachdeva and Prashad",
+    "job_role": "Field Technician",
+    "joining_date": "2026-04-28",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "7ac16cf1-7a91-4673-ad2e-e2b45288a372",
+    "employer": "Varma-Mall",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-04-23",
+    "status": "unverified",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "9c276098-8719-41fb-bb34-db3474421243",
+    "employer": "Rao, Kamdar and Sanghvi",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-07-24",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "99c2702f-d71a-4e9e-8ca3-d5061c6bd55a",
+    "employer": "Shanker, Parmar and Bhatnagar",
+    "job_role": "Logistics Associate",
+    "joining_date": "2025-02-14",
     "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "51279d4d-48d8-4ca8-93c7-eb1fd594faf0",
-    "employer": "Comar-Lala",
-    "job_role": "Python Developer",
-    "joining_date": "2024-11-15",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
+    "candidate_id": "6601ad19-8d14-452f-a2c4-ceef55361c7a",
+    "employer": "Deshpande-Hayer",
+    "job_role": "Logistics Associate",
+    "joining_date": "2026-07-18",
+    "status": "unverified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "195800f6-41bc-4c91-a602-accb4b36392c",
-    "employer": "Vaidya Group",
+    "candidate_id": "cdfb2a82-3ef1-4fd7-8358-03568a51bdbb",
+    "employer": "Agate-Chander",
     "job_role": "Electrician",
+    "joining_date": "2024-12-05",
+    "status": "unverified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "9a4003df-5e99-47e6-9386-7d290d624296",
+    "employer": "Rama, Ramanathan and Comar",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2026-03-13",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "bd4433d3-1350-470b-8661-3ead50e29420",
+    "employer": "Varma-Mall",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2024-11-15",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "a9c73a08-4649-47ce-8555-2c4bce5289df",
+    "employer": "Tiwari-Talwar",
+    "job_role": "Field Technician",
     "joining_date": "2024-11-13",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "3d8bd743-b90e-47cc-9890-c2982e492a65",
-    "employer": "Prakash Ltd",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "3e455194-d2a4-405b-8e30-87f3ccdd67c0",
+    "employer": "Swamy-Sagar",
+    "job_role": "Electrician",
     "joining_date": "2025-07-22",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
+    "status": "unverified",
+    "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "31e935b0-84a2-4d6f-b4ab-6fb496b9f09b",
-    "employer": "Yogi LLC",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "7cbffc59-b8fe-44b3-8a4f-3b715952b3b5",
+    "employer": "Talwar LLC",
+    "job_role": "General Duty Assistant",
     "joining_date": "2025-04-14",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "db59ff5b-3267-4fb6-84d5-a3afe0859605",
-    "employer": "Pandey-Shankar",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2024-11-24",
     "status": "unverified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "f81eb5d9-6d78-426c-9c50-419db768923d",
-    "employer": "Grewal-Sur",
-    "job_role": "Electrician",
-    "joining_date": "2025-05-16",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "612ecfa6-86c6-463b-abe0-806f5af18f81",
-    "employer": "Panchal, Walia and Mand",
-    "job_role": "Plumber",
-    "joining_date": "2026-03-14",
+    "candidate_id": "d7e5f420-bd71-4066-91b3-caafb33d2754",
+    "employer": "Balasubramanian and Sons",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2024-11-24",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "0c47ef73-3d46-4745-95ac-5a0e3e572957",
-    "employer": "Borra-Chander",
-    "job_role": "Field Technician",
+    "candidate_id": "ae98af24-b5c9-4871-b206-93d9c3c53e72",
+    "employer": "Varma-Mall",
+    "job_role": "Plumber",
+    "joining_date": "2025-05-16",
+    "status": "unverified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "7c8cfd13-95ee-4734-b9e7-1314db2dadc0",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-03-14",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "65979d71-6bb8-4739-90cf-62266dff30c0",
+    "employer": "Jhaveri Inc",
+    "job_role": "Electrician",
     "joining_date": "2025-07-24",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "c43542d2-8353-4f03-ad7e-9125167ecbce",
-    "employer": "Varma-Mall",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "1835c4a1-ac33-4a95-bb1f-2687efb1cc98",
+    "employer": "Devi-Rajagopal",
+    "job_role": "Field Technician",
     "joining_date": "2025-08-01",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
+    "status": "verified",
+    "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "6fbfa93f-501f-49f8-a418-243327f2875b",
-    "employer": "Yogi LLC",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "4ad80b2c-ff23-4d04-8105-70df88c54fa0",
+    "employer": "Murty Group",
+    "job_role": "Customer Care Executive",
     "joining_date": "2026-05-13",
     "status": "verified",
-    "wage_band": "10k-15k"
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "2c376cbb-45b6-440e-9c5d-586a8bf43ed5",
-    "employer": "Barman, Sastry and Kamdar",
+    "candidate_id": "c8ac2684-ecd2-4417-913c-af960f89a64e",
+    "employer": "Yohannan, Ganguly and Naik",
     "job_role": "Plumber",
     "joining_date": "2024-11-02",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "44e3bef8-ee94-4233-a173-9852f79fd3bf",
-    "employer": "Deo and Sons",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-04-10",
-    "status": "unverified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "03436c4a-bead-4924-832b-eb4af62b42c5",
-    "employer": "Pillay, Sha and Sura",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-04-07",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "3948eda8-9d81-4362-afae-73a8f7cada1a",
+    "candidate_id": "3b7e78ae-d4dd-4de6-ac69-8ab356b2e84a",
     "employer": "Pandey-Shankar",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-01-25",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-04-10",
     "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "6f8bb752-446f-4bae-983b-ffb0cac4c65f",
-    "employer": "Dalal-Khalsa",
+    "candidate_id": "f554debc-3a75-423b-91c6-47a1a64b478e",
+    "employer": "Shankar PLC",
     "job_role": "Data Entry Operator",
-    "joining_date": "2025-11-12",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "ab8e8193-8c06-46e8-91e7-e3033ae0ec9d",
-    "employer": "Prakash Ltd",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-02-01",
-    "status": "self_reported",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "58ce2159-3936-4ed9-99aa-af401686f0e9",
-    "employer": "Bali-Maharaj",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-05-16",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "f37a5e8b-ba2b-4003-96d3-6c6fbc79fab8",
-    "employer": "Murty Group",
-    "job_role": "Python Developer",
-    "joining_date": "2024-12-14",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "b1248e9c-76dd-45e1-8897-90d2a10460d6",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Logistics Associate",
-    "joining_date": "2026-01-29",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "93afd3db-1f87-4734-92c5-89dc02fe4a65",
-    "employer": "Mody Inc",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-08-05",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "0119421c-81b1-4ea5-8f7c-7e2e8d9bcf2c",
-    "employer": "Rao, Kamdar and Sanghvi",
-    "job_role": "Field Technician",
-    "joining_date": "2025-06-13",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "a858954b-71ae-4885-9f09-5a558b1b2321",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2024-10-02",
+    "joining_date": "2025-04-07",
     "status": "verified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "e59c8b3f-6d7a-4c4c-9ee6-b3c6b2b1a614",
-    "employer": "Rao, Kamdar and Sanghvi",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2025-04-03",
-    "status": "verified",
+    "candidate_id": "95223bf3-b7f0-4a09-80f7-004cf450ff15",
+    "employer": "Pillay, Sha and Sura",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2026-01-25",
+    "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "f65817e8-3644-4ada-b19b-11f97c9c9375",
-    "employer": "Mani-Dey",
-    "job_role": "Field Technician",
-    "joining_date": "2026-04-19",
-    "status": "unverified",
+    "candidate_id": "bfe45a76-d691-4ac5-9018-f24c2ba2df3a",
+    "employer": "Mody Inc",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2025-11-12",
+    "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "4e8766b4-6b15-4fed-a25d-414000119243",
-    "employer": "Tiwari-Talwar",
+    "candidate_id": "c35f6e95-7eb4-4ad4-b9fc-f0d8cca57c39",
+    "employer": "Murty Group",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-02-01",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "403dc987-4a9d-45f5-aa41-0acd1a744907",
+    "employer": "Gera, Mishra and Chad",
+    "job_role": "Python Developer",
+    "joining_date": "2026-05-16",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "80fd22c5-e702-4d06-86f8-ee0dcf01910f",
+    "employer": "Talwar LLC",
+    "job_role": "Logistics Associate",
+    "joining_date": "2024-12-14",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "ec74afb7-048d-443b-8bf6-200dbb30fe73",
+    "employer": "Desai, Munshi and Dalal",
+    "job_role": "Electrician",
+    "joining_date": "2026-01-29",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "e75d615a-667c-4a56-8aa5-6410d5f03e95",
+    "employer": "Dalal-Khalsa",
+    "job_role": "Logistics Associate",
+    "joining_date": "2026-08-05",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "db13c3b5-0868-4761-9f50-3175ea5d0eb0",
+    "employer": "Sawhney, Suresh and Ganesh",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-06-13",
+    "status": "unverified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "8e37e716-49d9-4288-8a8c-7f59a05c3f29",
+    "employer": "Yogi, Ghose and Ganesan",
     "job_role": "Retail Sales Associate",
-    "joining_date": "2025-01-02",
+    "joining_date": "2024-10-02",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "72cba182-4ad0-4f7e-bc5b-3dc76dde582a",
+    "employer": "Vaidya Group",
+    "job_role": "Python Developer",
+    "joining_date": "2025-04-03",
     "status": "unverified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "156cecf5-5a61-4cfe-9f49-66ccaed27a07",
-    "employer": "Talwar LLC",
-    "job_role": "Electrician",
-    "joining_date": "2026-07-24",
+    "candidate_id": "82e2dc9c-7682-4cce-ab49-d2d0a01dee46",
+    "employer": "Devi-Rajagopal",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2026-04-19",
     "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "e5330503-6466-4a7f-8de3-e13406e4da36",
-    "employer": "Desai, Munshi and Dalal",
+    "candidate_id": "cb7a79c0-85e5-4879-8f25-9aacec74d0bc",
+    "employer": "Master, Mann and Loke",
     "job_role": "General Duty Assistant",
+    "joining_date": "2025-01-02",
+    "status": "verified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "df57f105-1b94-486b-aaef-0394c7276c27",
+    "employer": "Pillay, Sha and Sura",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-07-24",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "35ed97ca-316c-4315-9c1e-ce26647ee876",
+    "employer": "Rao, Kamdar and Sanghvi",
+    "job_role": "Field Technician",
     "joining_date": "2026-05-14",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "aee3e4c1-7881-4478-8f3d-0f7ff9a7f583",
-    "employer": "Pillay, Sha and Sura",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "e6d7c9a6-8772-4864-8b25-366a018957ff",
+    "employer": "Mani-Dey",
+    "job_role": "Data Entry Operator",
     "joining_date": "2025-10-08",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "27a1fe9a-e6d4-47d8-a532-75d6f9a8dff1",
-    "employer": "Nanda-Hegde",
-    "job_role": "Field Technician",
-    "joining_date": "2025-10-04",
-    "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "d997b1d4-ed88-4435-ba9d-d5b3048415b7",
-    "employer": "Sangha, Gandhi and Dewan",
-    "job_role": "Plumber",
-    "joining_date": "2024-11-05",
     "status": "unverified",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "f8897f0e-f724-4b99-b302-6c38d5d5b1a7",
-    "employer": "Bali-Sengupta",
-    "job_role": "Plumber",
-    "joining_date": "2024-11-10",
-    "status": "unverified",
-    "wage_band": "10k-15k"
+    "candidate_id": "197a0dba-0ceb-45c0-b4af-5440cc2dfd1d",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Electrician",
+    "joining_date": "2025-10-04",
+    "status": "verified",
+    "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "2c1d5633-a774-45c9-bbc1-37157d4a1b2a",
-    "employer": "Mody Inc",
-    "job_role": "Python Developer",
-    "joining_date": "2026-03-31",
+    "candidate_id": "d7b899ac-a990-4668-b055-3b7f23812e17",
+    "employer": "Yogi LLC",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2024-11-05",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "01828dbb-4e7d-4e2a-950a-689e98861993",
+    "employer": "Murty Group",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2024-11-10",
     "status": "self_reported",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "4b6b3852-ca38-4d62-99a0-99e3dc9e1f46",
-    "employer": "Panchal Ltd",
-    "job_role": "Data Entry Operator",
+    "candidate_id": "fc15f16d-afea-4ce5-bba2-349bf2c79921",
+    "employer": "Pall-Chahal",
+    "job_role": "Field Technician",
+    "joining_date": "2026-03-31",
+    "status": "verified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "e68e1fce-8636-4cef-bb2a-b05766adc13b",
+    "employer": "Rao, Kamdar and Sanghvi",
+    "job_role": "Plumber",
     "joining_date": "2024-11-24",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "ff23dc07-595e-4eaa-8f19-6aed166979fa",
-    "employer": "Suri, Wable and Munshi",
-    "job_role": "Logistics Associate",
+    "candidate_id": "7a2d568d-281b-4e77-9576-f72e25c7baba",
+    "employer": "Balasubramanian and Sons",
+    "job_role": "Plumber",
     "joining_date": "2024-10-12",
-    "status": "verified",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "36bebb56-b465-4519-a90e-f683322b867b",
+    "employer": "Pall-Chahal",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2026-03-21",
+    "status": "unverified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "9ede0ee4-199d-4467-91b2-52b0dbb49969",
-    "employer": "Tandon, Vaidya and Chowdhury",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-03-21",
+    "candidate_id": "6d71e4ce-3d1a-41e2-8ccb-18b4af0fb5ba",
+    "employer": "Barman, Sastry and Kamdar",
+    "job_role": "Plumber",
+    "joining_date": "2025-02-06",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "8bfdae0e-742c-4aae-8057-d6bd2f2e0a40",
-    "employer": "Sawhney, Suresh and Ganesh",
-    "job_role": "Python Developer",
-    "joining_date": "2025-02-06",
-    "status": "unverified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "21a1410d-e1e0-457c-9a0d-e1ec79a43100",
-    "employer": "Chaudry-Kota",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "1d39cf49-6f68-484a-b522-fb0323a56cff",
+    "employer": "Pandey-Shankar",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2025-01-19",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "2beadf47-b046-4846-b237-33947db9cd33",
-    "employer": "Dalal-Khalsa",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-06-16",
-    "status": "unverified",
+    "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "195ef4b5-2181-4507-a09a-bb7e4eec80c2",
-    "employer": "Panchal Ltd",
-    "job_role": "Retail Sales Associate",
+    "candidate_id": "66d3cbda-9a88-400d-96f5-0235faecd7fe",
+    "employer": "Borra-Chander",
+    "job_role": "Field Technician",
+    "joining_date": "2025-06-16",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "ad4d8c43-f543-47ea-99c8-a11c5e8d76c5",
+    "employer": "Jhaveri Inc",
+    "job_role": "Python Developer",
     "joining_date": "2026-01-11",
     "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "31edd49d-a2a0-4a34-9cd5-3bd2e12beffa",
-    "employer": "Borra-Chander",
-    "job_role": "Customer Care Executive",
+    "candidate_id": "90b3bbec-596c-4094-bf1e-b3a98ad28967",
+    "employer": "Comar, Loyal and Peri",
+    "job_role": "Data Entry Operator",
     "joining_date": "2026-07-14",
-    "status": "verified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "7ffe07fd-f56e-4de3-aebd-d91300a83c63",
-    "employer": "Chandran, Deshmukh and Sabharwal",
-    "job_role": "Plumber",
-    "joining_date": "2024-10-28",
-    "status": "verified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "57e96f56-f6b0-41bb-b330-2d4425ba183e",
-    "employer": "Bali-Maharaj",
-    "job_role": "Python Developer",
-    "joining_date": "2025-10-30",
-    "status": "verified",
+    "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "6850aa3d-b86b-4921-9086-5af8c052a3bc",
-    "employer": "Comar, Loyal and Peri",
+    "candidate_id": "cd9bb833-9ead-4241-a845-583928fbafac",
+    "employer": "Shankar PLC",
     "job_role": "Logistics Associate",
-    "joining_date": "2026-06-29",
+    "joining_date": "2024-10-28",
+    "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "286fe9a8-5955-40c4-8020-cc2f9a17b7f1",
+    "employer": "Comar, Loyal and Peri",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2025-10-30",
     "status": "verified",
     "wage_band": "15k-25k"
   },
   {
-    "candidate_id": "16507c4c-c266-43c6-88ee-f9c6786e4cb8",
-    "employer": "Agate-Chander",
-    "job_role": "General Duty Assistant",
+    "candidate_id": "5a6f72f7-b553-4927-acb1-1e4cd453e67a",
+    "employer": "Pillay, Sha and Sura",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-06-29",
+    "status": "unverified",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "dbbde16d-9e60-42dd-b6bc-707aad9e12bf",
+    "employer": "Ramaswamy, Suri and Dhar",
+    "job_role": "Plumber",
     "joining_date": "2024-10-21",
     "status": "self_reported",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "86801947-d9e1-4538-866e-3bc27c2ec9e6",
-    "employer": "Talwar LLC",
-    "job_role": "Logistics Associate",
+    "candidate_id": "548058b7-1196-4d53-bb3e-b727d2ce5289",
+    "employer": "Comar, Loyal and Peri",
+    "job_role": "Retail Sales Associate",
     "joining_date": "2026-08-26",
+    "status": "self_reported",
+    "wage_band": "60k+"
+  },
+  {
+    "candidate_id": "5ab14366-a921-4dcc-b854-f0a04a84ac6c",
+    "employer": "Talwar LLC",
+    "job_role": "Plumber",
+    "joining_date": "2025-01-19",
+    "status": "self_reported",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "5d8f0ece-fc6e-43a7-b725-06c74209717e",
+    "employer": "Panchal Ltd",
+    "job_role": "Customer Care Executive",
+    "joining_date": "2025-12-13",
+    "status": "self_reported",
+    "wage_band": "15k-25k"
+  },
+  {
+    "candidate_id": "eca205f9-2c29-4a6d-a6f1-3ff193be2740",
+    "employer": "Prakash Ltd",
+    "job_role": "Python Developer",
+    "joining_date": "2026-04-11",
+    "status": "verified",
+    "wage_band": "10k-15k"
+  },
+  {
+    "candidate_id": "301b3c7e-6fae-4183-81bf-83624fb0125d",
+    "employer": "Comar-Lala",
+    "job_role": "Logistics Associate",
+    "joining_date": "2024-11-03",
+    "status": "verified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "e6bc5d5c-bd99-49b3-9f71-01c74f5bf5bc",
+    "employer": "Sawhney, Suresh and Ganesh",
+    "job_role": "Retail Sales Associate",
+    "joining_date": "2026-05-09",
     "status": "unverified",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "fd964a30-ae77-46ba-a8b0-6dbcf35baf40",
-    "employer": "Ramaswamy, Suri and Dhar",
-    "job_role": "Retail Sales Associate",
-    "joining_date": "2025-01-19",
-    "status": "self_reported",
-    "wage_band": "25k-40k"
+    "candidate_id": "e7c4fa98-dc94-4c9b-8402-bbea6664cbf2",
+    "employer": "Pandey-Shankar",
+    "job_role": "Data Entry Operator",
+    "joining_date": "2026-04-11",
+    "status": "unverified",
+    "wage_band": "60k+"
   },
   {
-    "candidate_id": "24ff20ce-bf23-4c96-b2eb-dce24340ea9a",
-    "employer": "Malhotra Ltd",
-    "job_role": "Data Entry Operator",
-    "joining_date": "2025-12-13",
+    "candidate_id": "b0c0d526-3a63-4bf1-adcc-d1ac34d20109",
+    "employer": "Luthra, Sachdeva and Prashad",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2024-11-25",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "ac064e01-5538-45a1-8dfd-b837080f9b74",
-    "employer": "Vaidya Group",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2026-04-11",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "62185a95-ff26-464c-8693-6d38e549b3c5",
-    "employer": "Murty Group",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2024-11-03",
-    "status": "unverified",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "c3367de0-92d6-4a43-8abd-f9b44d6dfc9c",
-    "employer": "Pandey-Shankar",
+    "candidate_id": "7b5fe32a-600b-4c60-a358-2ccb0f69a305",
+    "employer": "Panchal, Walia and Mand",
     "job_role": "Electrician",
-    "joining_date": "2026-05-09",
-    "status": "self_reported",
+    "joining_date": "2026-07-17",
+    "status": "unverified",
     "wage_band": "10k-15k"
   },
   {
-    "candidate_id": "5dbe61fb-97c2-4e6b-bca7-a7d767a73826",
-    "employer": "Tandon, Vaidya and Chowdhury",
-    "job_role": "Field Technician",
-    "joining_date": "2026-04-11",
-    "status": "unverified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "ca20484e-3603-44a6-a676-4e747fe29314",
-    "employer": "Desai, Munshi and Dalal",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2024-11-25",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "a7e510ac-5410-48c5-9825-e3ce551109cb",
-    "employer": "Pall-Chahal",
-    "job_role": "Field Technician",
-    "joining_date": "2026-07-17",
-    "status": "verified",
-    "wage_band": "25k-40k"
-  },
-  {
-    "candidate_id": "e6909395-bd45-4423-a1e0-14d68b43dbeb",
-    "employer": "Panchal Ltd",
+    "candidate_id": "a34e3463-8ee2-4c27-bbae-11aaffd90d9b",
+    "employer": "Chaudry-Kota",
     "job_role": "Field Technician",
     "joining_date": "2024-10-04",
+    "status": "verified",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "fe206bdb-0c8b-4205-b4eb-06698c3b008e",
+    "employer": "Tandon, Vaidya and Chowdhury",
+    "job_role": "General Duty Assistant",
+    "joining_date": "2026-07-04",
+    "status": "self_reported",
+    "wage_band": "40k-60k"
+  },
+  {
+    "candidate_id": "c056f41f-bc2f-4bd2-8ec9-5e487b5389f4",
+    "employer": "Grewal-Sur",
+    "job_role": "Field Technician",
+    "joining_date": "2025-07-10",
     "status": "unverified",
     "wage_band": "25k-40k"
   },
   {
-    "candidate_id": "d3995fb1-64fe-419f-ae3f-fc3a790a812f",
-    "employer": "Panchal, Walia and Mand",
+    "candidate_id": "3e1ae546-1672-4eec-8eb2-7ace550a59d5",
+    "employer": "Chaudry-Kota",
     "job_role": "Data Entry Operator",
-    "joining_date": "2026-07-04",
-    "status": "unverified",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "62c6796f-2fa4-4e07-9e62-2887abfe872a",
-    "employer": "Suri, Wable and Munshi",
-    "job_role": "Customer Care Executive",
-    "joining_date": "2025-07-10",
-    "status": "self_reported",
-    "wage_band": "10k-15k"
-  },
-  {
-    "candidate_id": "7cfaa85c-78f6-467d-b672-14324bd37588",
-    "employer": "Suri, Wable and Munshi",
-    "job_role": "Customer Care Executive",
     "joining_date": "2026-02-08",
     "status": "verified",
+    "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "5c4a44e8-24e5-4ad1-bd6a-c7dc5e0c72a9",
+    "employer": "Borra-Chander",
+    "job_role": "Plumber",
+    "joining_date": "2025-08-25",
+    "status": "self_reported",
     "wage_band": "60k+"
   },
   {
-    "candidate_id": "b94393fa-2ea8-46c3-b360-b01a22d86258",
-    "employer": "Talwar LLC",
-    "job_role": "Field Technician",
-    "joining_date": "2025-08-25",
-    "status": "self_reported",
-    "wage_band": "15k-25k"
-  },
-  {
-    "candidate_id": "86b303ab-5c69-4504-9b71-f09f3d181a7e",
-    "employer": "Prakash Ltd",
-    "job_role": "Plumber",
+    "candidate_id": "ead03648-968f-446d-8c04-2815227d1e37",
+    "employer": "Comar, Loyal and Peri",
+    "job_role": "Python Developer",
     "joining_date": "2025-06-03",
     "status": "self_reported",
     "wage_band": "40k-60k"
   },
   {
-    "candidate_id": "ce1aa164-08b4-4f57-b724-982457492d52",
-    "employer": "Mody Inc",
-    "job_role": "Python Developer",
+    "candidate_id": "1b45faa0-ed38-4dbf-a09b-c42750de4558",
+    "employer": "Talwar LLC",
+    "job_role": "Data Entry Operator",
     "joining_date": "2025-07-05",
-    "status": "unverified",
-    "wage_band": "40k-60k"
-  },
-  {
-    "candidate_id": "bbce9d8b-0aad-4c07-b67e-db957326573a",
-    "employer": "Borra-Chander",
-    "job_role": "Field Technician",
-    "joining_date": "2025-05-13",
-    "status": "unverified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "fa7c0297-ccc0-45c6-833b-8fe1e0b6a29d",
-    "employer": "Yohannan, Ganguly and Naik",
-    "job_role": "General Duty Assistant",
-    "joining_date": "2026-06-22",
-    "status": "verified",
-    "wage_band": "60k+"
-  },
-  {
-    "candidate_id": "df39bcef-55a6-4c6c-83db-ec9a5513a72e",
-    "employer": "Tandon, Vaidya and Chowdhury",
-    "job_role": "Plumber",
-    "joining_date": "2025-03-17",
-    "status": "unverified",
+    "status": "self_reported",
     "wage_band": "25k-40k"
+  },
+  {
+    "candidate_id": "9342c70e-387d-4305-aa49-44bcdcccf7f5",
+    "employer": "Chandran, Deshmukh and Sabharwal",
+    "job_role": "Python Developer",
+    "joining_date": "2025-05-13",
+    "status": "verified",
+    "wage_band": "15k-25k"
   }
 ]

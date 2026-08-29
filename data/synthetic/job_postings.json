@@ -1,32 +1,20 @@
 [
   {
-    "employer": "Balasubramanian and Sons",
-    "district": "Palghar",
-    "skill_requirements": "Basic electrical repairs",
-    "openings": 19
+    "employer": "Shanker, Parmar and Bhatnagar",
+    "district": "Mumbai Suburban",
+    "skill_requirements": "electrician skills",
+    "openings": 13
   },
   {
-    "employer": "Prakash Ltd",
-    "district": "Parbhani",
-    "skill_requirements": "proficient in Python data stack",
-    "openings": 19
-  },
-  {
-    "employer": "Rao, Kamdar and Sanghvi",
-    "district": "Nanded",
-    "skill_requirements": "pandas and python scripting",
-    "openings": 4
-  },
-  {
-    "employer": "Yogi LLC",
+    "employer": "Chaudry-Kota",
     "district": "Latur",
-    "skill_requirements": "inbound customer support",
-    "openings": 12
+    "skill_requirements": "proficient in Python data stack",
+    "openings": 14
   },
   {
-    "employer": "Luthra, Sachdeva and Prashad",
+    "employer": "Rama, Ramanathan and Comar",
     "district": "Ahmednagar",
-    "skill_requirements": "data manipulation in Pandas",
+    "skill_requirements": "wiring and electrical troubleshooting",
     "openings": 8
   },
   {
@@ -598,5 +586,17 @@
     "district": "Mumbai City",
     "skill_requirements": "fixing leaks and pipes",
     "openings": 2
+  },
+  {
+    "employer": "Deo and Sons",
+    "district": "Gondia",
+    "skill_requirements": "entering data accurately",
+    "openings": 19
+  },
+  {
+    "employer": "Mani-Dey",
+    "district": "Palghar",
+    "skill_requirements": "stock keeping and retail",
+    "openings": 11
   }
 ]
