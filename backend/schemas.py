@@ -84,3 +84,14 @@ class EmploymentIngest(BaseModel):
     @classmethod
     def clean_joining_date(cls, v):
         return parse_date(v)
+
+class JobPostingIngest(BaseModel):
+    employer: str
+    district: str
+    skill_requirements: str
+    openings: Optional[int] = 1
+
+    @field_validator('employer', 'district', 'skill_requirements')
+    @classmethod
+    def clean_strings(cls, v: str) -> str:
+        return v.strip() if isinstance(v, str) else v

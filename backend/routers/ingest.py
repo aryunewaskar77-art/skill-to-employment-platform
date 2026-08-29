@@ -87,3 +87,33 @@ def ingest_employment(payload: List[dict], db: Session = Depends(get_db)):
         "rejected": rejected,
         "reasons": reasons
     }
+
+@router.post("/job-postings")
+def ingest_job_postings(payload: List[dict], db: Session = Depends(get_db)):
+    received = len(payload)
+    accepted = 0
+    rejected = 0
+    reasons = []
+    
+    valid_rows = []
+    
+    for row_idx, row in enumerate(payload, start=1):
+        try:
+            obj = schemas.JobPostingIngest(**row)
+            db_obj = models.StagingJobPosting(**obj.model_dump())
+            valid_rows.append(db_obj)
+            accepted += 1
+        except Exception as e:
+            rejected += 1
+            reasons.append({"row_index": row_idx, "reason": str(e)})
+            
+    if valid_rows:
+        db.add_all(valid_rows)
+        db.commit()
+        
+    return {
+        "received": received,
+        "accepted": accepted,
+        "rejected": rejected,
+        "reasons": reasons
+    }

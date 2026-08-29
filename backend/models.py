@@ -39,6 +39,15 @@ class StagingEmployment(Base):
     status = Column(String)
     wage_band = Column(String)
 
+class StagingJobPosting(Base):
+    __tablename__ = "staging_job_postings"
+    
+    id = Column(Integer, primary_key=True, index=True)
+    employer = Column(String)
+    district = Column(String)
+    skill_requirements = Column(String)
+    openings = Column(Integer)
+
 class MasterCandidate(Base):
     __tablename__ = "master_candidates"
     id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))

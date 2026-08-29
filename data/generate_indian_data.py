@@ -27,6 +27,18 @@ COURSES = [
     "General Duty Assistant", "Logistics Associate"
 ]
 
+NCO_MAPPING = {
+    "Data Entry Operator": ["4132.04", "4132.05"],
+    "Retail Sales Associate": ["5223.01", "5223.02"],
+    "Python Developer": ["2512.02", "2512.03"],
+    "Electrician": ["7411.01", "7411.02"],
+    "Plumber": ["7126.01", "7126.02"],
+    "Customer Care Executive": ["4222.01", "4222.02"],
+    "Field Technician": ["7412.01", "7412.02"],
+    "General Duty Assistant": ["5321.01", "5321.02"],
+    "Logistics Associate": ["4323.01", "4323.02"]
+}
+
 WAGE_BANDS = ["10k-15k", "15k-25k", "25k-40k", "40k-60k", "60k+"]
 EMPLOYMENT_STATUSES = ["verified", "self_reported", "unverified"]
 
@@ -123,7 +135,7 @@ def generate_datasets():
             certifications.append({
                 "candidate_id": c["candidate_id"],
                 "nsqf_level": random.randint(1, 10),
-                "occupation_code": f"{random.randint(1000, 9999)}.{random.randint(1, 99):02d}",
+                "occupation_code": random.choice(NCO_MAPPING[c["course"]]),
                 "issue_date": fake.date_between(start_date="-3y", end_date="today").strftime("%Y-%m-%d")
             })
     df_certs = pd.DataFrame(certifications)
