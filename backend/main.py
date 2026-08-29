@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from sqlalchemy import text
 from database import engine, settings
 import models
-from routers import ingest, resolution, candidates, skill_gap, predict
+from routers import ingest, resolution, candidates, skill_gap, predict, dashboard
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -21,13 +21,24 @@ async def lifespan(app: FastAPI):
     yield
     # Shutdown logic (if any) could go here
 
+from fastapi.middleware.cors import CORSMiddleware
+
 app = FastAPI(title="Skill-to-Employment Intelligence Platform API", lifespan=lifespan)
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 app.include_router(ingest.router)
 app.include_router(resolution.router)
 app.include_router(candidates.router)
 app.include_router(skill_gap.router)
 app.include_router(predict.router)
+app.include_router(dashboard.router)
 
 @app.get("/health")
 def healthcheck():

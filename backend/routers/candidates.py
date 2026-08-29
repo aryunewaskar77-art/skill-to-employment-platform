@@ -5,6 +5,34 @@ import models
 
 router = APIRouter(prefix="/candidates", tags=["candidates"])
 
+@router.get("/search")
+def search_candidates(q: str, db: Session = Depends(get_db)):
+    """
+    Search candidates by name using partial match.
+    """
+    if not q or len(q.strip()) < 2:
+        return []
+        
+    candidates = (
+        db.query(models.MasterCandidate)
+        .filter(models.MasterCandidate.name.ilike(f"%{q}%"))
+        .limit(10)
+        .all()
+    )
+    
+    results = []
+    for c in candidates:
+        # Mask phone to show only last 4 digits
+        phone_masked = f"...{c.phone[-4:]}" if c.phone and len(c.phone) >= 4 else c.phone
+        results.append({
+            "id": c.id,
+            "name": c.name,
+            "district": c.district,
+            "phone": phone_masked
+        })
+        
+    return results
+
 @router.get("/{uuid}/timeline")
 def get_candidate_timeline(uuid: str, db: Session = Depends(get_db)):
     """
