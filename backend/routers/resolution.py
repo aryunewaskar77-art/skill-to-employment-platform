@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from database import get_db
 import models
-from identity import resolve_identities
+from identity import resolve_identities, backfill_candidate_events
 from pydantic import BaseModel
 import uuid
 
@@ -13,6 +13,11 @@ def run_resolution(db: Session = Depends(get_db)):
     """Runs the identity resolution pipeline for all unresolved staging candidates."""
     results = resolve_identities(db)
     return results
+
+@router.post("/backfill-events")
+def backfill_events(db: Session = Depends(get_db)):
+    """Backfills candidate events based on staging data mapping."""
+    return backfill_candidate_events(db)
 
 @router.get("/review-queue")
 def get_review_queue(db: Session = Depends(get_db)):

@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Float, Date, JSON, Boolean, DateTime
+from sqlalchemy import Column, Integer, String, Float, Date, JSON, Boolean, DateTime, ForeignKey
 import uuid
 import datetime
 from database import Base
@@ -66,3 +66,23 @@ class IdentityDecision(Base):
     confidence_score = Column(Float)
     match_evidence = Column(JSON)
     created_at = Column(DateTime, default=datetime.datetime.utcnow)
+
+class CandidateEvent(Base):
+    __tablename__ = "candidate_events"
+    id = Column(Integer, primary_key=True, index=True)
+    candidate_id = Column(String, ForeignKey("master_candidates.id"), index=True)
+    event_type = Column(String, index=True) # enrolled, trained, certified, placed, verified_employed, retained_3m, etc.
+    event_date = Column(Date, nullable=True)
+    source_system = Column(String)
+    status = Column(String) # confidence or status
+    raw_payload = Column(JSON)
+    created_at = Column(DateTime, default=datetime.datetime.utcnow)
+
+class SourceRecord(Base):
+    __tablename__ = "source_records"
+    id = Column(Integer, primary_key=True, index=True)
+    candidate_id = Column(String, ForeignKey("master_candidates.id"), index=True)
+    source_table = Column(String) # e.g. "staging_candidates", "staging_certifications"
+    source_id = Column(String) # ID from the source system
+    raw_payload = Column(JSON)
+    ingested_at = Column(DateTime, default=datetime.datetime.utcnow)

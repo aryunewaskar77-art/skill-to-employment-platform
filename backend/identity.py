@@ -1,5 +1,5 @@
 from sqlalchemy.orm import Session
-from models import MasterCandidate, StagingCandidate, ReviewQueue, IdentityDecision
+from models import MasterCandidate, StagingCandidate, ReviewQueue, IdentityDecision, CandidateEvent, SourceRecord, StagingCertification, StagingEmployment
 import uuid
 from rapidfuzz import fuzz
 import jellyfish
@@ -127,3 +127,106 @@ def execute_decision(staging, master, decision_type, score, evidence, db):
         "master": master,
         "score": score
     }
+
+from collections import defaultdict
+
+def backfill_candidate_events(db: Session):
+    # Fetch all resolved staging candidates
+    staging_candidates = db.query(StagingCandidate).filter(StagingCandidate.resolved == True).all()
+    
+    events = []
+    sources = []
+    
+    # Group staging candidates by master_id
+    master_map = defaultdict(list)
+    for sc in staging_candidates:
+        if sc.master_id:
+            master_map[sc.master_id].append(sc)
+            
+    for master_id, sc_list in master_map.items():
+        # Metric for completeness: number of non-null fields
+        def completeness_score(sc):
+            score = 0
+            if sc.course: score += 1
+            if sc.batch_id: score += 1
+            if sc.attendance_pct is not None: score += 1
+            if sc.assessment_score is not None: score += 1
+            return score
+            
+        best_sc = max(sc_list, key=completeness_score)
+        
+        # 1. Source Records for all Staging Candidates belonging to this master
+        for sc in sc_list:
+            sources.append(SourceRecord(
+                candidate_id=master_id,
+                source_table="staging_candidates",
+                source_id=str(sc.id),
+                raw_payload={"name": sc.name, "phone": sc.phone, "dob": str(sc.dob), "course": sc.course}
+            ))
+            
+        # 2. Single Enrolled Event per MasterCandidate
+        events.append(CandidateEvent(
+            candidate_id=master_id,
+            event_type="enrolled",
+            event_date=None,
+            source_system="staging_candidates",
+            status="confirmed",
+            raw_payload={"course": best_sc.course, "batch_id": best_sc.batch_id}
+        ))
+        
+        # 3. Single Trained Event per MasterCandidate
+        events.append(CandidateEvent(
+            candidate_id=master_id,
+            event_type="trained",
+            event_date=None,
+            source_system="staging_candidates",
+            status="completed" if best_sc.attendance_pct and best_sc.attendance_pct >= 70 else "incomplete",
+            raw_payload={"attendance_pct": best_sc.attendance_pct, "assessment_score": best_sc.assessment_score}
+        ))
+        
+        # 4. Certifications & Employment for all candidate_ids mapped to this master
+        candidate_ids = [sc.candidate_id for sc in sc_list]
+        
+        # Fetch certifications
+        certs = db.query(StagingCertification).filter(StagingCertification.candidate_id.in_(candidate_ids)).all()
+        for cert in certs:
+            sources.append(SourceRecord(
+                candidate_id=master_id,
+                source_table="staging_certifications",
+                source_id=str(cert.id),
+                raw_payload={"nsqf_level": cert.nsqf_level, "occupation_code": cert.occupation_code}
+            ))
+            events.append(CandidateEvent(
+                candidate_id=master_id,
+                event_type="certified",
+                event_date=cert.issue_date,
+                source_system="staging_certifications",
+                status="certified",
+                raw_payload={"nsqf_level": cert.nsqf_level, "occupation_code": cert.occupation_code}
+            ))
+            
+        # Fetch employment
+        employments = db.query(StagingEmployment).filter(StagingEmployment.candidate_id.in_(candidate_ids)).all()
+        for emp in employments:
+            sources.append(SourceRecord(
+                candidate_id=master_id,
+                source_table="staging_employment",
+                source_id=str(emp.id),
+                raw_payload={"employer": emp.employer, "job_role": emp.job_role, "status": emp.status}
+            ))
+            
+            event_type = "verified_employed" if emp.status == "verified" else "placed"
+            events.append(CandidateEvent(
+                candidate_id=master_id,
+                event_type=event_type,
+                event_date=emp.joining_date,
+                source_system="staging_employment",
+                status=emp.status,
+                raw_payload={"employer": emp.employer, "job_role": emp.job_role, "wage_band": emp.wage_band}
+            ))
+            
+    db.add_all(events)
+    db.add_all(sources)
+    db.commit()
+    
+    return {"events_created": len(events), "sources_created": len(sources)}
