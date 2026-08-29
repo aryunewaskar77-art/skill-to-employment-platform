@@ -9,3 +9,6 @@ This project is a comprehensive Skill-to-Employment Intelligence Platform protot
 - **Advanced Search**: Utilizes PostgreSQL with the `pgvector` extension for efficient vector-based similarity searches.
 - **Synthetic Data Generation**: Includes specialized scripts to generate realistic synthetic data for thorough testing and simulation.
 - **Containerized Infrastructure**: Fully Dockerized setup (using Docker Compose) for seamless local deployment and scaling.
+
+
+<img width="1461" height="813" alt="Screenshot 2026-08-29 at 3 39 05 PM" src="https://github.com/user-attachments/assets/6ab1b450-ceb5-4373-a658-0cfe819b23d4" />
