@@ -6,7 +6,7 @@ import {
 } from 'recharts';
 import { 
     Briefcase, Award, TrendingUp, AlertCircle, Building2, Lightbulb, 
-    CheckCircle, Wallet, ShieldAlert, Banknote, ShieldCheck
+    CheckCircle, Wallet, ShieldAlert, Banknote, ShieldCheck, BookOpen
 } from 'lucide-react';
 
 const API_BASE = 'http://localhost:8000';
@@ -208,6 +208,123 @@ export default function SchemesPage() {
                                 </BarChart>
                             </ResponsiveContainer>
                         </div>
+                    </div>
+                </div>
+
+                {/* Curriculum vs. Market Alignment Auditor */}
+                <div className="bg-white rounded-xl shadow-sm border border-slate-200 mb-8 overflow-hidden">
+                    <div className="p-5 border-b border-slate-100 flex flex-col md:flex-row md:items-center justify-between gap-4">
+                        <div>
+                            <h3 className="font-bold text-slate-800 flex items-center gap-2">
+                                <BookOpen className="w-5 h-5 text-indigo-600" />
+                                Curriculum vs. Market Alignment Index
+                            </h3>
+                            <p className="text-xs text-slate-500 mt-1">Real-time mapping of top skilling trades against regional industrial demand</p>
+                        </div>
+                        <button className="shrink-0 bg-red-50 text-red-700 hover:bg-red-100 border border-red-200 text-xs font-bold py-2 px-4 rounded-lg transition-colors flex items-center justify-center gap-2 shadow-sm">
+                            <AlertCircle className="w-4 h-4" />
+                            Trigger Curriculum Modernization Order
+                        </button>
+                    </div>
+                    
+                    <div className="overflow-x-auto">
+                        <table className="w-full text-left text-sm">
+                            <thead className="bg-slate-50 text-slate-500 text-xs uppercase font-semibold">
+                                <tr>
+                                    <th className="px-5 py-3">Skilling Trade / Course</th>
+                                    <th className="px-5 py-3">Course-to-Demand Match</th>
+                                    <th className="px-5 py-3">Cost per Retained Outcome</th>
+                                    <th className="px-5 py-3 text-right">Syllabus Relevance Status</th>
+                                </tr>
+                            </thead>
+                            <tbody className="divide-y divide-slate-100 text-slate-700 font-medium">
+                                <tr className="hover:bg-slate-50 transition-colors">
+                                    <td className="px-5 py-4">Solar PV Installation</td>
+                                    <td className="px-5 py-4">
+                                        <div className="flex items-center gap-2">
+                                            <div className="w-full bg-slate-200 rounded-full h-1.5 max-w-[100px]">
+                                                <div className="bg-emerald-500 h-1.5 rounded-full" style={{ width: '92%' }}></div>
+                                            </div>
+                                            <span className="text-emerald-600 font-bold">92%</span>
+                                        </div>
+                                    </td>
+                                    <td className="px-5 py-4">₹14,500</td>
+                                    <td className="px-5 py-4 text-right">
+                                        <span className="inline-flex items-center gap-1 bg-emerald-50 text-emerald-700 border border-emerald-200 text-[10px] uppercase font-bold px-2 py-1 rounded">
+                                            <CheckCircle className="w-3 h-3" /> Curriculum Up to Date
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr className="hover:bg-slate-50 transition-colors">
+                                    <td className="px-5 py-4">CNC Machining &amp; Programming</td>
+                                    <td className="px-5 py-4">
+                                        <div className="flex items-center gap-2">
+                                            <div className="w-full bg-slate-200 rounded-full h-1.5 max-w-[100px]">
+                                                <div className="bg-emerald-500 h-1.5 rounded-full" style={{ width: '88%' }}></div>
+                                            </div>
+                                            <span className="text-emerald-600 font-bold">88%</span>
+                                        </div>
+                                    </td>
+                                    <td className="px-5 py-4">₹18,200</td>
+                                    <td className="px-5 py-4 text-right">
+                                        <span className="inline-flex items-center gap-1 bg-emerald-50 text-emerald-700 border border-emerald-200 text-[10px] uppercase font-bold px-2 py-1 rounded">
+                                            <CheckCircle className="w-3 h-3" /> Curriculum Up to Date
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr className="hover:bg-slate-50 transition-colors">
+                                    <td className="px-5 py-4">Healthcare General Duty Assistant</td>
+                                    <td className="px-5 py-4">
+                                        <div className="flex items-center gap-2">
+                                            <div className="w-full bg-slate-200 rounded-full h-1.5 max-w-[100px]">
+                                                <div className="bg-amber-500 h-1.5 rounded-full" style={{ width: '75%' }}></div>
+                                            </div>
+                                            <span className="text-amber-600 font-bold">75%</span>
+                                        </div>
+                                    </td>
+                                    <td className="px-5 py-4">₹22,100</td>
+                                    <td className="px-5 py-4 text-right">
+                                        <span className="inline-flex items-center gap-1 bg-emerald-50 text-emerald-700 border border-emerald-200 text-[10px] uppercase font-bold px-2 py-1 rounded">
+                                            <CheckCircle className="w-3 h-3" /> Curriculum Up to Date
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr className="hover:bg-slate-50 transition-colors bg-red-50/20">
+                                    <td className="px-5 py-4">Data Entry &amp; BPO Operations</td>
+                                    <td className="px-5 py-4">
+                                        <div className="flex items-center gap-2">
+                                            <div className="w-full bg-slate-200 rounded-full h-1.5 max-w-[100px]">
+                                                <div className="bg-red-500 h-1.5 rounded-full" style={{ width: '34%' }}></div>
+                                            </div>
+                                            <span className="text-red-600 font-bold">34%</span>
+                                        </div>
+                                    </td>
+                                    <td className="px-5 py-4 text-red-600 font-bold">₹42,800</td>
+                                    <td className="px-5 py-4 text-right">
+                                        <span className="inline-flex items-center gap-1 bg-red-50 text-red-700 border border-red-200 text-[10px] uppercase font-bold px-2 py-1 rounded">
+                                            <ShieldAlert className="w-3 h-3" /> Obsolete Curriculum — Audit Required
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr className="hover:bg-slate-50 transition-colors bg-red-50/20">
+                                    <td className="px-5 py-4">Traditional Retail Sales</td>
+                                    <td className="px-5 py-4">
+                                        <div className="flex items-center gap-2">
+                                            <div className="w-full bg-slate-200 rounded-full h-1.5 max-w-[100px]">
+                                                <div className="bg-red-500 h-1.5 rounded-full" style={{ width: '28%' }}></div>
+                                            </div>
+                                            <span className="text-red-600 font-bold">28%</span>
+                                        </div>
+                                    </td>
+                                    <td className="px-5 py-4 text-red-600 font-bold">₹45,200</td>
+                                    <td className="px-5 py-4 text-right">
+                                        <span className="inline-flex items-center gap-1 bg-red-50 text-red-700 border border-red-200 text-[10px] uppercase font-bold px-2 py-1 rounded">
+                                            <ShieldAlert className="w-3 h-3" /> Obsolete Curriculum — Audit Required
+                                        </span>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </div>
 

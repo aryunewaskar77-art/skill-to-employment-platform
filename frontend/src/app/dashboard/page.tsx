@@ -9,6 +9,7 @@ import SkillsDirectoryTab from '@/components/SkillsDirectoryTab';
 import StateOverviewTab from '@/components/StateOverviewTab';
 import SkillMiniNav from '@/components/SkillMiniNav';
 import PropensitySimulator from '@/components/PropensitySimulator';
+import CandidateCareerPath from '@/components/CandidateCareerPath';
 import { Calendar, Users, Briefcase, TrendingUp, TrendingDown, ArrowRight, Activity, Search, ShieldCheck, PlayCircle } from 'lucide-react';
 import MetricTooltip from '@/components/MetricTooltip';
 
@@ -288,10 +289,15 @@ function DashboardContent() {
                   </div>
                 )}
               </div>
-              <div className="lg:col-span-1">
+              <div className="lg:col-span-1 flex flex-col gap-6">
                 <PropensitySimulator 
                   initialDistrict={timeline?.candidate?.district} 
                   initialCourse={timeline?.candidate?.course} 
+                />
+                
+                <CandidateCareerPath 
+                  candidateName={timeline?.candidate?.name} 
+                  course={timeline?.candidate?.course} 
                 />
               </div>
             </div>

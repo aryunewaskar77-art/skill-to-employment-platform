@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import { Compass, TrendingUp, Users, ShieldCheck, Map, ArrowRight } from "lucide-react";
 
 const API_BASE = "http://localhost:8000";
 
@@ -9,7 +10,7 @@ export default function LandingPage() {
   const [summary, setSummary] = useState<any>(null);
 
   useEffect(() => {
-    fetch(`${API_BASE}/dashboard/state-summary`)
+    fetch(`${API_BASE}/dashboard/state-summary`, { cache: 'no-store' })
       .then((res) => res.json())
       .then((data) => setSummary(data))
       .catch((err) => console.error("Error fetching summary:", err));
@@ -492,7 +493,7 @@ export default function LandingPage() {
 
                 <div className="flex-1">
                   <div className="text-6xl font-black mb-3 text-white">
-                    {summary.enrolled || 0}
+                    {summary.enrolled ? summary.enrolled.toLocaleString() : 0}
                   </div>
 
                   <div className="text-teal-200 font-medium tracking-wider uppercase text-sm">
@@ -504,7 +505,7 @@ export default function LandingPage() {
 
                 <div className="flex-1">
                   <div className="text-6xl font-black mb-3 text-white">
-                    {summary.certified || 0}
+                    {summary.certified ? summary.certified.toLocaleString() : 0}
                   </div>
 
                   <div className="text-teal-200 font-medium tracking-wider uppercase text-sm">
@@ -515,8 +516,9 @@ export default function LandingPage() {
                 <div className="hidden md:block w-px h-24 bg-gradient-to-b from-transparent via-teal-500/50 to-transparent" />
 
                 <div className="flex-1">
-                  <div className="text-6xl font-black mb-3 text-emerald-400">
-                    {summary.verified_employed || 0}
+                  <div className="text-6xl font-black mb-3 text-white flex items-center justify-center gap-3">
+                    <ShieldCheck className="w-12 h-12 text-teal-400" />
+                    {summary.verified_employed ? summary.verified_employed.toLocaleString() : 0}
                   </div>
 
                   <div className="text-emerald-100 font-bold tracking-wider uppercase text-sm">

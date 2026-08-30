@@ -58,17 +58,29 @@ def get_district_skill_gaps(db: Session = Depends(get_db)):
         gap_score = max(0, demand - supply)
         mismatch_ratio = round(demand / supply, 2)
 
+        severity_enum = "HIGH" if mismatch_ratio > 2.0 else ("MODERATE" if mismatch_ratio > 1.2 else "BALANCED")
+        
+        top_skill = "CNC Machine Operator"
+        
+        if severity_enum == "HIGH":
+            action_hint = f"Reallocate unutilized budget from PMKVY retail to CMYWTS {top_skill} track."
+        elif severity_enum == "MODERATE":
+            action_hint = f"Expand local ITI capacity for {top_skill} by 15%."
+        else:
+            action_hint = "Maintain current pipeline; no emergency intervention needed."
+
         results.append({
             "district_name": district,
             "supply_count": supply,
             "demand_count": demand,
             "gap_score": gap_score,
             "mismatch_ratio": mismatch_ratio,
-            "severity_level": "HIGH" if mismatch_ratio > 2.0 else ("MODERATE" if mismatch_ratio > 1.2 else "BALANCED"),
+            "severity_level": severity_enum,
             "top_missing_skills": [
                 {"skill": "CNC Machine Operator", "deficit": max(5, int(gap_score // 2)), "nco_code": "7223.01"},
                 {"skill": "Electrician", "deficit": max(3, int(gap_score // 3)), "nco_code": "7411.01"}
-            ]
+            ],
+            "policy_action_hint": action_hint
         })
 
     return results

@@ -165,15 +165,49 @@ def seed_job_postings(db):
 
 
 def run_identity_resolution(db):
-    """Lightweight in-script resolution: links golden candidates to master records."""
+    """Lightweight in-script resolution: links golden candidates to master records and queues ambiguous ones."""
     print("Running identity resolution pass...")
     unresolved = db.query(models.StagingCandidate).filter(models.StagingCandidate.resolved == False).all()
     created = 0
+    queued = 0
+    
     for sc in unresolved:
-        # Try to find matching master by phone + name
+        # Intercept the intentionally ambiguous secondary candidates
+        if "AMB2" in sc.candidate_id:
+            # Find the primary ambiguous candidate's master record (AMB1)
+            primary_sc = db.query(models.StagingCandidate).filter(
+                models.StagingCandidate.candidate_id == sc.candidate_id.replace("AMB2", "AMB1")
+            ).first()
+            
+            if primary_sc and primary_sc.master_id:
+                # Calculate a mock confidence score between 0.65 and 0.82
+                idx = int(sc.candidate_id.split("-")[-1])
+                confidence = 0.65 + (idx * 0.02)
+                if confidence > 0.82: confidence = 0.82
+                
+                rq = models.ReviewQueue(
+                    staging_id=sc.id,
+                    proposed_master_id=primary_sc.master_id,
+                    confidence_score=confidence,
+                    status="NEEDS_HUMAN_REVIEW",
+                    match_evidence={
+                        "name_similarity": 0.78,
+                        "dob_exact_match": True,
+                        "district_match": True,
+                        "course_similarity": 0.85,
+                        "discrepancy_reason": "Typo in candidate name or minor mobile variation"
+                    }
+                )
+                db.add(rq)
+                queued += 1
+                # Ensure it stays unresolved
+                continue
+
+        # Try to find matching master by phone + name for others
         existing = db.query(models.MasterCandidate).filter(
             models.MasterCandidate.phone == sc.phone
         ).first()
+        
         if existing:
             sc.resolved = True
             sc.master_id = existing.id
@@ -187,8 +221,9 @@ def run_identity_resolution(db):
             sc.resolved = True
             sc.master_id = m.id
             created += 1
+            
     db.commit()
-    print(f"  Resolution done: {created} new master records created.")
+    print(f"  Resolution done: {created} new master records created, {queued} queued for human review.")
 
 
 def run_event_backfill(db):
