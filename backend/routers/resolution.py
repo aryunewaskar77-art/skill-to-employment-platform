@@ -2,16 +2,39 @@ from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from database import get_db
 import models
-from identity import resolve_identities, backfill_candidate_events
+from identity import backfill_candidate_events
 from pydantic import BaseModel
 import uuid
 
 router = APIRouter(prefix="/api/v1/identity", tags=["identity"])
 
+def _resolve_identities(db: Session) -> dict:
+    """Inline identity resolution: phone-match → auto-link, else create new master."""
+    unresolved = db.query(models.StagingCandidate).filter(
+        models.StagingCandidate.resolved == False
+    ).all()
+    results = {"auto-link": 0, "auto-new": 0, "review-queue": 0}
+    for sc in unresolved:
+        existing = db.query(models.MasterCandidate).filter(
+            models.MasterCandidate.phone == sc.phone
+        ).first() if sc.phone else None
+        if existing:
+            sc.resolved = True; sc.master_id = existing.id
+            results["auto-link"] += 1
+        else:
+            m = models.MasterCandidate(
+                id=str(uuid.uuid4()), name=sc.name, dob=sc.dob,
+                phone=sc.phone, district=sc.district, course=sc.course
+            )
+            db.add(m); sc.resolved = True; sc.master_id = m.id
+            results["auto-new"] += 1
+    db.commit()
+    return results
+
 @router.post("/run")
 def run_resolution(db: Session = Depends(get_db)):
     """Runs the identity resolution pipeline for all unresolved staging candidates."""
-    results = resolve_identities(db)
+    results = _resolve_identities(db)
     return results
 
 @router.post("/backfill-events")

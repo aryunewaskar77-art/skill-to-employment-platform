@@ -12,6 +12,21 @@ interface MapComponentProps {
     onDistrictHover: (districtName: string | null) => void;
 }
 
+const geojsonNameToApiName: Record<string, string> = {
+    'Ahmadnagar': 'Ahmednagar',
+    'Bid': 'Beed',
+    'Buldana': 'Buldhana',
+    'Garhchiroli': 'Gadchiroli',
+    'Gondiya': 'Gondia',
+    'Mumbai': 'Mumbai City',
+    'Raigarh': 'Raigad'
+};
+
+function normalizeDistrictName(rawName: string | undefined): string {
+    if (!rawName) return '';
+    return geojsonNameToApiName[rawName] || rawName;
+}
+
 // Inner component to handle flyTo sync
 function MapController({ selectedDistrictId, districtsData }: { selectedDistrictId: string | null, districtsData: any[] }) {
     const map = useMap();
@@ -46,7 +61,8 @@ export default function MapComponent({
     useEffect(() => {
         if (geoJsonRef.current) {
             geoJsonRef.current.eachLayer((layer: any) => {
-                const districtName = layer.feature.properties.dtname || layer.feature.properties.NAME_2 || layer.feature.properties.name || layer.feature.properties.district;
+                const rawName = layer.feature.properties.dtname || layer.feature.properties.NAME_2 || layer.feature.properties.name || layer.feature.properties.district;
+                const districtName = normalizeDistrictName(rawName);
                 
                 let isSelected = selectedDistrictId === districtName;
                 let isHovered = hoveredDistrictId === districtName;
@@ -80,9 +96,10 @@ export default function MapComponent({
     };
 
     const getDistrictStyle = (feature: any) => {
-        const districtName = feature.properties.dtname || feature.properties.NAME_2 || feature.properties.name || feature.properties.district;
+        const rawName = feature.properties.dtname || feature.properties.NAME_2 || feature.properties.name || feature.properties.district;
+        const districtName = normalizeDistrictName(rawName);
         const match = districtsData.find(d => 
-            d.district_name.toLowerCase() === (districtName || '').toLowerCase()
+            d.district_name.toLowerCase() === districtName.toLowerCase()
         );
 
         if (match) {
@@ -107,7 +124,8 @@ export default function MapComponent({
     };
 
     const onEachFeature = (feature: any, layer: any) => {
-        const districtName = feature.properties.dtname || feature.properties.NAME_2 || feature.properties.name || feature.properties.district;
+        const rawName = feature.properties.dtname || feature.properties.NAME_2 || feature.properties.name || feature.properties.district;
+        const districtName = normalizeDistrictName(rawName);
         
         layer.on({
             mouseover: () => onDistrictHover(districtName),
@@ -116,7 +134,7 @@ export default function MapComponent({
         });
         
         // Add tooltip
-        const match = districtsData.find(d => d.district_name.toLowerCase() === (districtName || '').toLowerCase());
+        const match = districtsData.find(d => d.district_name.toLowerCase() === districtName.toLowerCase());
         if (match) {
             layer.bindTooltip(`<b>${match.district_name}</b><br>Gap Score: ${match.gap_score}<br>Severity: ${match.severity_level}`, { sticky: true });
         } else {

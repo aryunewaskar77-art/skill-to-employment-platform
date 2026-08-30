@@ -1,11 +1,13 @@
 import pandas as pd
+import uuid as _uuid
 from fastapi import APIRouter, UploadFile, File, Depends, HTTPException
 from sqlalchemy.orm import Session
 from io import BytesIO
+from datetime import timedelta, date
 
 from database import get_db
 import models
-from identity import resolve_identities, backfill_candidate_events
+from identity import backfill_candidate_events
 
 router = APIRouter(prefix="/api/v1/ingest", tags=["ingest"])
 
@@ -17,18 +19,48 @@ def parse_file(file: UploadFile):
         df = pd.read_json(BytesIO(content))
     else:
         raise HTTPException(status_code=400, detail="Only CSV or JSON files are allowed")
-    
+
     # replace nan with None
     df = df.replace({pd.NA: None, float('nan'): None})
     return df.to_dict(orient="records")
 
+def _resolve_identities(db: Session) -> dict:
+    """Lightweight inline identity resolution: phone-match → auto-link, else auto-new."""
+    unresolved = db.query(models.StagingCandidate).filter(
+        models.StagingCandidate.resolved == False
+    ).all()
+    results = {"auto-link": 0, "auto-new": 0, "review-queue": 0}
+
+    for sc in unresolved:
+        existing_master = None
+        if sc.phone:
+            existing_master = db.query(models.MasterCandidate).filter(
+                models.MasterCandidate.phone == sc.phone
+            ).first()
+
+        if existing_master:
+            sc.resolved = True
+            sc.master_id = existing_master.id
+            results["auto-link"] += 1
+        else:
+            new_master = models.MasterCandidate(
+                id=str(_uuid.uuid4()),
+                name=sc.name, dob=sc.dob,
+                phone=sc.phone, district=sc.district, course=sc.course
+            )
+            db.add(new_master)
+            sc.resolved = True
+            sc.master_id = new_master.id
+            results["auto-new"] += 1
+
+    db.commit()
+    return results
+
 def trigger_pipeline(db: Session, records_ingested: int):
-    # Trigger Identity Resolution (matches StagingCandidate records)
-    id_results = resolve_identities(db)
-    
-    # Trigger Event Backfill
+    """Run lightweight identity resolution then event backfill after each ingest."""
+    id_results = _resolve_identities(db)
     backfill_candidate_events(db)
-    
+
     return {
         "status": "success",
         "records_ingested": records_ingested,

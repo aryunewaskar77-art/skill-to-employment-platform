@@ -15,11 +15,7 @@ export default function Footer() {
                         </p>
                     </div>
 
-                    <div className="flex flex-wrap justify-center items-center gap-6 text-xs font-medium">
-                        <a href="#" className="hover:text-emerald-400 transition-colors">Data Governance Policy</a>
-                        <a href="/docs" className="hover:text-emerald-400 transition-colors">Interoperability API Docs</a>
-                        <a href="#" className="hover:text-emerald-400 transition-colors">Security Specifications</a>
-                    </div>
+
                     
                 </div>
             </div>
