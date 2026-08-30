@@ -33,7 +33,7 @@ This repository is a monorepo for the hackathon prototype.
 
    Make sure the `.env` file exists at the root of the project with the `DATABASE_URL`:
    ```env
-   DATABASE_URL="<YOUR_DATABASE_URL>"
+   DATABASE_URL="postgresql://localhost:5432/sih_platform"
    ```
 
    *(Note: If you run the backend inside Docker via `docker-compose`, change `localhost` to `host.docker.internal` in the `.env` file so the container can reach your Mac's local database).*

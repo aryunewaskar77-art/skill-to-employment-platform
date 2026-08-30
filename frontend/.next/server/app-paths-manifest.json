@@ -1,6 +1,0 @@
-{
-  "/policy/page": "app/policy/page.js",
-  "/review-queue/page": "app/review-queue/page.js",
-  "/data-observatory/page": "app/data-observatory/page.js",
-  "/dashboard/page": "app/dashboard/page.js"
-}
