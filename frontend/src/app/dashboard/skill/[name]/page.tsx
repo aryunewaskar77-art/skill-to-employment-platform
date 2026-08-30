@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+import SkillMiniNav from '@/components/SkillMiniNav';
 
 const API_BASE = 'http://localhost:8000';
 
@@ -43,10 +44,13 @@ export default function SkillDetail() {
   );
 
   return (
-    <div className="min-h-screen bg-gray-50 text-gray-900 font-sans p-8">
-      <div className="max-w-6xl mx-auto">
-        <Link href="/dashboard?tab=skillgap" className="inline-flex items-center text-teal-600 hover:text-teal-800 font-medium mb-6">
-          &larr; Back to Skill Gap Analysis
+    <div className="min-h-screen bg-gray-50 text-gray-900 font-sans pb-16">
+      <div className="px-4 pt-4 bg-white border-b border-slate-200 sticky top-0 z-10 shadow-sm">
+        <SkillMiniNav />
+      </div>
+      <div className="max-w-6xl mx-auto p-8">
+        <Link href="/dashboard?tab=skills" className="inline-flex items-center text-teal-600 hover:text-teal-800 font-medium mb-6 mt-2">
+          &larr; Back to Skills Directory
         </Link>
         
         <h1 className="text-3xl font-extrabold text-gray-800 mb-2">Skill Insights: <span className="text-teal-700">{skillName}</span></h1>

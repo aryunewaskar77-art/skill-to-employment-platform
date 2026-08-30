@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from sqlalchemy import text
 from database import engine, settings
 import models
-from routers import ingest, resolution, candidates, skill_gap, predict, dashboard
+from routers import ingest, resolution, candidates, skill_gap, predict, dashboard, analytics, predictions
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -39,6 +39,13 @@ app.include_router(candidates.router)
 app.include_router(skill_gap.router)
 app.include_router(predict.router)
 app.include_router(dashboard.router)
+app.include_router(analytics.router)
+app.include_router(predictions.router)
+
+from routers import policy, schemes, macro_analytics
+app.include_router(policy.router)
+app.include_router(schemes.router)
+app.include_router(macro_analytics.router)
 
 @app.get("/health")
 def healthcheck():

@@ -1,119 +1,113 @@
-import csv
-from io import StringIO
+import pandas as pd
 from fastapi import APIRouter, UploadFile, File, Depends, HTTPException
 from sqlalchemy.orm import Session
-from typing import List
+from io import BytesIO
 
 from database import get_db
-import models, schemas
+import models
+from identity import resolve_identities, backfill_candidate_events
 
-router = APIRouter(prefix="/ingest", tags=["ingest"])
+router = APIRouter(prefix="/api/v1/ingest", tags=["ingest"])
 
-def process_csv(file: UploadFile, schema_class, db_model_class, db: Session):
-    content = file.file.read().decode("utf-8")
-    reader = csv.DictReader(StringIO(content))
+def parse_file(file: UploadFile):
+    content = file.file.read()
+    if file.filename.endswith('.csv'):
+        df = pd.read_csv(BytesIO(content))
+    elif file.filename.endswith('.json'):
+        df = pd.read_json(BytesIO(content))
+    else:
+        raise HTTPException(status_code=400, detail="Only CSV or JSON files are allowed")
     
-    received = 0
-    accepted = 0
-    rejected = 0
-    reasons = []
+    # replace nan with None
+    df = df.replace({pd.NA: None, float('nan'): None})
+    return df.to_dict(orient="records")
+
+def trigger_pipeline(db: Session, records_ingested: int):
+    # Trigger Identity Resolution (matches StagingCandidate records)
+    id_results = resolve_identities(db)
     
+    # Trigger Event Backfill
+    backfill_candidate_events(db)
+    
+    return {
+        "status": "success",
+        "records_ingested": records_ingested,
+        "auto_linked_count": id_results.get("auto-link", 0),
+        "review_queue_count": id_results.get("review-queue", 0),
+        "new_candidates_created": id_results.get("auto-new", 0)
+    }
+
+@router.post("/training")
+def ingest_training(file: UploadFile = File(...), db: Session = Depends(get_db)):
+    records = parse_file(file)
     valid_rows = []
     
-    for row_idx, row in enumerate(reader, start=2): # 1 is header
-        received += 1
-        try:
-            # Clean empty strings to None
-            cleaned_row = {k: (v if v.strip() != "" else None) for k, v in row.items()}
-            # Validate and normalize
-            obj = schema_class(**cleaned_row)
-            # Create DB model
-            db_obj = db_model_class(**obj.model_dump())
-            valid_rows.append(db_obj)
-            accepted += 1
-        except Exception as e:
-            rejected += 1
-            reasons.append({"row_index": row_idx, "reason": str(e)})
-            
+    for row in records:
+        dob_val = row.get('dob')
+        dob_parsed = pd.to_datetime(dob_val).date() if pd.notnull(dob_val) and dob_val else None
+        
+        db_obj = models.StagingCandidate(
+            candidate_id=str(row.get('candidate_id', '')),
+            name=str(row.get('name', '')) if row.get('name') else None,
+            dob=dob_parsed,
+            phone=str(row.get('phone', '')) if row.get('phone') else None,
+            district=str(row.get('district', '')) if row.get('district') else None,
+            course=str(row.get('course', '')) if row.get('course') else None,
+            attendance_pct=float(row.get('attendance')) if row.get('attendance') is not None else None,
+            resolved=False
+        )
+        valid_rows.append(db_obj)
+        
     if valid_rows:
         db.add_all(valid_rows)
         db.commit()
         
-    return {
-        "received": received,
-        "accepted": accepted,
-        "rejected": rejected,
-        "reasons": reasons
-    }
+    return trigger_pipeline(db, len(valid_rows))
 
-@router.post("/candidates")
-def ingest_candidates(file: UploadFile = File(...), db: Session = Depends(get_db)):
-    if not file.filename.endswith('.csv'):
-        raise HTTPException(status_code=400, detail="Only CSV files are allowed")
-    return process_csv(file, schemas.CandidateIngest, models.StagingCandidate, db)
-
-@router.post("/certifications")
-def ingest_certifications(file: UploadFile = File(...), db: Session = Depends(get_db)):
-    if not file.filename.endswith('.csv'):
-        raise HTTPException(status_code=400, detail="Only CSV files are allowed")
-    return process_csv(file, schemas.CertificationIngest, models.StagingCertification, db)
+@router.post("/certification")
+def ingest_certification(file: UploadFile = File(...), db: Session = Depends(get_db)):
+    records = parse_file(file)
+    valid_rows = []
+    
+    for row in records:
+        issue_val = row.get('issue_date')
+        issue_parsed = pd.to_datetime(issue_val).date() if pd.notnull(issue_val) and issue_val else None
+        
+        db_obj = models.StagingCertification(
+            candidate_id=str(row.get('candidate_id', '')),
+            nsqf_level=int(row.get('nsqf_level', 0)) if row.get('nsqf_level') else None,
+            occupation_code=str(row.get('certificate_number', '')) if row.get('certificate_number') else None,
+            issue_date=issue_parsed
+        )
+        valid_rows.append(db_obj)
+        
+    if valid_rows:
+        db.add_all(valid_rows)
+        db.commit()
+        
+    return trigger_pipeline(db, len(valid_rows))
 
 @router.post("/employment")
-def ingest_employment(payload: List[dict], db: Session = Depends(get_db)):
-    received = len(payload)
-    accepted = 0
-    rejected = 0
-    reasons = []
-    
+def ingest_employment(file: UploadFile = File(...), db: Session = Depends(get_db)):
+    records = parse_file(file)
     valid_rows = []
     
-    for row_idx, row in enumerate(payload, start=1):
-        try:
-            obj = schemas.EmploymentIngest(**row)
-            db_obj = models.StagingEmployment(**obj.model_dump())
-            valid_rows.append(db_obj)
-            accepted += 1
-        except Exception as e:
-            rejected += 1
-            reasons.append({"row_index": row_idx, "reason": str(e)})
-            
+    for row in records:
+        join_val = row.get('joining_date')
+        join_parsed = pd.to_datetime(join_val).date() if pd.notnull(join_val) and join_val else None
+        
+        db_obj = models.StagingEmployment(
+            candidate_id=str(row.get('candidate_id', '')),
+            employer=str(row.get('employer_name', '')) if row.get('employer_name') else None,
+            job_role=str(row.get('job_role', '')) if row.get('job_role') else None,
+            joining_date=join_parsed,
+            wage_band=str(row.get('salary_band', '')) if row.get('salary_band') else None,
+            status="verified_employed" if row.get('verified_employed') else "pending"
+        )
+        valid_rows.append(db_obj)
+        
     if valid_rows:
         db.add_all(valid_rows)
         db.commit()
         
-    return {
-        "received": received,
-        "accepted": accepted,
-        "rejected": rejected,
-        "reasons": reasons
-    }
-
-@router.post("/job-postings")
-def ingest_job_postings(payload: List[dict], db: Session = Depends(get_db)):
-    received = len(payload)
-    accepted = 0
-    rejected = 0
-    reasons = []
-    
-    valid_rows = []
-    
-    for row_idx, row in enumerate(payload, start=1):
-        try:
-            obj = schemas.JobPostingIngest(**row)
-            db_obj = models.StagingJobPosting(**obj.model_dump())
-            valid_rows.append(db_obj)
-            accepted += 1
-        except Exception as e:
-            rejected += 1
-            reasons.append({"row_index": row_idx, "reason": str(e)})
-            
-    if valid_rows:
-        db.add_all(valid_rows)
-        db.commit()
-        
-    return {
-        "received": received,
-        "accepted": accepted,
-        "rejected": rejected,
-        "reasons": reasons
-    }
+    return trigger_pipeline(db, len(valid_rows))

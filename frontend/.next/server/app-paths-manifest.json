@@ -1,5 +1,6 @@
 {
-  "/dashboard/page": "app/dashboard/page.js",
-  "/page": "app/page.js",
-  "/dashboard/skill/[name]/page": "app/dashboard/skill/[name]/page.js"
+  "/policy/page": "app/policy/page.js",
+  "/review-queue/page": "app/review-queue/page.js",
+  "/data-observatory/page": "app/data-observatory/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
 }
